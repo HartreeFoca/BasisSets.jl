@@ -5,7 +5,7 @@ struct Molecule
     basis::String
 end
 
-function _atoms(file)
+function getatoms(file)
     atoms = []
 
     open(file, "r") do f
@@ -14,16 +14,14 @@ function _atoms(file)
 
         for line in lines
             atom = split(line)
-            push!(atoms, _atom(atom[1]))
+            push!(atoms, getatom(atom[1]))
         end
     end
 
     return atoms
 end
 
-_atoms("/Users/leticiamadureira/Hartree-Foca/McMurchieDavidson.jl/src/basissets/water.xyz")
-
-function _retrievedata(molecule::Molecule)
+function retrievedata(molecule::Molecule)
     api = "https://www.basissetexchange.org/api/basis/"
 
     basis = molecule.basis

@@ -3,10 +3,10 @@ module BasisSets
     using JSON
 
     include("periodictable.jl")
-    export Atom
-    export _atom
-
     include("molecule.jl")
-    export Molecule
-    export _atoms
+
+    export Atom
+    export getatom
+    export getatoms
+    export retrievedata
 end

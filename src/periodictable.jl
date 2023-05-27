@@ -3,7 +3,7 @@ struct Atom
     distribution::Array{String, 1}
 end
 
-function _atom(symbol::String)
+function getatom(symbol)
     periodictable = Dict(
         "H"  => Atom(1,   ["1s"]),
         "He" => Atom(2,   ["1s"]),
