@@ -1,8 +1,12 @@
+struct XYZFile
+    file
+    basis
+end
+
 struct Molecule 
-    file::String
     charge::Int
     multiplicity::Int
-    basis::String
+    atoms::Array{Atom, 1}
 end
 
 function getatoms(file)
@@ -21,13 +25,23 @@ function getatoms(file)
     return atoms
 end
 
-function retrievedata(molecule::Molecule)
+function retrievedata(coordinates::XYZFile)
     api = "https://www.basissetexchange.org/api/basis/"
 
-    basis = molecule.basis
-    atoms = _atoms(molecule.file)
+    basis = coordinates.basis
+    println(basis)
+    atoms = getatoms(coordinates.file)
 
     for atom in atoms
-        url = api * basis * "/format/json?elements=" * atom.number
+        println(atom.number)
+        url = api * basis * "/format/json/?version=1&elements=" * string(atom.number)
+        print(url)
+        response = HTTP.get(url)
+            
+        if response.status == 200
+            data = JSON.parse(String(response.body))
+            print(data)
+            return data
+        end
     end
 end
