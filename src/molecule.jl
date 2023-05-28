@@ -29,19 +29,30 @@ function retrievedata(coordinates::XYZFile)
     api = "https://www.basissetexchange.org/api/basis/"
 
     basis = coordinates.basis
-    println(basis)
     atoms = getatoms(coordinates.file)
 
     for atom in atoms
-        println(atom.number)
         url = api * basis * "/format/json/?version=1&elements=" * string(atom.number)
-        print(url)
         response = HTTP.get(url)
             
         if response.status == 200
             data = JSON.parse(String(response.body))
-            print(data)
+            elements = data["elements"]
+            print(elements[string(atom.number)]["electron_shells"])
             return data
         end
     end
 end
+
+# Assuming the dictionary is stored in the variable `data`
+# elements = data["elements"]
+# oxygen_data = elements["8"]
+# electron_shells = oxygen_data["electron_shells"]
+# 
+# for shell in electron_shells
+#     angular_momentum = shell["angular_momentum"]
+#     exponents = shell["exponents"]
+#     
+#     println("Angular momentum: ", angular_momentum)
+#     println("Exponents: ", exponents)
+# end
