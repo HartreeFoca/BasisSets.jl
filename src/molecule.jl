@@ -39,70 +39,67 @@ function retrievedata(coordinates::XYZFile)
             
         if response.status == 200
             data = JSON.parse(String(response.body))
-            for (element, info) in data["elements"]
-                element = parse(Int, element)
-                orbitals[element] = []
-
-                for shell in info["electron_shells"]
-                    angularmomentum = shell["angular_momentum"]
-                    println(angularmomentum)
-                end
-            end
-            return data
+            orbitals = parse_basis_json(data)
+            return orbitals
         end
     end
 end
 
-# Assuming the dictionary is stored in the variable `data`
-# elements = data["elements"]
-# oxygen_data = elements["8"]
-# electron_shells = oxygen_data["electron_shells"]
-# 
-# for shell in electron_shells
-#     angular_momentum = shell["angular_momentum"]
-#     exponents = shell["exponents"]
-#     
-#     println("Angular momentum: ", angular_momentum)
-#     println("Exponents: ", exponents)
-# end
+function parsebasis(json)
+    basis = Dict()
+    for (atomnumber, atombasis) in json["elements"]
+        atomnumber = parse(Int, atomnumber)
+        basis[atomnumber] = []
 
-#
-#function parse_basis_json(basis_json)
-#    basis = Dict()
-#    for (atom_number, atom_basis) in basis_json["elements"]
-#        atom_number = parse(Int, atom_number)
-#        basis[atom_number] = []
-#        for shell in atom_basis["electron_shells"]
-#            ang_momentum = shell["angular_momentum"]
-#            primitives = [(parse(Float64, exp), parse(Float64, coef)) 
-#                          for (exp, coef) in zip(shell["exponents"], shell["coefficients"][1])]
-#            if length(shell["coefficients"]) == 2
-#                primitives2 = [(parse(Float64, exp), parse(Float64, coef)) 
-#                               for (exp, coef) in zip(shell["exponents"], shell["coefficients"][2])]
-#                push!(basis[atom_number], ('P', primitives2))
-#            end
-#            for ang in ang_momentum
-#                if ang == 0
-#                    ang_label = 'S'
-#                elseif ang == 1
-#                    ang_label = 'P'
-#                elseif ang == 2
-#                    ang_label = 'D'
-#                else
-#                    ang_label = 'F'
-#                end
-#                push!(basis[atom_number], (ang_label, primitives))
-#            end
-#        end
-#    end
-#    return basis
-#end
-#
-## Your JSON data goes here as a string
-#json_string = """your JSON data"""
-#
-#basis_json = JSON.parse(json_string)
-#
-#parsed_basis = parse_basis_json(basis_json)
-#
-#println(parsed_basis)
+        for shell in atombasis["electron_shells"]
+            angmomentum = shell["angular_momentum"]
+            primitives = [(parse(Float64, exp), parse(Float64, coef)) 
+                          for (exp, coef) in zip(shell["exponents"], shell["coefficients"][1])]
+
+            if length(shell["coefficients"]) == 2
+                secprimitives = [(parse(Float64, exp), parse(Float64, coef)) 
+                               for (exp, coef) in zip(shell["exponents"], shell["coefficients"][2])]
+                push!(basis[atomnumber], ('P', secprimitives))
+            end
+
+            for ang in angmomentum
+                if ang == 0
+                    anglabel = 'S'
+                elseif ang == 1
+                    anglabel = 'P'
+                elseif ang == 2
+                    anglabel = 'D'
+                else
+                    anglabel = 'F'
+                end
+                push!(basis[atomnumber], (anglabel, primitives))
+            end
+        end
+    end
+    
+    return basis
+end
+
+function parse_basis_json(basis_json)
+    basis = Dict()
+    for (atom_number, atom_basis) in basis_json["elements"]
+        atom_number = parse(Int, atom_number)
+        basis[atom_number] = []
+        for shell in atom_basis["electron_shells"]
+            ang_momentum = shell["angular_momentum"]
+            primitives = [(parse(Float64, exp), parse(Float64, coef)) 
+                          for (exp, coef) in zip(shell["exponents"], shell["coefficients"][1])]
+            if length(shell["coefficients"]) == 2
+                primitives2 = [(parse(Float64, exp), parse(Float64, coef)) 
+                               for (exp, coef) in zip(shell["exponents"], shell["coefficients"][2])]
+                if 1 in ang_momentum
+                    push!(basis[atom_number], ('P', primitives2))
+                end
+            end
+            if 0 in ang_momentum
+                push!(basis[atom_number], ('S', primitives))
+            end
+        end
+    end
+    return basis
+end

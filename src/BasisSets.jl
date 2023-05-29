@@ -12,5 +12,6 @@ module BasisSets
     export retrievedata
 
     coordinates = XYZFile("/Users/leticiamadureira/BasisSets.jl/src/water.xyz", "sto-3g")
-    retrievedata(coordinates)
+    orbitals = retrievedata(coordinates)
+    print(orbitals)
 end
