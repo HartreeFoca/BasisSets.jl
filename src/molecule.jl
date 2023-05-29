@@ -37,8 +37,8 @@ function retrievedata(coordinates::XYZFile)
             
         if response.status == 200
             data = JSON.parse(String(response.body))
+            println(data)
             elements = data["elements"]
-            print(elements[string(atom.number)]["electron_shells"])
             return data
         end
     end
@@ -56,3 +56,45 @@ end
 #     println("Angular momentum: ", angular_momentum)
 #     println("Exponents: ", exponents)
 # end
+
+using JSON
+
+function parse_basis_json(basis_json)
+    basis = Dict()
+    for (atom_number, atom_basis) in basis_json["elements"]
+        atom_number = parse(Int, atom_number)
+        basis[atom_number] = []
+        for shell in atom_basis["electron_shells"]
+            ang_momentum = shell["angular_momentum"]
+            primitives = [(parse(Float64, exp), parse(Float64, coef)) 
+                          for (exp, coef) in zip(shell["exponents"], shell["coefficients"][1])]
+            if length(shell["coefficients"]) == 2
+                primitives2 = [(parse(Float64, exp), parse(Float64, coef)) 
+                               for (exp, coef) in zip(shell["exponents"], shell["coefficients"][2])]
+                push!(basis[atom_number], ('P', primitives2))
+            end
+            for ang in ang_momentum
+                if ang == 0
+                    ang_label = 'S'
+                elseif ang == 1
+                    ang_label = 'P'
+                elseif ang == 2
+                    ang_label = 'D'
+                else
+                    ang_label = 'F'
+                end
+                push!(basis[atom_number], (ang_label, primitives))
+            end
+        end
+    end
+    return basis
+end
+
+# Your JSON data goes here as a string
+json_string = """your JSON data"""
+
+basis_json = JSON.parse(json_string)
+
+parsed_basis = parse_basis_json(basis_json)
+
+println(parsed_basis)
