@@ -39,6 +39,7 @@ function retrievedata(coordinates::XYZFile)
             
         if response.status == 200
             data = JSON.parse(String(response.body))
+            print(data)
             orbitals = parse_basis_json(data)
             return orbitals
         end
