@@ -31,7 +31,7 @@ function retrievedata(coordinates::XYZFile)
     basis = coordinates.basis
     atoms = getatoms(coordinates.file)
 
-    orbitals = Dict()
+    molecule = []
 
     for atom in atoms
         url = api * basis * "/format/json/?version=0&elements=" * string(atom.number)
@@ -41,9 +41,11 @@ function retrievedata(coordinates::XYZFile)
             data = JSON.parse(String(response.body))
             orbitals = parsebasis(data)
 
-            return orbitals
+            push!(molecule, orbitals)
         end
     end
+
+    return molecule
 end
 
 function parsebasis(json)
