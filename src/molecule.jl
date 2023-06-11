@@ -35,7 +35,6 @@ function retrievedata(coordinates::XYZFile)
 
     for atom in atoms
         url = api * basis * "/format/json/?version=0&elements=" * string(atom.number)
-        println(url)
         response = HTTP.get(url)
             
         if response.status == 200
@@ -56,12 +55,17 @@ function parsebasis(json)
         basis[atomnumber] = []
 
         for shell in atombasis["electron_shells"]
-            angmomentum = shell["angular_momentum"][1]  # assuming it's always a one-element array
-
-            for (_, coefficients) in enumerate(shell["coefficients"])
-                primitives = [(parse(Float64, exp), parse(Float64, coef))
-                              for (exp, coef) in zip(shell["exponents"], coefficients)]
-                push!(basis[atomnumber], (subshells[angmomentum + 1], primitives))
+            angmomentum = shell["angular_momentum"]
+            for (term, momentum) in enumerate(angmomentum)
+                data = []
+                push!(
+                    basis[atomnumber], 
+                    (subshells[momentum + 1], 
+                    data)
+                )
+                for (coefficient, exponent) in zip(shell["coefficients"][term], shell["exponents"])
+                   push!(data, (exponent, coefficient))
+                end
             end
         end
     end

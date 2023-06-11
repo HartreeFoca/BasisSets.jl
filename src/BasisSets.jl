@@ -11,7 +11,6 @@ module BasisSets
     export getatoms
     export retrievedata
 
-    #coordinates = XYZFile("/Users/leticiamadureira/BasisSets.jl/src/water.xyz", "sto-3g")
+    #coordinates = XYZFile("/Users/leticiamadureira/BasisSets.jl/src/water.xyz", "d-aug-cc-pv6z")
     #orbitals = retrievedata(coordinates)
-    #println(orbitals)
 end
