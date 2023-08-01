@@ -3,6 +3,14 @@ struct XYZFile
     basis
 end
 
+struct GaussianBasisSet
+    coefficients::Matrix{Float64}
+    exponents::Matrix{Float64}
+    ℓ::Int
+    m::Int
+    n::Int
+end
+
 struct Molecule 
     charge::Int
     multiplicity::Int
@@ -30,6 +38,7 @@ function retrievedata(coordinates::XYZFile)
 
     basis = coordinates.basis
     atoms = getatoms(coordinates.file)
+    println(atoms)
 
     molecule = []
 
@@ -49,12 +58,15 @@ function retrievedata(coordinates::XYZFile)
 end
 
 function parsebasis(json)
+    println(json["elements"])
     subshells = ['S', 'P', 'D', 'F', 'G', 'H', 'I']
     basis = Dict()
 
     for (atomnumber, atombasis) in json["elements"]
         atomnumber = parse(Int, atomnumber)
         basis[atomnumber] = []
+
+        println(atombasis["electron_shells"])
 
         for shell in atombasis["electron_shells"]
             angmomentum = shell["angular_momentum"]

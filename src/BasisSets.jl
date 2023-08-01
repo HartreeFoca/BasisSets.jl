@@ -13,5 +13,4 @@ module BasisSets
 
     coordinates = XYZFile("/Users/leticiamadureira/BasisSets.jl/test/data/water.xyz", "sto-3g")
     orbitals = retrievedata(coordinates)
-    println(orbitals[1])
 end
