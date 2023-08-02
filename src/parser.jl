@@ -3,6 +3,13 @@ struct CartesianCoordinates
     basis
 end
 
+struct GaussianBasisSet
+    atom
+    basis
+    exponents
+    coefficients
+end
+
 function getatoms(file)
     atoms = []
 
@@ -19,23 +26,13 @@ function getatoms(file)
     return atoms
 end
 
-function retrievedata(moleculefile::CartesianCoordinates)
-    api = "https://www.basissetexchange.org/api/basis/"
-
-    basis = moleculefile.basis
-    atoms = getatoms(moleculefile.file)
-    println(atoms)
-
-    molecule = []
+function retrievedata(coordinates)
+    atoms = getatoms(coordinates.file)
+    orbitals = []
 
     for atom in atoms
-        url = api * basis * "/format/gaussian94/?version=0&elements=" * string(atom.number)
-        response = HTTP.get(url)
-            
-        if response.status == 200
-            println("done")
-        end
+        push!(orbitals, parseatom(atom, coordinates.basis))
     end
 
-    return molecule
+    return orbitals
 end

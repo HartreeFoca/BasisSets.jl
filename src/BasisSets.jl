@@ -1,6 +1,5 @@
 module BasisSets
     using HTTP
-    using JSON
 
     include("periodictable.jl")
     include("parser.jl")
