@@ -135,6 +135,3 @@ function parsebasis(file, basisset)
 
     return basis
 end
-
-sto3gBasis = parsebasis("../test/data/water/water.xyz", "6-21g")
-print(sto3gBasis)
