@@ -1,13 +1,29 @@
+using HTTP
+using JSON3
 struct CartesianCoordinates
     file
     basis
 end
-
 struct GaussianBasisSet
     atom
     basis
     exponents
     coefficients
+end
+
+function _angularmomentum(ℓ::T) where T <: Integer
+    orbitals = Dict(
+        0 => "S",
+        1 => "P",
+        2 => "D",
+        3 => "F",
+        4 => "G",
+        5 => "H",
+        6 => "I",
+        7 => "J"
+    )
+
+    return orbitals[ℓ]
 end
 
 function getatoms(file)
@@ -26,13 +42,10 @@ function getatoms(file)
     return atoms
 end
 
-function retrievedata(coordinates)
-    atoms = getatoms(coordinates.file)
-    orbitals = []
+url = "https://www.basissetexchange.org/api/basis/sto-3g/format/json/?version=1&elements=8"
+response = HTTP.request("GET", url)
 
-    for atom in atoms
-        push!(orbitals, parseatom(atom, coordinates.basis))
-    end
+data = String(response.body)
+data = JSON3.read(data)
 
-    return orbitals
-end
+print(data["elements"])
