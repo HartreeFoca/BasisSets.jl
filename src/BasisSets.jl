@@ -1,5 +1,6 @@
 module BasisSets
     using HTTP
+    using JSON3
 
     include("periodictable.jl")
     include("parser.jl")
@@ -9,5 +10,4 @@ module BasisSets
     export CartesianCoordinates
     export getatoms
     export parsebasis
-
 end

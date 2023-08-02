@@ -1,5 +1,3 @@
-using HTTP
-using JSON3
 struct CartesianCoordinates
     file
     basis
@@ -54,7 +52,7 @@ end
 
 function parsebasis(file, basisset)
     atoms = getatoms(file)
-    basis = Dict()
+    basis = []
 
     for atom in atoms
         data = _getbasis(atom.number, basisset)
@@ -63,19 +61,19 @@ function parsebasis(file, basisset)
         element = Dict()
 
         for shell in data["elements"]["$(atom.number)"]["electron_shells"]
-            println("$(atom.number)")
             for (index, ℓ) in enumerate(shell["angular_momentum"])
-                println("$(ℓ)  $(index)")
                 element[_angularmomentum(ℓ)] = Dict(
                     "exponents" => shell["exponents"],
                     "coefficients" => shell["coefficients"][index]
                 )
             end
-            println(element)
-            push!(gtos, element)
+
+            append!(gtos, element)
         end
-        #println(gtos)
+        append!(basis, gtos)
     end
+
+    return basis
 end
 
-parsebasis("../test/data/water/water.xyz", "sto-3g")
+#parsebasis("../test/data/water/water.xyz", "sto-3g")
