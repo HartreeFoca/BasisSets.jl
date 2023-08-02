@@ -3,14 +3,14 @@ module BasisSets
     using JSON
 
     include("periodictable.jl")
-    include("molecule.jl")
+    include("parser.jl")
 
     export Atom
     export getatom
-    export XYZFile
+    export CartesianCoordinates
     export getatoms
     export retrievedata
 
-    coordinates = CartesianCoordinates("/Users/leticiamadureira/BasisSets.jl/test/data/water.xyz", "sto-3g")
+    coordinates = CartesianCoordinates("/Users/leticiamadureira/BasisSets.jl/test/data/water/water.xyz", "sto-3g")
     orbitals = retrievedata(coordinates)
 end
