@@ -42,10 +42,40 @@ function getatoms(file)
     return atoms
 end
 
-url = "https://www.basissetexchange.org/api/basis/sto-3g/format/json/?version=1&elements=8"
-response = HTTP.request("GET", url)
+function _getbasis(element, basis)
+    url = "https://www.basissetexchange.org/api/basis/" * basis * "/format/json/?version=1&elements=" * "$(element)"
+    response = HTTP.request("GET", url)
 
-data = String(response.body)
-data = JSON3.read(data)
+    data = String(response.body)
+    data = JSON3.read(data)
 
-print(data["elements"])
+    return data
+end
+
+function parsebasis(file, basisset)
+    atoms = getatoms(file)
+    basis = Dict()
+
+    for atom in atoms
+        data = _getbasis(atom.number, basisset)
+        gtos = []
+
+        element = Dict()
+
+        for shell in data["elements"]["$(atom.number)"]["electron_shells"]
+            println("$(atom.number)")
+            for (index, ℓ) in enumerate(shell["angular_momentum"])
+                println("$(ℓ)  $(index)")
+                element[_angularmomentum(ℓ)] = Dict(
+                    "exponents" => shell["exponents"],
+                    "coefficients" => shell["coefficients"][index]
+                )
+            end
+            println(element)
+            push!(gtos, element)
+        end
+        #println(gtos)
+    end
+end
+
+parsebasis("../test/data/water/water.xyz", "sto-3g")
