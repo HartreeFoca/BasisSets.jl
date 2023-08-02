@@ -1,6 +1,6 @@
 using BasisSets
 using Test
 
-@testset "QuantumFoca.jl" begin
+@testset "BasisSets.jl" begin
     include("basis.jl")
 end
