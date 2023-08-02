@@ -95,6 +95,3 @@ function parsebasis(file, basisset)
 
     return basis
 end
-
-#basis = parsebasis("../test/data/water/water.xyz", "sto-3g")
-#println(basis)
