@@ -94,7 +94,11 @@ We give the file as an input:
 And you will get:
 ```julia
 Main.BasisSets.GaussianBasisSet[
-    Main.BasisSets.GaussianBasisSet([5472.27 817.806 186.446 53.023 17.18 5.91196], [0.00183216881 0.01410469084 0.06862615542 0.229375851 0.466398697 0.3641727634], 0, 0, 0), 
+    Main.BasisSets.GaussianBasisSet(
+        [5472.27 817.806 186.446 53.023 17.18 5.91196], 
+        [0.00183216881 0.01410469084 0.06862615542 0.229375851 0.466398697 0.3641727634], 
+        0, 0, 0
+    ), 
     Main.BasisSets.GaussianBasisSet([7.40294 1.5762], [-0.4044535832 1.221561761], 0, 0, 0), 
     Main.BasisSets.GaussianBasisSet([7.40294 1.5762], [0.244586107 0.8539553735], 1, 0, 0), 
     Main.BasisSets.GaussianBasisSet([7.40294 1.5762], [0.244586107 0.8539553735], 0, 1, 0), 
