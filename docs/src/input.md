@@ -1,0 +1,3 @@
+```@docs
+parsebasis(file, basisset)
+```
