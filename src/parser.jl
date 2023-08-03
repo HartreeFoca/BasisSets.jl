@@ -108,6 +108,7 @@ Main.BasisSets.GaussianBasisSet[
     Main.BasisSets.GaussianBasisSet([5.447178 0.82454724], [0.1562849787 0.9046908767], 0, 0, 0), 
     Main.BasisSets.GaussianBasisSet([0.18319158;;], [1.0;;], 0, 0, 0)
 ]
+```
 """
 function parsebasis(file, basisset)
     atoms = getatoms(file)
