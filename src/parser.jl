@@ -56,10 +56,9 @@ function getatoms(file)
     open(file, "r") do f
         lines = readlines(f)
         deleteat!(lines, 1:2)
-
+        
         for line in lines
             atom = split(line)
-            println(atom[:, 2])
             push!(atoms, getatom(atom[1]))
         end
     end
