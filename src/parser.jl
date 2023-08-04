@@ -1,15 +1,23 @@
 abstract type AbstractBasisSet end
 
+abstract type AbstractMolecule end
 struct CartesianCoordinates
     file
     basis
 end
+
+struct Molecule <: AbstractMolecule
+    atoms::Vector{Atom}
+    coords::Matrix{Float64}
+end
+
 struct GaussianBasisSet <: AbstractBasisSet
-    exponents
-    coefficients
-    ℓ
-    m
-    n
+    R::Vector{Float64}
+    α::Vector{Float64}
+    d::Vector{Float64}
+    ℓ::Int64
+    m::Int64
+    n::Int64
 end
 
 function _angularmomentum(ℓ::T) where T <: Integer
@@ -51,6 +59,7 @@ function getatoms(file)
 
         for line in lines
             atom = split(line)
+            println(atom[2])
             push!(atoms, getatom(atom[1]))
         end
     end
