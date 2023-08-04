@@ -143,15 +143,15 @@ function getatoms(file)
         lines = readlines(f)
         molecule = lines[3:end]
 
-        n = parse(Int64, lines[1])
+        n = length(molecule)
         coords = zeros(n, 3)
 
-        for (index, line) in enumerate(molecule)
-            atom = split(line)
-
-            coords[index, 1] = parse(Float64, atom[2])
-            coords[index, 2] = parse(Float64, atom[3])
-            coords[index, 3] = parse(Float64, atom[4])
+        for index in eachindex(molecule)
+            atom = split(molecule[index])
+            
+            for axis in 1:n
+                coords[index, axis] = parse(Float64, atom[axis + 1])
+            end
 
             push!(atoms, getatom(atom[1]))
         end
