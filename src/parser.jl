@@ -59,8 +59,8 @@ function getatoms(file)
 
         for line in lines
             atom = split(line)
-            println(atom[2])
-            push!(atoms, getatom(atom[:, 1]))
+            println(atom[:, 2])
+            push!(atoms, getatom(atom[1]))
         end
     end
 
