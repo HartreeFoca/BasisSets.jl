@@ -7,7 +7,6 @@ module BasisSets
 
     export Atom
     export getatom
-    export CartesianCoordinates
     export getatoms
     export parsebasis
 end

@@ -1,16 +1,12 @@
 abstract type AbstractBasisSet end
-struct CartesianCoordinates
-    file
-    basis
-end
 
 struct GaussianBasisSet <: AbstractBasisSet
     coords
     exponents::Matrix{Float64}
     coefficients::Matrix{Float64}
-    nx::Int
-    ny::Int
-    nz::Int
+    ℓ::Int
+    m::Int
+    n::Int
 end
 
 function _angularmomentum(ℓ::T) where T <: Integer
