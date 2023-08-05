@@ -158,7 +158,6 @@ function getatoms(file)
 
             push!(atoms, Atom(atom[1], atomicnumber, coords[index:index, :]))
         end
-        print(coords)
     end
 
     return atoms

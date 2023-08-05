@@ -1,23 +1,16 @@
 abstract type AbstractBasisSet end
-
-abstract type AbstractMolecule end
 struct CartesianCoordinates
     file
     basis
 end
 
-struct Molecule <: AbstractMolecule
-    atoms::Vector{Atom}
-    coords::Matrix{Float64}
-end
-
 struct GaussianBasisSet <: AbstractBasisSet
-    R::Vector{Float64}
-    α::Vector{Float64}
-    d::Vector{Float64}
-    ℓ::Int64
-    m::Int64
-    n::Int64
+    coords
+    exponents::Matrix{Float64}
+    coefficients::Matrix{Float64}
+    nx::Int
+    ny::Int
+    nz::Int
 end
 
 function _angularmomentum(ℓ::T) where T <: Integer
@@ -55,11 +48,21 @@ function getatoms(file)
 
     open(file, "r") do f
         lines = readlines(f)
-        deleteat!(lines, 1:2)
-        
-        for line in lines
-            atom = split(line)
-            push!(atoms, getatom(atom[1]))
+        molecule = lines[3:end]
+
+        n = length(molecule)
+        coords = zeros(n, 3)
+
+        for index in eachindex(molecule)
+            atom = split(molecule[index])
+
+            atomicnumber = getatom(atom[1])
+
+            coords[index, 1] = parse(Float64, atom[2])
+            coords[index, 2] = parse(Float64, atom[3])
+            coords[index, 3] = parse(Float64, atom[4])
+
+            push!(atoms, Atom(atom[1], atomicnumber, coords[index:index, :]))
         end
     end
 
@@ -134,6 +137,7 @@ function parsebasis(file, basisset)
                 for momentum in _angularmomentum(ℓ)
                     push!(basis,
                         GaussianBasisSet(
+                            atom.coords,
                             hcat(parse.(Float64, shell["exponents"])...),
                             hcat(parse.(Float64, shell["coefficients"][index])...),
                             momentum[1],
