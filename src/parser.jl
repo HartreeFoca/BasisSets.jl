@@ -1,9 +1,9 @@
 abstract type AbstractBasisSet end
 
 struct GaussianBasisSet <: AbstractBasisSet
-    coords
-    exponents::Matrix{Float64}
-    coefficients::Matrix{Float64}
+    R
+    α::Matrix{Float64}
+    d::Matrix{Float64}
     ℓ::Int
     m::Int
     n::Int
