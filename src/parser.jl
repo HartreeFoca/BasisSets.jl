@@ -124,8 +124,8 @@ Main.BasisSets.GaussianBasisSet[
 ]
 ```
 """
-function parsebasis(file, basisset)
-    atoms = getatoms(file)
+function parsebasis(molecule, basisset)
+    atoms = getatoms(molecule)
     data = _getbasis(atoms, basisset)
 
     basis = GaussianBasisSet[]
