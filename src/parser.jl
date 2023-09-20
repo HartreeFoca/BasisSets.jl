@@ -63,8 +63,6 @@ function getatoms(file)
             coords[index, 2] = parse(Float64, atom[3])
             coords[index, 3] = parse(Float64, atom[4])
 
-            println(coords)
-
             push!(atoms, Atom(atom[1], atomicnumber, coords[index:index, :]))
         end
     end
