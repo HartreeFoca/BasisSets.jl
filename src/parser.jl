@@ -39,6 +39,9 @@ function _angularmomentum(ℓ::T) where T <: Integer
     return orbitals[ℓ]
 end
 
+"""
+This function takes a `Molecule` type and convert into a list of `Atom` type.
+"""
 function getatoms(file)
     atoms = []
 
@@ -49,6 +52,8 @@ function getatoms(file)
         n = length(molecule)
         coords = zeros(n, 3)
 
+        println(molecule)
+
         for index in eachindex(molecule)
             atom = split(molecule[index])
 
@@ -57,6 +62,8 @@ function getatoms(file)
             coords[index, 1] = parse(Float64, atom[2])
             coords[index, 2] = parse(Float64, atom[3])
             coords[index, 3] = parse(Float64, atom[4])
+
+            println(coords)
 
             push!(atoms, Atom(atom[1], atomicnumber, coords[index:index, :]))
         end
