@@ -1,7 +1,7 @@
 abstract type AbstractBasisSet end
 
 struct GaussianBasisSet <: AbstractBasisSet
-    R::SMatrix{1, 3, Float64}
+    R::Matrix{Float64}
     α::Matrix{Float64}
     d::Matrix{Float64}
     N::Matrix{Float64}
