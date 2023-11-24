@@ -73,7 +73,7 @@ function _getbasis(atoms, basis)
     atomicnumbers = [atom.number for atom in atoms]
     elements = join(atomicnumbers, ",")
 
-    url = "https://www.basissetexchange.org/api/basis/" * basis * "/format/json/?version=1&elements=" * "$(elements)"
+    url = "https://www.basissetexchange.org/api/basis/" * basis * "/format/json/?version=0&elements=" * "$(elements)"
     response = HTTP.request("GET", url)
 
     data = String(response.body)
