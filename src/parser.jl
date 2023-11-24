@@ -7,6 +7,7 @@ struct GaussianBasisSet <: AbstractBasisSet
     ℓ::Int
     m::Int
     n::Int
+    N::Matrix{Float64}
 end
 
 function _angularmomentum(ℓ::T) where T <: Integer
@@ -81,6 +82,22 @@ function _getbasis(atoms, basis)
     return data
 end
 
+function doublefactorial(number)
+    fact = foldl(Base.:*, range(number, 1, step=-2))
+
+    return fact
+end
+
+function normalization(α, ℓ, m, n)
+    N = (4 * α)^(ℓ + m + n)
+    N /=
+        doublefactorial(2 * ℓ - 1) * doublefactorial(2 * m - 1) * doublefactorial(2 * n - 1)
+    N *= ((2 * α) / π)^(3 / 2)
+    N = sqrt(N)
+
+    return N
+end
+
 """
 The ```parsebasis``` method takes an XYZ file and returns a list of ```GaussianBasisSet``` objects. 
 The XYZ file is a simple text file that contains the number of atoms in the first line, 
@@ -141,7 +158,8 @@ function parsebasis(molecule, basisset)
                             hcat(parse.(Float64, shell["coefficients"][index])...),
                             momentum[1],
                             momentum[2],
-                            momentum[3]
+                            momentum[3],
+                            normalization.(hcat(parse.(Float64, shell["exponents"])...), momentum[1], momentum[2], momentum[3])
                         )
                     )
                 end
