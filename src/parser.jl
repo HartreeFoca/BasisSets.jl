@@ -4,10 +4,10 @@ struct GaussianBasisSet <: AbstractBasisSet
     R::Matrix{Float64}
     α::Matrix{Float64}
     d::Matrix{Float64}
+    N::Matrix{Float64}
     ℓ::Int
     m::Int
     n::Int
-    N::Matrix{Float64}
 end
 
 function _angularmomentum(ℓ::T) where T <: Integer
@@ -151,15 +151,20 @@ function parsebasis(molecule, basisset)
         for shell in data["elements"]["$(atom.number)"]["electron_shells"]
             for (index, ℓ) in enumerate(shell["angular_momentum"])
                 for momentum in _angularmomentum(ℓ)
+                    α = hcat(parse.(Float64, shell["exponents"])...)
+                    d = hcat(parse.(Float64, shell["coefficients"][index])...)
+                    ℓ = momentum[1]
+                    m = momentum[2]
+                    n = momentum[3]
                     push!(basis,
-                        GaussianBasisSet(
+                    GaussianBasisSet(
                             atom.coords,
-                            hcat(parse.(Float64, shell["exponents"])...),
-                            hcat(parse.(Float64, shell["coefficients"][index])...),
-                            momentum[1],
-                            momentum[2],
-                            momentum[3],
-                            normalization.(hcat(parse.(Float64, shell["exponents"])...), momentum[1], momentum[2], momentum[3])
+                            α,
+                            d,
+                            normalization.(α, momentum[1], momentum[2], momentum[3]),
+                            ℓ,
+                            m,
+                            n
                         )
                     )
                 end
