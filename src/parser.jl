@@ -5,6 +5,7 @@ struct GaussianBasisSet <: AbstractBasisSet
     α::Matrix{Float64}
     d::Matrix{Float64}
     N::Matrix{Float64}
+    size::Int
     ℓ::Int
     m::Int
     n::Int
@@ -161,7 +162,8 @@ function parsebasis(molecule, basisset)
                             atom.coords,
                             α,
                             d,
-                            normalization.(α, momentum[1], momentum[2], momentum[3]),
+                            normalization.(α, ℓ, m, n),
+                            length(α),
                             ℓ,
                             m,
                             n
