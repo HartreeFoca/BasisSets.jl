@@ -15,5 +15,6 @@ makedocs(
 deploydocs(;
     repo="github.com/HartreeFoca/BasisSets.jl.git",
     devbranch="main",
-    branch="main"
+    branch="main",
+    deploy_config = auto_detect_deploy_system()
 )
