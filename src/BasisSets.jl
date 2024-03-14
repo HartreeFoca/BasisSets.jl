@@ -13,5 +13,7 @@ module BasisSets
     export Molecule
     export molecule
     export getatoms
+    export doublefactorial
+    export normalization
     export parsebasis
 end
