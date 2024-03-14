@@ -1,7 +1,7 @@
-push!(LOAD_PATH, "../src/")
-
 using BasisSets
 using Documenter
+
+push!(LOAD_PATH, "../src/")
 
 makedocs(
     sitename = "BasisSets.jl",
@@ -12,4 +12,8 @@ makedocs(
     ],
 )
 
-deploydocs(; repo = "github.com/HartreeFoca/BasisSets.jl.git")
+deploydocs(;
+    repo="github.com/HartreeFoca/BasisSets.jl.git",
+    devbranch="main",
+    branch="main"
+)
