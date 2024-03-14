@@ -1,7 +1,7 @@
 name = "BasisSets"
 uuid = "086cb5bb-2461-57d8-8068-0aed7f5b5cf6"
 authors = ["Leticia-maria <leticiam@andrew.cmu.edu> and contributors"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
@@ -12,7 +12,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 [compat]
 HTTP = "^1.8"
 JSON3 = "^1.7"
-julia = "^1.6.7"
+julia = "^1.7"
 
 [extras]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"

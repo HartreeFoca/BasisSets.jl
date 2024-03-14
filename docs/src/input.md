@@ -1,3 +1,3 @@
 ```@docs
-parsebasis
+parsebasis(molecule, basis)
 ```
