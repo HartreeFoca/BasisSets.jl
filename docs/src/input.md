@@ -1,3 +1,3 @@
 ```@docs
-parsebasis(file, basisset)
+parsebasis
 ```
