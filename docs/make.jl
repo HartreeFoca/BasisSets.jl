@@ -20,8 +20,6 @@ repo = "HartreeFoca/BasisSets.jl"
 withenv("GITHUB_REPOSITORY" => repo) do
     deploydocs(
         repo = repo,
-        target = "build",
-        push_preview = true,
-        forcepush = true,
+        target = "build"
     )
 end
