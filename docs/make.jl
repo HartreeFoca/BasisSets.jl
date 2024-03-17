@@ -16,7 +16,7 @@ makedocs(
     ],
 )
 
-repo = "github.com/HartreeFoca/BasisSets.git"
+repo = "HartreeFoca/BasisSets.jl"
 withenv("GITHUB_REPOSITORY" => repo) do
     deploydocs(
         repo = repo,
