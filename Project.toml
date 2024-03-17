@@ -14,6 +14,9 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 HTTP = "^1.8"
 JSON3 = "^1.7"
 julia = "^1.7"
+LinearAlgebra = "^1.5"
+StaticArrays = "^1.5"
+Documenter = "^1.2"
 
 [extras]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
