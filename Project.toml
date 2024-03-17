@@ -1,7 +1,7 @@
 name = "BasisSets"
 uuid = "086cb5bb-2461-57d8-8068-0aed7f5b5cf6"
 authors = ["Leticia-maria <leticiam@andrew.cmu.edu> and contributors"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
