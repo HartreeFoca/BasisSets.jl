@@ -1,19 +1,27 @@
-using BasisSets
-using Documenter
+using Documenter, BasisSets
 
 push!(LOAD_PATH, "../src/")
 
 makedocs(
-    sitename = "BasisSets.jl",
-    modules = [BasisSets],
+    modules  = [BasisSets],
+    sitename = "BasisSets",
+    warnonly = true,
+    format   = Documenter.HTML(
+        size_threshold = nothing,
+        prettyurls = get(ENV, "CI", nothing) == "true",
+        collapselevel = 1,
+    ),
     pages = [
-        "Home" => "index.md",
-        "API" => ["Input" => "input.md"],
+        "Introduction to BasisSets" => "index.md",
     ],
 )
 
-deploydocs(;
-    repo="github.com/HartreeFoca/BasisSets.jl.git",
-    devbranch="main",
-    branch="main"
-)
+repo = "github.com/HartreeFoca/BasisSets.git"
+withenv("GITHUB_REPOSITORY" => repo) do
+    deploydocs(
+        repo = repo,
+        target = "build",
+        push_preview = true,
+        forcepush = true,
+    )
+end
