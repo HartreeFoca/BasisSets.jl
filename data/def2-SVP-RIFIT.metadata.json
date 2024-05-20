@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "def2-SVP-RIFIT"
+  ],
+  "tags": [],
+  "family": "ahlrichs_fit",
+  "description": "def2-SVP-RIFIT",
+  "role": "rifit",
+  "auxiliaries": {}
+}

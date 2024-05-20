@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "jorge-TZP"
+  ],
+  "tags": [],
+  "family": "jorge",
+  "description": "TZP: Triple zeta valence quality plus polarization",
+  "role": "orbital",
+  "auxiliaries": {}
+}

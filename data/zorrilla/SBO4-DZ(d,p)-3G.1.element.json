@@ -1,0 +1,190 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "SBO4-DZ(d,p)-3G",
+  "description": "SBO4-DZ(d,p)-3G Double-zeta expansion of simplified box orbitals",
+  "elements": {
+    "1": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "31": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "32": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "33": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "34": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    },
+    "36": {
+      "components": [
+        "zorrilla/SBO4-DZ(d,p)-3G.1.json"
+      ]
+    }
+  }
+}

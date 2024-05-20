@@ -1,0 +1,24 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from ccRepo/Grant Hill",
+  "revision_date": "2018-10-03",
+  "elements": {
+    "1": "dunning/aug-cc-pV6Z.1.element.json",
+    "2": "dunning/aug-cc-pV6Z.1.element.json",
+    "5": "dunning/aug-cc-pV6Z.1.element.json",
+    "6": "dunning/aug-cc-pV6Z.1.element.json",
+    "7": "dunning/aug-cc-pV6Z.1.element.json",
+    "8": "dunning/aug-cc-pV6Z.1.element.json",
+    "9": "dunning/aug-cc-pV6Z.1.element.json",
+    "10": "dunning/aug-cc-pV6Z.1.element.json",
+    "13": "dunning/aug-cc-pV6Z.1.element.json",
+    "14": "dunning/aug-cc-pV6Z.1.element.json",
+    "15": "dunning/aug-cc-pV6Z.1.element.json",
+    "16": "dunning/aug-cc-pV6Z.1.element.json",
+    "17": "dunning/aug-cc-pV6Z.1.element.json",
+    "18": "dunning/aug-cc-pV6Z.1.element.json"
+  }
+}

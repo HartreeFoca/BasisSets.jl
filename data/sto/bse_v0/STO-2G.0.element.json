@@ -1,0 +1,115 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "STO-2G",
+  "description": "STO-2G Minimal Basis (2 functions/AO)",
+  "elements": {
+    "1": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    },
+    "38": {
+      "components": [
+        "sto/bse_v0/STO-2G.0.json"
+      ]
+    }
+  }
+}

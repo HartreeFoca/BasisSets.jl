@@ -1,0 +1,15 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "SBO4-DZ(d,p)-3G",
+    "SBO4-DZ(d)-3G"
+  ],
+  "tags": [],
+  "family": "zorrilla",
+  "description": "SBO4-DZ(d,p)-3G Double-zeta expansion of simplified box orbitals",
+  "role": "orbital",
+  "auxiliaries": {}
+}

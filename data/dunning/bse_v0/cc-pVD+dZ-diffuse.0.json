@@ -1,0 +1,322 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "1D Diffuse Functions",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "13": {
+      "references": [
+        "dunning2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.02310"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.01530"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto_spherical",
+          "region": "diffuse",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.0552"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "14": {
+      "references": [
+        "dunning2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.03320"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.02500"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto_spherical",
+          "region": "diffuse",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.0840"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "dunning2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.04170"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.03430"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto_spherical",
+          "region": "diffuse",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.116"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "dunning2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.05070"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.03990"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto_spherical",
+          "region": "diffuse",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.155"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "dunning2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.06080"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.04660"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto_spherical",
+          "region": "diffuse",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.198"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "18": {
+      "references": [
+        "dunning2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.07090"
+          ],
+          "coefficients": [
+            [
+              "1.0000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "diffuse",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.05330"
+          ],
+          "coefficients": [
+            [
+              "1.0000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto_spherical",
+          "region": "diffuse",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.238"
+          ],
+          "coefficients": [
+            [
+              "1.0000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

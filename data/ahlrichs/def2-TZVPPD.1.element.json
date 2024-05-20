@@ -1,0 +1,231 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-TZVPD",
+  "description": "def2-TZVPD",
+  "elements": {
+    "1": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    },
+    "55": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPPD-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "57": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "72": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "73": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "74": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "75": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "76": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "77": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "78": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "79": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "80": {
+      "components": [
+        "ahlrichs/TZV/def2-TZVP-base.1.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    }
+  }
+}

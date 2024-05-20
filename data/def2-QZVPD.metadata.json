@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "def2-QZVPD"
+  ],
+  "tags": [],
+  "family": "ahlrichs",
+  "description": "def2-QZVPD",
+  "role": "orbital",
+  "auxiliaries": {}
+}

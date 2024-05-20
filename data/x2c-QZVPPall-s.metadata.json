@@ -1,0 +1,16 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "x2c-QZVPPall-s"
+  ],
+  "tags": [],
+  "family": "ahlrichs_x2c",
+  "description": "All-electron relativistic doubly polarized quadruple-zeta basis for one-component calculations of NMR shielding",
+  "role": "orbital",
+  "auxiliaries": {
+    "jfit": "x2c-jfit"
+  }
+}

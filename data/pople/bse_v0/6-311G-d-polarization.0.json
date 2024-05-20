@@ -1,0 +1,384 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "1P Polarization functions associated with 6-311G",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "3": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.200"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "4": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.255"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "5": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.401"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "6": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.626"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "7": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.913"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "8": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.292"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "9": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.750"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "10": {
+      "references": [
+        "krishnan1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "2.304"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "19": {
+      "references": [
+        "blaudeau1997a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.229000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "20": {
+      "references": [
+        "blaudeau1997a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.260000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "31": {
+      "references": [
+        "curtiss1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.169000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "32": {
+      "references": [
+        "curtiss1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.228000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "33": {
+      "references": [
+        "curtiss1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.264000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "34": {
+      "references": [
+        "curtiss1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.305000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "35": {
+      "references": [
+        "curtiss1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.451000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "36": {
+      "references": [
+        "curtiss1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.395000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "53": {
+      "references": [
+        "glukhovstev1995a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.302000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

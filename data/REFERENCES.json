@@ -1,0 +1,5479 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "references",
+    "schema_version": "0.1"
+  },
+  "aggelund2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "Aggelund, Patrick A.",
+      "Sauer, Stephan P. A.",
+      "Jensen, Frank"
+    ],
+    "title": "Development of polarization consistent basis sets for spin-spin coupling constant calculations for the atoms Li, Be, Na, and Mg",
+    "journal": "J. Chem. Phys.",
+    "volume": "149",
+    "pages": "044117",
+    "year": "2018",
+    "doi": "10.1063/1.5034109"
+  },
+  "almlof1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "Almlöf, Jan",
+      "Taylor, Peter R."
+    ],
+    "title": "General contraction of Gaussian basis sets. I. Atomic natural orbitals for first- and second-row atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "86",
+    "pages": "4070-4077",
+    "year": "1987",
+    "doi": "10.1063/1.451917"
+  },
+  "ambroise2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ambroise, Maximilien A.",
+      "Jensen, Frank"
+    ],
+    "title": "Probing Basis Set Requirements for Calculating Core Ionization and Core Excitation Spectroscopy by the Δ Self-Consistent-Field Approach",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "15",
+    "pages": "325-337",
+    "year": "2019",
+    "doi": "10.1021/acs.jctc.8b01071"
+  },
+  "ambroise2021a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ambroise, Maximilien A.",
+      "Dreuw, Andreas",
+      "Jensen, Frank"
+    ],
+    "title": "Probing Basis Set Requirements for Calculating Core Ionization and Core Excitation Spectra Using Correlated Wave Function Methods",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "null",
+    "pages": "null",
+    "year": "2021",
+    "doi": "10.1021/acs.jctc.1c00042"
+  },
+  "amerigo1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pou-Amérigo, Rosendo",
+      "Merchán, Manuela",
+      "Nebot-Gil, Ignacio",
+      "Widmark, Per-Olof",
+      "Roos, Björn O."
+    ],
+    "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions. III. First row transition metal atoms",
+    "journal": "Theor. Chim. Acta",
+    "volume": "92",
+    "pages": "149",
+    "year": "1995",
+    "doi": "10.1007/s002140050119"
+  },
+  "amin2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Amin, Elizabeth A.",
+      "Truhlar, Donald G."
+    ],
+    "title": "Zn Coordination Chemistry: Development of Benchmark Suites for Geometries, Dipole Moments, and Bond Dissociation Energies and Their Use To Test and Validate Density Functionals and Molecular Orbital Theory",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "4",
+    "pages": "75-85",
+    "year": "2008",
+    "doi": "10.1021/ct700205n"
+  },
+  "andrae1989a": {
+    "_entry_type": "phdthesis",
+    "type": "Diplomarbeit",
+    "authors": [
+      "Andrae, Dirk"
+    ],
+    "title": "<unknown title>",
+    "school": "<unknown school>",
+    "year": "1989",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "andrae1990a": {
+    "_entry_type": "article",
+    "authors": [
+      "Andrae, D.",
+      "Häußermann, U.",
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuß, H."
+    ],
+    "title": "Energy-adjustedab initio pseudopotentials for the second and third row transition elements",
+    "journal": "Theor. Chim. Acta",
+    "volume": "77",
+    "pages": "123-141",
+    "year": "1990",
+    "doi": "10.1007/bf01114537"
+  },
+  "andraeXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Andrae, D."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "andzelm1984a": {
+    "_entry_type": "incollection",
+    "authors": [
+      "Andzelm, Jan",
+      "Huzinaga, Sigeru",
+      "Klobukowski, Mariusz",
+      "Radzio-Andzelm, Elżbieta",
+      "Sakai, Yoshiko",
+      "Tatewaki, Hiroshi"
+    ],
+    "title": "Gaussian Basis Sets",
+    "booktitle": "Gaussian Basis Sets for Molecular Calculations",
+    "series": "Physical Sciences Data",
+    "editors": [
+      "S. Huzinaga"
+    ],
+    "volume": "16",
+    "pages": "27-426",
+    "year": "1984",
+    "publisher": "Elsevier",
+    "isbn": "978-0-444-42254-5",
+    "doi": "10.1016/B978-0-444-42254-5.50008-0"
+  },
+  "aravena2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Aravena, Daniel",
+      "Neese, Frank",
+      "Pantazis, Dimitrios A."
+    ],
+    "title": "Improved Segmented All-Electron Relativistically Contracted Basis Sets for the Lanthanides",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "12",
+    "pages": "1148-1156",
+    "year": "2016",
+    "doi": "10.1021/acs.jctc.5b01048"
+  },
+  "balabanov2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Balabanov, Nikolai B.",
+      "Peterson, Kirk A."
+    ],
+    "title": "Systematically convergent basis sets for transition metals. I. All-electron correlation consistent basis sets for the 3d elements Sc-Zn",
+    "journal": "J. Chem. Phys.",
+    "volume": "123",
+    "pages": "064107",
+    "year": "2005",
+    "doi": "10.1063/1.1998907"
+  },
+  "balabanov2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Balabanov, Nikolai B.",
+      "Peterson, Kirk A."
+    ],
+    "title": "Basis set limit electronic excitation energies, ionization potentials, and electron affinities for the 3d transition metal atoms: Coupled cluster and multireference methods",
+    "journal": "J. Chem. Phys.",
+    "volume": "125",
+    "pages": "074110",
+    "year": "2006",
+    "doi": "10.1063/1.2335444"
+  },
+  "baranowska2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Baranowska-Łączkowska, Angelika",
+      "Łączkowski, Krzysztof Z."
+    ],
+    "title": "The ORP basis set designed for optical rotation calculations",
+    "journal": "J. Comput. Chem.",
+    "volume": "34",
+    "pages": "2006-2013",
+    "year": "2013",
+    "doi": "10.1002/jcc.23347"
+  },
+  "barbieri2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Barbieri, P. L.",
+      "Fantin, P. A.",
+      "Jorge, F. E."
+    ],
+    "title": "Gaussian basis sets of triple and quadruple zeta valence quality for correlated wave functions",
+    "journal": "Mol. Phys.",
+    "volume": "104",
+    "pages": "2945-2954",
+    "year": "2006",
+    "doi": "10.1080/00268970600899018"
+  },
+  "barone2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Barone, Verónica",
+      "Provasi, Patricio F.",
+      "Peralta, Juan E.",
+      "Snyder, James P.",
+      "Sauer, Stephan P. A.",
+      "Contreras, Rubén H."
+    ],
+    "title": "Substituent Effects on Scalar2J(19F,19F) and3J(19F,19F) NMR Couplings: A Comparison of SOPPA and DFT Methods",
+    "journal": "J. Phys. Chem. A",
+    "volume": "107",
+    "pages": "4748-4754",
+    "year": "2003",
+    "doi": "10.1021/jp0300851"
+  },
+  "barros2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Barros, C. L.",
+      "de Oliveira, P. J. P.",
+      "Jorge, F. E.",
+      "Neto, A. Canal",
+      "Campos, M."
+    ],
+    "title": "Gaussian basis set of double zeta quality for atoms Rb through Xe: application in non-relativistic and relativistic calculations of atomic and molecular properties",
+    "journal": "Mol. Phys.",
+    "volume": "108",
+    "pages": "1965-1972",
+    "year": "2010",
+    "doi": "10.1080/00268976.2010.499377"
+  },
+  "bauschlicher1989a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bauschlicher, Charles W.",
+      "Langhoff, Stephen R.",
+      "Partridge, Harry",
+      "Barnes, Leslie A."
+    ],
+    "title": "Theoretical studies of the first- and second-row transition-metal methyls and their positive ions",
+    "journal": "J. Chem. Phys.",
+    "volume": "91",
+    "pages": "2399-2411",
+    "year": "1989",
+    "doi": "10.1063/1.456998"
+  },
+  "bauschlicher1990a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bauschlicher, Charles W.",
+      "Langhoff, Stephen R.",
+      "Komornicki, Andrew"
+    ],
+    "title": "The calculation of the dipole moments of NiH, TiO, and FeO",
+    "journal": "Theor. Chim. Acta",
+    "volume": "77",
+    "pages": "263-279",
+    "year": "1990",
+    "doi": "10.1007/bf01116550"
+  },
+  "bauschlicher1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bauschlicher, Charles W.",
+      "Partridge, Harry"
+    ],
+    "title": "How large is the effect of 1s correlation on the De, ωe, and re of N2?",
+    "journal": "J. Chem. Phys.",
+    "volume": "100",
+    "pages": "4329-4335",
+    "year": "1994",
+    "doi": "10.1063/1.466315"
+  },
+  "bauschlicher1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bauschlicher, Charles W."
+    ],
+    "title": "Large atomic natural orbital basis sets for the first transition row atoms",
+    "journal": "Theor. Chim. Acta",
+    "volume": "92",
+    "pages": "183",
+    "year": "1995",
+    "doi": "10.1007/s002140050120"
+  },
+  "bauschlicher1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bauschlicher, Jr, Charles W."
+    ],
+    "title": "TiCl, TiH, and TiH + bond energies: a test of a correlation-consistent Ti basis set",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "103",
+    "pages": "141-145",
+    "year": "1999",
+    "doi": "10.1007/s002140050524"
+  },
+  "benedikt2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Benedikt, Udo",
+      "Auer, Alexander A.",
+      "Jensen, Frank"
+    ],
+    "title": "Optimization of augmentation functions for correlated calculations of spin-spin coupling constants and related properties",
+    "journal": "J. Chem. Phys.",
+    "volume": "129",
+    "pages": "064111",
+    "year": "2008",
+    "doi": "10.1063/1.2962973"
+  },
+  "bergner1990a": {
+    "_entry_type": "techreport",
+    "type": "Arbeitsbericht",
+    "authors": [
+      "Bergner, Andreas"
+    ],
+    "title": "<unknown title>",
+    "institution": "<unknown institution>",
+    "year": "1990",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "bergner1990b": {
+    "_entry_type": "misc",
+    "authors": [
+      "Bergner, A."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "bergner1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bergner, Andreas",
+      "Dolg, Michael",
+      "Küchle, Wolfgang",
+      "Stoll, Hermann",
+      "Preuß, Heinzwerner"
+    ],
+    "title": "Ab initio energy-adjusted pseudopotentials for elements of groups 13-17",
+    "journal": "Mol. Phys.",
+    "volume": "80",
+    "pages": "1431-1441",
+    "year": "1993",
+    "doi": "10.1080/00268979300103121"
+  },
+  "bernholdt1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bernholdt, David E.",
+      "Harrison, Robert J."
+    ],
+    "title": "Fitting basis sets for the RI-MP2 approximate second-order many-body perturbation theory method",
+    "journal": "J. Chem. Phys.",
+    "volume": "109",
+    "pages": "1593-1600",
+    "year": "1998",
+    "doi": "10.1063/1.476732"
+  },
+  "berreado2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Berrêdo, R. C.",
+      "Jorge, F. E."
+    ],
+    "title": "All-electron double zeta basis sets for platinum: Estimating scalar relativistic effects on platinum(II) anticancer drugs",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "961",
+    "pages": "107-112",
+    "year": "2010",
+    "doi": "10.1016/j.theochem.2010.09.007"
+  },
+  "berreado2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Berrêdo, R. C.",
+      "Jorge, F. E.",
+      "Jorge, Sara S.",
+      "Centoducatte, R."
+    ],
+    "title": "An augmented Gaussian basis set for calculations of molecular polarizabilities on platinum compounds",
+    "journal": "Comput. Theor. Chem.",
+    "volume": "965",
+    "pages": "236-239",
+    "year": "2011",
+    "doi": "10.1016/j.comptc.2011.02.007"
+  },
+  "binkley1977a": {
+    "_entry_type": "article",
+    "authors": [
+      "Binkley, J. Stephen",
+      "Pople, John A."
+    ],
+    "title": "Self-consistent molecular orbital methods. XIX. Split-valence Gaussian-type basis sets for beryllium",
+    "journal": "J. Chem. Phys.",
+    "volume": "66",
+    "pages": "879-880",
+    "year": "1977",
+    "doi": "10.1063/1.433929"
+  },
+  "binkley1980a": {
+    "_entry_type": "article",
+    "authors": [
+      "Binkley, J. Stephen",
+      "Pople, John A.",
+      "Hehre, Warren J."
+    ],
+    "title": "Self-consistent molecular orbital methods. 21. Small split-valence basis sets for first-row elements",
+    "journal": "J. Am. Chem. Soc.",
+    "volume": "102",
+    "pages": "939-947",
+    "year": "1980",
+    "doi": "10.1021/ja00523a008"
+  },
+  "binning1990a": {
+    "_entry_type": "article",
+    "authors": [
+      "Binning, R. C.",
+      "Curtiss, L. A."
+    ],
+    "title": "Compact contracted basis sets for third-row atoms: Ga-Kr",
+    "journal": "J. Comput. Chem.",
+    "volume": "11",
+    "pages": "1206-1216",
+    "year": "1990",
+    "doi": "10.1002/jcc.540111013"
+  },
+  "blaudeau1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Blaudeau, Jean-Philippe",
+      "McGrath, Mark P.",
+      "Curtiss, Larry A.",
+      "Radom, Leo"
+    ],
+    "title": "Extension of Gaussian-2 (G2) theory to molecules containing third-row atoms K and Ca",
+    "journal": "J. Chem. Phys.",
+    "volume": "107",
+    "pages": "5016-5021",
+    "year": "1997",
+    "doi": "10.1063/1.474865"
+  },
+  "brandenburg2018a": {
+    "_entry_type": "article",
+    "authors": [
+        "Brandenburg, Jan Gerit",
+        "Bannwarth, Christoph",
+        "Hansen, Andreas",
+        "Grimme, Stefan"
+    ],
+    "title": "B97-3c: A revised low-cost variant of the B97-D density functional method",
+    "journal": "J. Chem. Phys.",
+    "volume": "148",
+    "pages": "064104",
+    "year": "2018",
+    "doi": "10.1063/1.5012601"
+  },
+  "bross2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Bross, David H.",
+      "Hill, J. Grant",
+      "Werner, H.-J.",
+      "Peterson, Kirk A."
+    ],
+    "title": "Explicitly correlated composite thermochemistry of transition metal species",
+    "journal": "J. Chem. Phys.",
+    "volume": "139",
+    "pages": "094302",
+    "year": "2013",
+    "doi": "10.1063/1.4818725"
+  },
+  "calaminici2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Calaminici, Patrizia",
+      "Janetzko, Florian",
+      "Köster, Andreas M.",
+      "Mejia-Olvera, Roberto",
+      "Zuniga-Gutierrez, Bernardo"
+    ],
+    "title": "Density functional theory optimized basis sets for gradient corrected functionals: 3d transition metal systems",
+    "journal": "J. Chem. Phys.",
+    "volume": "126",
+    "pages": "044108",
+    "year": "2007",
+    "doi": "10.1063/1.2431643"
+  },
+  "camiletti2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Camiletti, G. G.",
+      "Machado, S. F.",
+      "Jorge, F. E."
+    ],
+    "title": "Gaussian basis set of double zeta quality for atoms K through Kr: Application in DFT calculations of molecular properties",
+    "journal": "J. Comput. Chem.",
+    "volume": "29",
+    "pages": "2434-2444",
+    "year": "2008",
+    "doi": "10.1002/jcc.20996"
+  },
+  "camiletti2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Camiletti, G. G.",
+      "Neto, A. Canal",
+      "Jorge, F. E.",
+      "Machado, S. F."
+    ],
+    "title": "Augmented Gaussian basis sets of double and triple zeta valence qualities for the atoms K and Sc-Kr: Applications in HF, MP2, and DFT calculations of molecular electric properties",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "910",
+    "pages": "122-125",
+    "year": "2009",
+    "doi": "10.1016/j.theochem.2009.06.024"
+  },
+  "campos2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Campos, C. T.",
+      "Ceolin, G. A.",
+      "Neto, A. Canal",
+      "Jorge, F. E.",
+      "Pansini, F. N. N."
+    ],
+    "title": "Gaussian basis set of sextuple zeta quality for hydrogen through argon",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "516",
+    "pages": "125-130",
+    "year": "2011",
+    "doi": "10.1016/j.cplett.2011.09.073"
+  },
+  "campos2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Campos, C. T.",
+      "Jorge, F. E."
+    ],
+    "title": "Triple zeta quality basis sets for atoms Rb through Xe: application in CCSD(T) atomic and molecular property calculations",
+    "journal": "Mol. Phys.",
+    "volume": "111",
+    "pages": "167-173",
+    "year": "2013",
+    "doi": "10.1080/00268976.2012.709282"
+  },
+  "campos2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Campos, C. T.",
+      "de Oliveira, A. Z.",
+      "Ferreira, I. B.",
+      "Jorge, F. E.",
+      "Martins, L. S. C."
+    ],
+    "title": "Segmented all-electron Gaussian basis sets of double and triple zeta qualities for Fr, Ra, and Ac",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "675",
+    "pages": "1-5",
+    "year": "2017",
+    "doi": "10.1016/j.cplett.2017.02.080"
+  },
+  "canalneto2021a": {
+    "_entry_type": "article",
+    "authors": [
+      "Canal Neto, A.",
+      "Ferreira, I. B.",
+      "Jorge, F. E.",
+      "de Oliveira, A. Z."
+    ],
+    "title": "All-electron triple zeta basis sets for ZORA calculations: Application in studies of atoms and molecules",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "771",
+    "pages": "138548",
+    "year": "2021",
+    "doi": "10.1016/j.cplett.2021.138548"
+  },
+  "cao2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Cao, Xiaoyan",
+      "Dolg, Michael"
+    ],
+    "title": "Valence basis sets for relativistic energy-consistent small-core lanthanide pseudopotentials",
+    "journal": "J. Chem. Phys.",
+    "volume": "115",
+    "pages": "7348",
+    "year": "2001",
+    "doi": "10.1063/1.1406535"
+  },
+  "cao2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Cao, Xiaoyan",
+      "Dolg, Michael"
+    ],
+    "title": "Segmented contraction scheme for small-core lanthanide pseudopotential basis sets",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "581",
+    "pages": "139-147",
+    "year": "2002",
+    "doi": "10.1016/s0166-1280(01)00751-5"
+  },
+  "cao2002b": {
+    "_entry_type": "misc",
+    "authors": [
+      "Cao, Xiaoyan",
+      "Dolg, Michael"
+    ],
+    "title": "unpublished",
+    "year": "2002",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "cao2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Cao, Xiaoyan",
+      "Dolg, Michael",
+      "Stoll, Hermann"
+    ],
+    "title": "Valence basis sets for relativistic energy-consistent small-core actinide pseudopotentials",
+    "journal": "J. Chem. Phys.",
+    "volume": "118",
+    "pages": "487-496",
+    "year": "2003",
+    "doi": "10.1063/1.1521431"
+  },
+  "cao2004a": {
+    "_entry_type": "article",
+    "authors": [
+      "Cao, Xiaoyan",
+      "Dolg, Michael"
+    ],
+    "title": "Segmented contraction scheme for small-core actinide pseudopotential basis sets",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "673",
+    "pages": "203-209",
+    "year": "2004",
+    "doi": "10.1016/j.theochem.2003.12.015"
+  },
+  "casida1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Casida, Mark E.",
+      "Jamorski, Christine",
+      "Casida, Kim C.",
+      "Salahub, Dennis R."
+    ],
+    "title": "Molecular excitation energies to high-lying bound states from time-dependent density-functional response theory: Characterization and correction of the time-dependent local density approximation ionization threshold",
+    "journal": "J. Chem. Phys.",
+    "volume": "108",
+    "pages": "4439-4449",
+    "year": "1998",
+    "doi": "10.1063/1.475855"
+  },
+  "castro1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Castro, E. V. R.",
+      "Jorge, F. E."
+    ],
+    "title": "Accurate universal Gaussian basis set for all atoms of the Periodic Table",
+    "journal": "J. Chem. Phys.",
+    "volume": "108",
+    "pages": "5225-5229",
+    "year": "1998",
+    "doi": "10.1063/1.475959"
+  },
+  "ccrepo": {
+    "_entry_type": "misc",
+    "authors": [
+      "Hill, J. Grant"
+    ],
+    "title": "ccRepo: A correlation consistent basis sets repository",
+    "note": "http://www.grant-hill.group.shef.ac.uk/ccrepo/"
+  },
+  "ceolin2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ceolin, G. A.",
+      "de Berrêdo, R. C.",
+      "Jorge, F. E."
+    ],
+    "title": "Gaussian basis sets of quadruple zeta quality for potassium through xenon: application in CCSD(T) atomic and molecular property calculations",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "132",
+    "pages": "1339",
+    "year": "2013",
+    "doi": "10.1007/s00214-013-1339-7"
+  },
+  "check2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Check, Catherine E.",
+      "Faust, Timothy O.",
+      "Bailey, John M.",
+      "Wright, Brian J.",
+      "Gilbert, Thomas M.",
+      "Sunderlin, Lee S."
+    ],
+    "title": "Addition of Polarization and Diffuse Functions to the LANL2DZ Basis Set for P-Block Elements",
+    "journal": "J. Phys. Chem. A",
+    "volume": "105",
+    "pages": "8111-8116",
+    "year": "2001",
+    "doi": "10.1021/jp011945l"
+  },
+  "clark1983a": {
+    "_entry_type": "article",
+    "authors": [
+      "Clark, Timothy",
+      "Chandrasekhar, Jayaraman",
+      "Spitznagel, Günther W.",
+      "Schleyer, Paul Von Ragué"
+    ],
+    "title": "Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for first-row elements, Li-F",
+    "journal": "J. Comput. Chem.",
+    "volume": "4",
+    "pages": "294-301",
+    "year": "1983",
+    "doi": "10.1002/jcc.540040303"
+  },
+  "claudino2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Claudino, Daniel",
+      "Gargano, Ricardo",
+      "Bartlett, Rodney J."
+    ],
+    "title": "Coupled-cluster based basis sets for valence correlation calculations",
+    "journal": "J. Chem. Phys.",
+    "volume": "144",
+    "pages": "104106",
+    "year": "2016",
+    "doi": "10.1063/1.4943275"
+  },
+  "claudino2016b": {
+    "_entry_type": "article",
+    "authors": [
+      "Claudino, Daniel",
+      "Gargano, Ricardo",
+      "Bartlett, Rodney J."
+    ],
+    "title": "Erratum: 'Coupled-cluster based basis sets for valence correlation calculations' [J. Chem. Phys. 144, 104106(2016)]",
+    "journal": "J. Chem. Phys.",
+    "volume": "145",
+    "pages": "019901",
+    "year": "2016",
+    "doi": "10.1063/1.4954989"
+  },
+  "claudino2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "Claudino, Daniel",
+      "Bartlett, Rodney J."
+    ],
+    "title": "Coupled-cluster based basis sets for valence correlation calculations. New primitives, frozen atomic natural orbitals, and basis sets from double to hextuple zeta for atoms H, He, and B-Ne",
+    "journal": "J. Chem. Phys.",
+    "volume": "149",
+    "pages": "064105",
+    "year": "2018",
+    "doi": "10.1063/1.5039741"
+  },
+  "collins1976a": {
+    "_entry_type": "article",
+    "authors": [
+      "Collins, John B.",
+      "Schleyer, Paul von R.",
+      "Binkley, J. Stephen",
+      "Pople, John A."
+    ],
+    "title": "Self-consistent molecular orbital methods. XVII. Geometries and binding energies of second-row molecules. A comparison of three basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "64",
+    "pages": "5142-5151",
+    "year": "1976",
+    "doi": "10.1063/1.432189"
+  },
+  "couty1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Couty, Marc",
+      "Hall, Michael B."
+    ],
+    "title": "Basis sets for transition metals: Optimized outer p functions",
+    "journal": "J. Comput. Chem.",
+    "volume": "17",
+    "pages": "1359-1370",
+    "year": "1996",
+    "doi": "10.1002/(sici)1096-987x(199608)17:11<1359::aid-jcc9>3.3.co;2-z"
+  },
+  "cundari1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Cundari, Thomas R.",
+      "Stevens, Walter J."
+    ],
+    "title": "Effective core potential methods for the lanthanides",
+    "journal": "J. Chem. Phys.",
+    "volume": "98",
+    "pages": "5555-5565",
+    "year": "1993",
+    "doi": "10.1063/1.464902"
+  },
+  "curtiss1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Curtiss, Larry A.",
+      "McGrath, Mark P.",
+      "Blaudeau, Jean-Philippe",
+      "Davis, Nancy E.",
+      "Binning, Robert C.",
+      "Radom, Leo"
+    ],
+    "title": "Extension of Gaussian-2 theory to molecules containing third-row atoms Ga-Kr",
+    "journal": "J. Chem. Phys.",
+    "volume": "103",
+    "pages": "6104-6113",
+    "year": "1995",
+    "doi": "10.1063/1.470438"
+  },
+  "curtiss1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Curtiss, Larry A.",
+      "Raghavachari, Krishnan",
+      "Redfern, Paul C.",
+      "Rassolov, Vitaly",
+      "Pople, John A."
+    ],
+    "title": "Gaussian-3 (G3) theory for molecules containing first and second-row atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "109",
+    "pages": "7764-7776",
+    "year": "1998",
+    "doi": "10.1063/1.477422"
+  },
+  "curtiss1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Curtiss, Larry A.",
+      "Redfern, Paul C.",
+      "Raghavachari, Krishnan",
+      "Rassolov, Vitaly",
+      "Pople, John A."
+    ],
+    "title": "Gaussian-3 theory using reduced Mo/ller-Plesset order",
+    "journal": "J. Chem. Phys.",
+    "volume": "110",
+    "pages": "4703-4709",
+    "year": "1999",
+    "doi": "10.1063/1.478385"
+  },
+  "curtiss2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Curtiss, Larry A.",
+      "Redfern, Paul C.",
+      "Raghavachari, Krishnan"
+    ],
+    "title": "Gaussian-4 theory",
+    "journal": "J. Chem. Phys.",
+    "volume": "126",
+    "pages": "084108",
+    "year": "2007",
+    "doi": "10.1063/1.2436888"
+  },
+  "curtiss2007b": {
+    "_entry_type": "article",
+    "authors": [
+      "Curtiss, Larry A.",
+      "Redfern, Paul C.",
+      "Raghavachari, Krishnan"
+    ],
+    "title": "Gaussian-4 theory using reduced order perturbation theory",
+    "journal": "J. Chem. Phys.",
+    "volume": "127",
+    "pages": "124105",
+    "year": "2007",
+    "doi": "10.1063/1.2770701"
+  },
+  "davidson1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Davidson, Ernest R."
+    ],
+    "title": "Comment on \"Comment on Dunning's correlation-consistent basis sets\"",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "260",
+    "pages": "514-518",
+    "year": "1996",
+    "doi": "10.1016/0009-2614(96)00917-7"
+  },
+  "dill1975a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dill, James D.",
+      "Pople, John A."
+    ],
+    "title": "Self-consistent molecular orbital methods. XV. Extended Gaussian-type basis sets for lithium, beryllium, and boron",
+    "journal": "J. Chem. Phys.",
+    "volume": "62",
+    "pages": "2921-2923",
+    "year": "1975",
+    "doi": "10.1063/1.430801"
+  },
+  "ditchfield1971a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ditchfield, R.",
+      "Hehre, W. J.",
+      "Pople, J. A."
+    ],
+    "title": "Self-Consistent Molecular-Orbital Methods. IX. An Extended Gaussian-Type Basis for Molecular-Orbital Studies of Organic Molecules",
+    "journal": "J. Chem. Phys.",
+    "volume": "54",
+    "pages": "724-728",
+    "year": "1971",
+    "doi": "10.1063/1.1674902"
+  },
+  "dobbs1986a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dobbs, K. D.",
+      "Hehre, W. J."
+    ],
+    "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 4. Extended basis sets for third-and fourth-row, main-group elements",
+    "journal": "J. Comput. Chem.",
+    "volume": "7",
+    "pages": "359-378",
+    "year": "1986",
+    "doi": "10.1002/jcc.540070313"
+  },
+  "dobbs1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dobbs, K. D.",
+      "Hehre, W. J."
+    ],
+    "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds 5. Extended basis sets for first-row transition metals",
+    "journal": "J. Comput. Chem.",
+    "volume": "8",
+    "pages": "861-879",
+    "year": "1987",
+    "doi": "10.1002/jcc.540080614"
+  },
+  "dobbs1987b": {
+    "_entry_type": "article",
+    "authors": [
+      "Dobbs, K. D.",
+      "Hehre, W. J."
+    ],
+    "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 6. Extended basis sets for second-row transition metals",
+    "journal": "J. Comput. Chem.",
+    "volume": "8",
+    "pages": "880-893",
+    "year": "1987",
+    "doi": "10.1002/jcc.540080615"
+  },
+  "dolg1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, M.",
+      "Wedig, U.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "Energy‐adjustedabinitiopseudopotentials for the first row transition elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "86",
+    "pages": "866-872",
+    "year": "1987",
+    "doi": "10.1063/1.452288"
+  },
+  "dolg1989a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, M.",
+      "Stoll, H.",
+      "Savin, A.",
+      "Preuss, H."
+    ],
+    "title": "Energy-adjusted pseudopotentials for the rare earth elements",
+    "journal": "Theor. Chim. Acta",
+    "volume": "75",
+    "pages": "173-194",
+    "year": "1989",
+    "doi": "10.1007/BF00528565"
+  },
+  "dolg1989b": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "Energy-adjusted ab initio pseudopotentials for the rare earth elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "90",
+    "pages": "1730-1734",
+    "year": "1989",
+    "doi": "10.1063/1.456066"
+  },
+  "dolg1989c": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, M.",
+      "Stoll, H.",
+      "Savin, A.",
+      "Preuss, H."
+    ],
+    "title": "Energy-adjusted pseudopotentials for the rare earth elements",
+    "journal": "Theor. Chim. Acta",
+    "volume": "75",
+    "pages": "173-194",
+    "year": "1989",
+    "doi": "10.1007/bf00528565"
+  },
+  "dolg1989d": {
+    "_entry_type": "phdthesis",
+    "type": "Dissertation",
+    "authors": [
+      "Dolg, Frans Michael"
+    ],
+    "title": "Energiejustierte quasirelativistische Pseudopotentiale für die 4f-Elemente",
+    "school": "Universität Stuttgart",
+    "year": "1989",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "dolg1991a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, Michael",
+      "Fulde, Peter",
+      "Küchle, Wolfgang",
+      "Neumann, Carl‐Stefan",
+      "Stoll, Hermann"
+    ],
+    "title": "Ground state calculations of di‐π‐cyclooctatetraene cerium",
+    "journal": "J. Chem. Phys.",
+    "volume": "94",
+    "pages": "3011-3017",
+    "year": "1991",
+    "doi": "10.1063/1.459824"
+  },
+  "dolg1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, Michael",
+      "Stoll, Hermann",
+      "Flad, Heinz‐Jürgen",
+      "Preuss, Heinzwerner"
+    ],
+    "title": "Ab initio pseudopotential study of Yb and YbO",
+    "journal": "J. Chem. Phys.",
+    "volume": "97",
+    "pages": "1162-1173",
+    "year": "1992",
+    "doi": "10.1063/1.463244"
+  },
+  "dolg1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, Michael",
+      "Stoll, Hermann",
+      "Preuss, Heinzwerner",
+      "Pitzer, Russell M."
+    ],
+    "title": "Relativistic and correlation effects for element 105 (hahnium, Ha): a comparative study of M and MO (M = Nb, Ta, Ha) using energy-adjusted ab initio pseudopotentials",
+    "journal": "J. Phys. Chem.",
+    "volume": "97",
+    "pages": "5852-5859",
+    "year": "1993",
+    "doi": "10.1021/j100124a012"
+  },
+  "dolg1993b": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "A combination of quasirelativistic pseudopotential and ligand field calculations for lanthanoid compounds",
+    "journal": "Theor. Chim. Acta",
+    "volume": "85",
+    "pages": "441-450",
+    "year": "1993",
+    "doi": "10.1007/BF01112983"
+  },
+  "dolg1993c": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "A combination of quasirelativistic pseudopotential and ligand field calculations for lanthanoid compounds",
+    "journal": "Theor. Chim. Acta",
+    "volume": "85",
+    "pages": "441-450",
+    "year": "1993",
+    "doi": "10.1007/bf01112983"
+  },
+  "dolg1997a": {
+    "_entry_type": "misc",
+    "authors": [
+      "Dolg, Michael"
+    ],
+    "title": "unpublished",
+    "year": "1997",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "dolg2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, Michael",
+      "Cao, Xiaoyan"
+    ],
+    "title": "Accurate Relativistic Small-Core Pseudopotentials for Actinides. Energy Adjustment for Uranium and First Applications to Uranium Hydride†",
+    "journal": "J. Phys. Chem. A",
+    "volume": "113",
+    "pages": "12573-12581",
+    "year": "2009",
+    "doi": "10.1021/jp9044594"
+  },
+  "dolg2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dolg, Michael"
+    ],
+    "title": "Segmented Contracted Douglas-Kroll-Hess Adapted Basis Sets for Lanthanides",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "7",
+    "pages": "3131-3142",
+    "year": "2011",
+    "doi": "10.1021/ct200504u"
+  },
+  "duijneveldt1971a": {
+    "_entry_type": "techreport",
+    "authors": [
+      "van Duijneveldt, F. B."
+    ],
+    "title": "Gaussian basis sets for the atoms H-Ne for use in molecular calculations",
+    "institution": "IBM Research Laboratory",
+    "number": "RJ 945",
+    "year": "1971",
+    "address": "San Jose, California"
+  },
+  "dunning1970a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian Basis Functions for Use in Molecular Calculations. I. Contraction of (9s5p) Atomic Basis Sets for the First-Row Atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "53",
+    "pages": "2823-2833",
+    "year": "1970",
+    "doi": "10.1063/1.1674408"
+  },
+  "dunning1971a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian Basis Functions for Use in Molecular Calculations. III. Contraction of (10s6p) Atomic Basis Sets for the First-Row Atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "55",
+    "pages": "716-723",
+    "year": "1971",
+    "doi": "10.1063/1.1676139"
+  },
+  "dunning1977a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for the atoms gallium through krypton",
+    "journal": "J. Chem. Phys.",
+    "volume": "66",
+    "pages": "1382-1383",
+    "year": "1977",
+    "doi": "10.1063/1.434039"
+  },
+  "dunning1977b": {
+    "_entry_type": "incollection",
+    "authors": [
+      "Dunning, Thom H.",
+      "Hay, P. Jeffrey"
+    ],
+    "title": "Gaussian basis sets for molecular calculations",
+    "booktitle": "Methods of Electronic Structure Theory",
+    "series": "Modern Theoretical Chemistry",
+    "editors": [
+      "Henry F. Schaefer"
+    ],
+    "volume": "3",
+    "pages": "1-27",
+    "year": "1977",
+    "publisher": "Springer",
+    "isbn": "9781475708875",
+    "doi": "10.1007/978-1-4757-0887-5"
+  },
+  "dunning1989a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen",
+    "journal": "J. Chem. Phys.",
+    "volume": "90",
+    "pages": "1007-1023",
+    "year": "1989",
+    "doi": "10.1063/1.456153"
+  },
+  "dunning2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Dunning, Thom H.",
+      "Peterson, Kirk A.",
+      "Wilson, Angela K."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. X. The atoms aluminum through argon revisited",
+    "journal": "J. Chem. Phys.",
+    "volume": "114",
+    "pages": "9244-9253",
+    "year": "2001",
+    "doi": "10.1063/1.1367373"
+  },
+  "dyallXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Dyall, K. G."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the original BSE"
+  },
+  "easton1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Easton, R. Evan",
+      "Giesen, David J.",
+      "Welch, Andrew",
+      "Cramer, Christopher J.",
+      "Truhlar, Donald G."
+    ],
+    "title": "The MIDI! basis set for quantum mechanical calculations of molecular geometries and partial charges",
+    "journal": "Theor. Chim. Acta",
+    "volume": "93",
+    "pages": "281",
+    "year": "1996",
+    "doi": "10.1007/s002140050153"
+  },
+  "ehlers1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ehlers, A. W.",
+      "Böhme, M.",
+      "Dapprich, S.",
+      "Gobbi, A.",
+      "Höllwarth, A.",
+      "Jonas, V.",
+      "Köhler, K. F.",
+      "Stegmann, R.",
+      "Veldkamp, A.",
+      "Frenking, G."
+    ],
+    "title": "A set of f-polarization functions for pseudo-potential basis sets of the transition metals Sc-Cu, Y-Ag and La-Au",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "208",
+    "pages": "111-114",
+    "year": "1993",
+    "doi": "10.1016/0009-2614(93)80086-5"
+  },
+  "eichkorn1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Eichkorn, Karin",
+      "Treutler, Oliver",
+      "Öhm, Holger",
+      "Häser, Marco",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "Auxiliary basis sets to approximate Coulomb potentials",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "240",
+    "pages": "283-290",
+    "year": "1995",
+    "doi": "10.1016/0009-2614(95)00621-a"
+  },
+  "eichkorn1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Eichkorn, Karin",
+      "Weigend, Florian",
+      "Treutler, Oliver",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "Auxiliary basis sets for main row atoms and transition metals and their use to approximate Coulomb potentials",
+    "journal": "Theor. Chim. Acta",
+    "volume": "97",
+    "pages": "119-124",
+    "year": "1997",
+    "doi": "10.1007/s002140050244"
+  },
+  "enevoldsen1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Enevoldsen, Thomas",
+      "Oddershede, Jens",
+      "Sauer, Stephan P. A."
+    ],
+    "title": "Correlated calculations of indirect nuclear spin-spin coupling constants using second-order polarization propagator approximations: SOPPA and SOPPA(CCSD)",
+    "journal": "Theor. Chim. Acta",
+    "volume": "100",
+    "pages": "275-284",
+    "year": "1998",
+    "doi": "10.1007/s002140050388"
+  },
+  "ermler1991a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ermler, W. C.",
+      "Ross, R. B.",
+      "Christiansen, P. A."
+    ],
+    "title": "Ab initio relativistic effective potentials with spin-orbit operators. VI. Fr through Pu",
+    "journal": "Int. J. Quantum Chem.",
+    "volume": "40",
+    "pages": "829-846",
+    "year": "1991",
+    "doi": "10.1002/qua.560400611"
+  },
+  "fantin2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Fantin, P. A.",
+      "Barbieri, P. L.",
+      "Neto, A. Canal",
+      "Jorge, F. E."
+    ],
+    "title": "Augmented Gaussian basis sets of triple and quadruple zeta valence quality for the atoms H and from Li to Ar: Applications in HF, MP2, and DFT calculations of molecular dipole moment and dipole (hyper)polarizability",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "810",
+    "pages": "103-111",
+    "year": "2007",
+    "doi": "10.1016/j.theochem.2007.02.003"
+  },
+  "feller1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David",
+      "Glendening, Eric D.",
+      "Woon, David E.",
+      "Feyereisen, Martin W."
+    ],
+    "title": "An extended basis set ab initio study of alkali metal cation-water clusters",
+    "journal": "J. Chem. Phys.",
+    "volume": "103",
+    "pages": "3526-3542",
+    "year": "1995",
+    "doi": "10.1063/1.470237"
+  },
+  "feller1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David"
+    ],
+    "title": "The role of databases in support of computational chemistry calculations",
+    "journal": "J. Comput. Chem.",
+    "volume": "17",
+    "pages": "1571-1586",
+    "year": "1996",
+    "doi": "10.1002/(SICI)1096-987X(199610)17:13<1571::AID-JCC9>3.0.CO;2-P"
+  },
+  "feller1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David",
+      "Peterson, Kirk A."
+    ],
+    "title": "Re-examination of atomization energies for the Gaussian-2 set of molecules",
+    "journal": "J. Chem. Phys.",
+    "volume": "110",
+    "pages": "8384-8396",
+    "year": "1999",
+    "doi": "10.1063/1.478747"
+  },
+  "feller2000a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David",
+      "Sordo, Jose A."
+    ],
+    "title": "Performance of CCSDT for diatomic dissociation energies",
+    "journal": "J. Chem. Phys.",
+    "volume": "113",
+    "pages": "485-493",
+    "year": "2000",
+    "doi": "10.1063/1.481827"
+  },
+  "feller2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David",
+      "Peterson, Kirk A.",
+      "de Jong, Wibe A.",
+      "Dixon, David A."
+    ],
+    "title": "Performance of coupled cluster theory in thermochemical calculations of small halogenated compounds",
+    "journal": "J. Chem. Phys.",
+    "volume": "118",
+    "pages": "3510-3522",
+    "year": "2003",
+    "doi": "10.1063/1.1532314"
+  },
+  "feller2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David",
+      "Peterson, Kirk A.",
+      "Crawford, T. Daniel"
+    ],
+    "title": "Sources of error in electronic structure calculations on small chemical systems",
+    "journal": "J. Chem. Phys.",
+    "volume": "124",
+    "pages": "054107",
+    "year": "2006",
+    "doi": "10.1063/1.2137323"
+  },
+  "feller2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David",
+      "Peterson, Kirk A.",
+      "Hill, J. Grant"
+    ],
+    "title": "On the effectiveness of CCSD(T) complete basis set extrapolations for atomization energies",
+    "journal": "J. Chem. Phys.",
+    "volume": "135",
+    "pages": "044102",
+    "year": "2011",
+    "doi": "10.1063/1.3613639"
+  },
+  "feller2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feller, David"
+    ],
+    "title": "Benchmarks of improved complete basis set extrapolation schemes designed for standard CCSD(T) atomization energies",
+    "journal": "J. Chem. Phys.",
+    "volume": "138",
+    "pages": "074103",
+    "year": "2013",
+    "doi": "10.1063/1.4791560"
+  },
+  "fellerXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Feller, D."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the original Basis Set Exchange"
+  },
+  "feng2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Feng, Rulin",
+      "Peterson, Kirk A."
+    ],
+    "title": "Correlation consistent basis sets for actinides. II. The atoms Ac and Np-Lr",
+    "journal": "J. Chem. Phys.",
+    "volume": "147",
+    "pages": "084108",
+    "year": "2017",
+    "doi": "10.1063/1.4994725"
+  },
+  "figgen2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Figgen, Detlev",
+      "Rauhut, Guntram",
+      "Dolg, Michael",
+      "Stoll, Hermann"
+    ],
+    "title": "Energy-consistent pseudopotentials for group 11 and 12 atoms: adjustment to multi-configuration Dirac-Hartree-Fock data",
+    "journal": "J. Chem. Phys.",
+    "volume": "311",
+    "pages": "227-244",
+    "year": "2005",
+    "doi": "10.1016/j.chemphys.2004.10.005"
+  },
+  "figgen2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Figgen, Detlev",
+      "Peterson, Kirk A.",
+      "Dolg, Michael",
+      "Stoll, Hermann"
+    ],
+    "title": "Energy-consistent pseudopotentials and correlation consistent basis sets for the 5d elements Hf-Pt",
+    "journal": "J. Chem. Phys.",
+    "volume": "130",
+    "pages": "164108",
+    "year": "2009",
+    "doi": "10.1063/1.3119665"
+  },
+  "francl1982a": {
+    "_entry_type": "article",
+    "authors": [
+      "Francl, Michelle M.",
+      "Pietro, William J.",
+      "Hehre, Warren J.",
+      "Binkley, J. Stephen",
+      "Gordon, Mark S.",
+      "DeFrees, Douglas J.",
+      "Pople, John A."
+    ],
+    "title": "Self-consistent molecular orbital methods. XXIII. A polarization-type basis set for second-row elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "77",
+    "pages": "3654-3665",
+    "year": "1982",
+    "doi": "10.1063/1.444267"
+  },
+  "franzke2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "Franzke, Yannick J.",
+      "Treß, Robert",
+      "Pazdera, Tobias M.",
+      "Weigend, Florian"
+    ],
+    "title": "Error-consistent segmented contracted all-electron relativistic basis sets of double- and triple-zeta quality for NMR shielding constants",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "21",
+    "pages": "16658-16664",
+    "year": "2019",
+    "doi": "10.1039/C9CP02382H"
+  },
+  "franzke2020a": {
+    "_entry_type": "article",
+    "authors": [
+      "Franzke, Yannick J.",
+      "Spiske, Lucas",
+      "Pollak, Patrik",
+      "Weigend, Florian"
+    ],
+    "title": "Segmented Contracted Error-Consistent Basis Sets of Quadruple-ζ Valence Quality for One- and Two-Component Relativistic All-Electron Calculations",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "16",
+    "pages": "5658–5674",
+    "year": "2020",
+    "doi": "10.1021/acs.jctc.0c00546"
+  },
+  "frisch1984a": {
+    "_entry_type": "article",
+    "authors": [
+      "Frisch, Michael J.",
+      "Pople, John A.",
+      "Binkley, J. Stephen"
+    ],
+    "title": "Self-consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "80",
+    "pages": "3265-3269",
+    "year": "1984",
+    "doi": "10.1063/1.447079"
+  },
+  "fuentealba1982a": {
+    "_entry_type": "article",
+    "authors": [
+      "Fuentealba, Patricio",
+      "Preuss, Heinzwerner",
+      "Stoll, Hermann",
+      "Szentpály, László Von"
+    ],
+    "title": "A proper account of core-polarization with pseudopotentials: single valence-electron alkali compounds",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "89",
+    "pages": "418-422",
+    "year": "1982",
+    "doi": "10.1016/0009-2614(82)80012-2"
+  },
+  "fuentealba1983a": {
+    "_entry_type": "article",
+    "authors": [
+      "Fuentealba, P.",
+      "Stoll, H.",
+      "Szentpály, L. Von",
+      "Schwerdtfeger, P.",
+      "Preuss, H."
+    ],
+    "title": "On the reliability of semi-empirical pseudopotentials: simulation of Hartree-Fock and Dirac-Fock results",
+    "journal": "J. Phys. B",
+    "volume": "16",
+    "pages": "L323-L328",
+    "year": "1983",
+    "doi": "10.1088/0022-3700/16/11/001"
+  },
+  "fuentealba1984a": {
+    "_entry_type": "phdthesis",
+    "type": "Dissertation",
+    "authors": [
+      "Fuentealba, Patricio"
+    ],
+    "title": "Die Rolle der Rumpfpolarisierung in Pseudopotentialverfahren",
+    "school": "Universität Stuttgart",
+    "year": "1984",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "fuentealba1985a": {
+    "_entry_type": "article",
+    "authors": [
+      "Fuentealba, P",
+      "Szentpaly, L von",
+      "Preuss, H",
+      "Stoll, H"
+    ],
+    "title": "Pseudopotential calculations for alkaline-earth atoms",
+    "journal": "J. Phys. B-At. Mol. Phys.",
+    "volume": "18",
+    "pages": "1287-1296",
+    "year": "1985",
+    "doi": "10.1088/0022-3700/18/7/010"
+  },
+  "fuentealba1988a": {
+    "_entry_type": "misc",
+    "authors": [
+      "Fuentealba, P."
+    ],
+    "title": "unpublished",
+    "year": "1988",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "garcia2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "García, Victor",
+      "Zorrilla, David",
+      "Sánchez-Márquez, Jesús",
+      "Fernández, Manuel"
+    ],
+    "title": "Simplified box orbitals for molecules containing atoms beyond Ar",
+    "journal": "Mol. Phys.",
+    "volume": "116",
+    "pages": "2310-2320",
+    "year": "2018",
+    "doi": "10.1080/00268976.2018.1481543"
+  },
+  "garcia2020a": {
+    "_entry_type": "misc",
+    "authors": [
+      "García, Victor",
+      "Sánchez-Márquez, Jesús",
+      "Torres, Estefanía",
+      "Zorrilla, David",
+      "Fernández, Manuel"
+    ],
+    "title": "Spatially restricted Double Z‐Simplified Box Orbital basis sets: Optimization and comparison with some standard basis sets",
+    "journal": "Int. J. Quantum Chem.",
+    "volume": "120",
+    "pages": "e26129",
+    "year": "2020",
+    "doi": "10.1002/qua.26129"
+  },
+  "gauss1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Gauss, Jürgen"
+    ],
+    "title": "Effects of electron correlation in the calculation of nuclear magnetic resonance chemical shifts",
+    "journal": "J. Chem. Phys.",
+    "volume": "99",
+    "pages": "3629-3643",
+    "year": "1993",
+    "doi": "10.1063/1.466161"
+  },
+  "gaussian09e01": {
+    "_entry_type": "misc",
+    "authors": [
+      "Frisch, M. J.",
+      "Trucks, G. W.",
+      "Schlegel, H. B.",
+      "Scuseria, G. E.",
+      "Robb, M. A.",
+      "Cheeseman, J. R.",
+      "Scalmani, G.",
+      "Barone, V.",
+      "Mennucci, B.",
+      "Petersson, G. A.",
+      "Nakatsuji, H.",
+      "Caricato, M.",
+      "Li, X.",
+      "Hratchian, H. P.",
+      "Izmaylov, A. F.",
+      "Bloino, J.",
+      "Zheng, G.",
+      "Sonnenberg, J. L.",
+      "Hada, M.",
+      "Ehara, M.",
+      "Toyota, K.",
+      "Fukuda, R.",
+      "Hasegawa, J.",
+      "Ishida, M.",
+      "Nakajima, T.",
+      "Honda, Y.",
+      "Kitao, O.",
+      "Nakai, H.",
+      "Vreven, T.",
+      "Montgomery, J. A., Jr.",
+      "Peralta, J. E.",
+      "Ogliaro, F.",
+      "Bearpark, M.",
+      "Heyd, J. J.",
+      "Brothers, E.",
+      "Kudin, K. N.",
+      "Staroverov, V. N.",
+      "Kobayashi, R.",
+      "Normand, J.",
+      "Raghavachari, K.",
+      "Rendell, A.",
+      "Burant, J. C.",
+      "Iyengar, S. S.",
+      "Tomasi, J.",
+      "Cossi, M.",
+      "Rega, N.",
+      "Millam, M. J.",
+      "Klene, M.",
+      "Knox, J. E.",
+      "Cross, J. B.",
+      "Bakken, V.",
+      "Adamo, C.",
+      "Jaramillo, J.",
+      "Gomperts, R.",
+      "Stratmann, R. E.",
+      "Yazyev, O.",
+      "Austin, A. J.",
+      "Cammi, R.",
+      "Pomelli, C.",
+      "Ochterski, J. W.",
+      "Martin, R. L.",
+      "Morokuma, K.",
+      "Zakrzewski, V. G.",
+      "Voth, G. A.",
+      "Salvador, P.",
+      "Dannenberg, J. J.",
+      "Dapprich, S.",
+      "Daniels, A. D.",
+      "Farkas, Ö.",
+      "Foresman, J. B.",
+      "Ortiz, J. V.",
+      "Cioslowski, J.",
+      "Fox, D. J."
+    ],
+    "title": "Gaussian 09 Revision E.01",
+    "note": "Gaussian, Inc., Wallingford, CT, 2009"
+  },
+  "gill1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Gill, Peter M. W.",
+      "Johnson, Benny G.",
+      "Pople, John A.",
+      "Frisch, Michael J."
+    ],
+    "title": "The performance of the Becke-Lee-Yang-Parr (B-LYP) density functional theory with various basis sets",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "197",
+    "pages": "499-505",
+    "year": "1992",
+    "doi": "10.1016/0009-2614(92)85807-m"
+  },
+  "glendening1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Glendening, Eric D.",
+      "Feller, David"
+    ],
+    "title": "Cation-Water Interactions: The M+(H2O)n Clusters for Alkali Metals, M = Li, Na, K, Rb, and Cs",
+    "journal": "J. Phys. Chem.",
+    "volume": "99",
+    "pages": "3060-3067",
+    "year": "1995",
+    "doi": "10.1021/j100010a015"
+  },
+  "glukhovstev1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Glukhovtsev, Mikhail N.",
+      "Pross, Addy",
+      "McGrath, Mark P.",
+      "Radom, Leo"
+    ],
+    "title": "Extension of Gaussian-2 (G2) theory to bromine- and iodine-containing molecules: Use of effective core potentials",
+    "journal": "J. Chem. Phys.",
+    "volume": "103",
+    "pages": "1878-1885",
+    "year": "1995",
+    "doi": "10.1063/1.469712"
+  },
+  "godbout1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Godbout, Nathalie",
+      "Salahub, Dennis R.",
+      "Andzelm, Jan",
+      "Wimmer, Erich"
+    ],
+    "title": "Optimization of Gaussian-type basis sets for local spin density functional calculations. Part I. Boron through neon, optimization technique and validation",
+    "journal": "Can. J. Chem.",
+    "volume": "70",
+    "pages": "560-571",
+    "year": "1992",
+    "doi": "10.1139/v92-079"
+  },
+  "gordon1978a": {
+    "_entry_type": "article",
+    "authors": [
+      "Gordon, Mark S.",
+      "Bjorke, Mark D.",
+      "Marsh, Fred J.",
+      "Korth, Michael S."
+    ],
+    "title": "Second-row molecular orbital calculations. 5. A minimal basis INDO for sodium-chlorine",
+    "journal": "J. Am. Chem. Soc.",
+    "volume": "100",
+    "pages": "2670-2678",
+    "year": "1978",
+    "doi": "10.1021/ja00477a017"
+  },
+  "gordon1982a": {
+    "_entry_type": "article",
+    "authors": [
+      "Gordon, Mark S.",
+      "Binkley, J. Stephen",
+      "Pople, John A.",
+      "Pietro, William J.",
+      "Hehre, Warren J."
+    ],
+    "title": "Self-consistent molecular-orbital methods. 22. Small split-valence basis sets for second-row elements",
+    "journal": "J. Am. Chem. Soc.",
+    "volume": "104",
+    "pages": "2797-2803",
+    "year": "1982",
+    "doi": "10.1021/ja00374a017"
+  },
+  "grimme2021a": {
+    "_entry_type": "article",
+    "authors": [
+        "Grimme, Stefan",
+        "Hansen, Andreas",
+        "Ehlert, Sebastian",
+        "Mewes, Jan-Michael"
+    ],
+    "title": "r2SCAN-3c: A “Swiss army knife” composite electronic-structure method",
+    "journal": "J. Chem. Phys.",
+    "volume": "154",
+    "pages": "064103",
+    "year": "2021",
+    "doi": "10.1063/5.0040021"
+  },
+  "gulde2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Gulde, Rebekka",
+      "Pollak, Patrik",
+      "Weigend, Florian"
+    ],
+    "title": "Error-Balanced Segmented Contracted Basis Sets of Double-ζ to Quadruple-ζ Valence Quality for the Lanthanides",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "8",
+    "pages": "4062-4068",
+    "year": "2012",
+    "doi": "10.1021/ct300302u"
+  },
+  "hangele2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hangele, Tim",
+      "Dolg, Michael",
+      "Hanrath, Michael",
+      "Cao, Xiaoyan",
+      "Schwerdtfeger, Peter"
+    ],
+    "title": "Accurate relativistic energy-consistent pseudopotentials for the superheavy elements 111 to 118 including quantum electrodynamic effects",
+    "journal": "J. Chem. Phys.",
+    "volume": "136",
+    "pages": "214105",
+    "year": "2012",
+    "doi": "10.1063/1.4723805"
+  },
+  "hangele2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hangele, Tim",
+      "Dolg, Michael"
+    ],
+    "title": "Accuracy of relativistic energy-consistent pseudopotentials for superheavy elements 111-118: Molecular calibration calculations",
+    "journal": "J. Chem. Phys.",
+    "volume": "138",
+    "pages": "044104",
+    "year": "2013",
+    "doi": "10.1063/1.4776757"
+  },
+  "hangele2013b": {
+    "_entry_type": "article",
+    "authors": [
+      "Hangele, Tim",
+      "Dolg, Michael",
+      "Schwerdtfeger, Peter"
+    ],
+    "title": "Relativistic energy-consistent pseudopotentials for superheavy elements 119 and 120 including quantum electrodynamic effects",
+    "journal": "J. Chem. Phys.",
+    "volume": "138",
+    "pages": "174113",
+    "year": "2013",
+    "doi": "10.1063/1.4803148"
+  },
+  "hariharan1973a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hariharan, P. C.",
+      "Pople, J. A."
+    ],
+    "title": "The influence of polarization functions on molecular orbital hydrogenation energies",
+    "journal": "Theor. Chim. Acta",
+    "volume": "28",
+    "pages": "213-222",
+    "year": "1973",
+    "doi": "10.1007/bf00533485"
+  },
+  "hattig2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hättig, Christof"
+    ],
+    "title": "Optimization of auxiliary basis sets for RI-MP2 and RI-CC2 calculations: Core-valence and quintuple-ζ basis sets for H to Ar and QZVPP basis sets for Li to Kr",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "7",
+    "pages": "59-66",
+    "year": "2005",
+    "doi": "10.1039/b415208e"
+  },
+  "hattig2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hättig, Christof",
+      "Schmitz, Gunnar",
+      "Koßmann, Jörg"
+    ],
+    "title": "Auxiliary basis sets for density-fitted correlated wavefunction calculations: weighted core-valence and ECP basis sets for post-d elements",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "14",
+    "pages": "6549-6555",
+    "year": "2012",
+    "doi": "10.1039/C2CP40400A"
+  },
+  "hattigXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Hattig, Christof"
+    ],
+    "title": "unpublished",
+    "note": "As referenced by the original BSE"
+  },
+  "hattigXXXXb": {
+    "_entry_type": "misc",
+    "authors": [
+      "Hättig, Christof",
+      "Hellweg, Arnim"
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the Turbomole basis set library"
+  },
+  "haussermann1988a": {
+    "_entry_type": "techreport",
+    "type": "Arbeitsbericht",
+    "authors": [
+      "Häussermann, U."
+    ],
+    "title": "<unknown title>",
+    "institution": "<unknown institution>",
+    "year": "1988",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "haussermann1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Häussermann, U.",
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuss, H.",
+      "Schwerdtfeger, P.",
+      "Pitzer, R.M."
+    ],
+    "title": "Accuracy of energy-adjusted quasirelativisticab initiopseudopotentials",
+    "journal": "Molecular Physics",
+    "volume": "78",
+    "pages": "1211-1224",
+    "year": "1993",
+    "doi": "10.1080/00268979300100801"
+  },
+  "hay1977a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hay, P. Jeffrey"
+    ],
+    "title": "Gaussian basis sets for molecular calculations. The representation of 3d orbitals in transition‐metal atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "66",
+    "pages": "4377-4384",
+    "year": "1977",
+    "doi": "10.1063/1.433731"
+  },
+  "hay1983a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hay, P. Jeffrey"
+    ],
+    "title": "Ab initio studies of excited states of polyatomic molecules including spin-orbit and multiplet effects: The electronic states of UF6",
+    "journal": "J. Chem. Phys.",
+    "volume": "79",
+    "pages": "5469-5482",
+    "year": "1983",
+    "doi": "10.1063/1.445665"
+  },
+  "hay1985a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hay, P. Jeffrey",
+      "Wadt, Willard R."
+    ],
+    "title": "Ab initio effective core potentials for molecular calculations. Potentials for the transition metal atoms Sc to Hg",
+    "journal": "J. Chem. Phys.",
+    "volume": "82",
+    "pages": "270-283",
+    "year": "1985",
+    "doi": "10.1063/1.448799"
+  },
+  "hay1985b": {
+    "_entry_type": "article",
+    "authors": [
+      "Hay, P. Jeffrey",
+      "Wadt, Willard R."
+    ],
+    "title": "Ab initio effective core potentials for molecular calculations. Potentials for K to Au including the outermost core orbitals",
+    "journal": "J. Chem. Phys.",
+    "volume": "82",
+    "pages": "299-310",
+    "year": "1985",
+    "doi": "10.1063/1.448975"
+  },
+  "hedegard2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hedegård, Erik Donovan",
+      "Kongsted, Jacob",
+      "Sauer, Stephan P. A."
+    ],
+    "title": "Optimized Basis Sets for Calculation of Electron Paramagnetic Resonance Hyperfine Coupling Constants: aug-cc-pVTZ-J for the 3d Atoms Sc-Zn",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "7",
+    "pages": "4077-4087",
+    "year": "2011",
+    "doi": "10.1021/ct200587k"
+  },
+  "hehre1969a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hehre, W. J.",
+      "Stewart, R. F.",
+      "Pople, J. A."
+    ],
+    "title": "Self-Consistent Molecular-Orbital Methods. I. Use of Gaussian Expansions of Slater-Type Atomic Orbitals",
+    "journal": "J. Chem. Phys.",
+    "volume": "51",
+    "pages": "2657-2664",
+    "year": "1969",
+    "doi": "10.1063/1.1672392"
+  },
+  "hehre1970a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hehre, W. J.",
+      "Ditchfield, R.",
+      "Stewart, R. F.",
+      "Pople, J. A."
+    ],
+    "title": "Self-Consistent Molecular Orbital Methods. IV. Use of Gaussian Expansions of Slater-Type Orbitals. Extension to Second-Row Molecules",
+    "journal": "J. Chem. Phys.",
+    "volume": "52",
+    "pages": "2769-2773",
+    "year": "1970",
+    "doi": "10.1063/1.1673374"
+  },
+  "hehre1972a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hehre, W. J.",
+      "Ditchfield, R.",
+      "Pople, J. A."
+    ],
+    "title": "Self-Consistent Molecular Orbital Methods. XII. Further Extensions of Gaussian-Type Basis Sets for Use in Molecular Orbital Studies of Organic Molecules",
+    "journal": "J. Chem. Phys.",
+    "volume": "56",
+    "pages": "2257-2261",
+    "year": "1972",
+    "doi": "10.1063/1.1677527"
+  },
+  "hehre1972b": {
+    "_entry_type": "article",
+    "authors": [
+      "Hehre, W. J.",
+      "Lathan, William A."
+    ],
+    "title": "Self-Consistent Molecular Orbital Methods. XIV. An Extended Gaussian-Type Basis for Molecular Orbital Studies of Organic Molecules. Inclusion of Second Row Elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "56",
+    "pages": "5255-5257",
+    "year": "1972",
+    "doi": "10.1063/1.1677028"
+  },
+  "hehre1972c": {
+    "_entry_type": "article",
+    "authors": [
+      "Hehre, W. J.",
+      "Pople, J. A."
+    ],
+    "title": "Self-Consistent Molecular Orbital Methods. XIII. An Extended Gaussian-Type Basis for Boron",
+    "journal": "J. Chem. Phys.",
+    "volume": "56",
+    "pages": "4233-4234",
+    "year": "1972",
+    "doi": "10.1063/1.1677844"
+  },
+  "hellweg2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hellweg, Arnim",
+      "Hättig, Christof",
+      "Höfener, Sebastian",
+      "Klopper, Wim"
+    ],
+    "title": "Optimized accurate auxiliary basis sets for RI-MP2 and RI-CC2 calculations for the atoms Rb to Rn",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "117",
+    "pages": "587-597",
+    "year": "2007",
+    "doi": "10.1007/s00214-007-0250-5"
+  },
+  "hellweg2015a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hellweg, Arnim",
+      "Rappoport, Dmitrij"
+    ],
+    "title": "Development of new auxiliary basis functions of the Karlsruhe segmented contracted basis sets including diffuse basis functions (def2-SVPD, def2-TZVPPD, and def2-QVPPD) for RI-MP2 and RI-CC calculations",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "17",
+    "pages": "1010-1017",
+    "year": "2015",
+    "doi": "10.1039/C4CP04286G"
+  },
+  "hill2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Platts, James A."
+    ],
+    "title": "Calculating interaction energies in transition metal complexes with local electron correlation methods",
+    "journal": "J. Chem. Phys.",
+    "volume": "129",
+    "pages": "134101",
+    "year": "2008",
+    "doi": "10.1063/1.2982790"
+  },
+  "hill2008b": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Platts, James A."
+    ],
+    "title": "Auxiliary basis sets for density fitting-MP2 calculations: Nonrelativistic triple-ζ all-electron correlation consistent basis sets for the 3d elements Sc-Zn",
+    "journal": "J. Chem. Phys.",
+    "volume": "128",
+    "pages": "044104",
+    "year": "2008",
+    "doi": "10.1063/1.2826348"
+  },
+  "hill2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Platts, James A."
+    ],
+    "title": "Auxiliary Basis Sets for Density-Fitted MP2 Calculations: Correlation-Consistent Basis Sets for the 4d Elements",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "5",
+    "pages": "500-505",
+    "year": "2009",
+    "doi": "10.1021/ct8005584"
+  },
+  "hill2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Mazumder, Shivnath",
+      "Peterson, Kirk A."
+    ],
+    "title": "Correlation consistent basis sets for molecular core-valence effects with explicitly correlated wave functions: The atoms B-Ne and Al-Ar",
+    "journal": "J. Chem. Phys.",
+    "volume": "132",
+    "pages": "054108",
+    "year": "2010",
+    "doi": "10.1063/1.3308483"
+  },
+  "hill2010b": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Peterson, Kirk A."
+    ],
+    "title": "Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core-valence basis sets for Li, Be, Na, and Mg",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "12",
+    "pages": "10460",
+    "year": "2010",
+    "doi": "10.1039/c0cp00020e"
+  },
+  "hill2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant"
+    ],
+    "title": "Auxiliary basis sets for density fitting second-order Møller-Plesset perturbation theory: Correlation consistent basis sets for the 5d elements Hf-Pt",
+    "journal": "J. Chem. Phys.",
+    "volume": "135",
+    "pages": "044105",
+    "year": "2011",
+    "doi": "10.1063/1.3615062"
+  },
+  "hill2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Peterson, Kirk A."
+    ],
+    "title": "Explicitly Correlated Coupled Cluster Calculations for Molecules Containing Group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) Elements: Optimized Complementary Auxiliary Basis Sets for Valence and Core-Valence Basis Sets",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "8",
+    "pages": "518-526",
+    "year": "2012",
+    "doi": "10.1021/ct200856f"
+  },
+  "hill2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant"
+    ],
+    "title": "Auxiliary basis sets for density-fitting second-order Møller-Plesset perturbation theory: Weighted core-valence correlation consistent basis sets for the 4delements Y-Pd",
+    "journal": "J. Comput. Chem.",
+    "volume": "34",
+    "pages": "2168-2177",
+    "year": "2013",
+    "doi": "10.1002/jcc.23372"
+  },
+  "hill2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hill, J. Grant",
+      "Peterson,Kirk A."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. XI. Pseudopotential-based and all-electron relativistic basis sets for alkali metal (K-Fr) and alkaline earth (Ca-Ra) elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "147",
+    "pages": "244106",
+    "year": "2018",
+    "doi": "10.1063/1.5010587"
+  },
+  "hollwarth1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Höllwarth, A.",
+      "Böhme, M.",
+      "Dapprich, S.",
+      "Ehlers, A. W.",
+      "Gobbi, A.",
+      "Jonas, V.",
+      "Köhler, K. F.",
+      "Stegmann, R.",
+      "Veldkamp, A. ",
+      "Frenking, G."
+    ],
+    "title": "A set of five-component d-type polarization functions has been optimized for the main group elements AlBi at the energetically lowest lying s2pn electronic states for use with the effective core potentials of Hay and Wadt at the CISD level of theory. Also a set of f-type polarization functions is suggested for the elements Zn, Cd and Hg.",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "208",
+    "pages": "237-240",
+    "year": "1993",
+    "doi": "0.1016/0009-2614(93)89068-S"
+  },
+  "hulsen2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hülsen, Michael",
+      "Weigand, Anna",
+      "Dolg, Michael"
+    ],
+    "title": "Quasirelativistic energy-consistent 4f-in-core pseudopotentials for tetravalent lanthanide elements",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "122",
+    "pages": "23-29",
+    "year": "2009",
+    "doi": "10.1007/s00214-008-0481-0"
+  },
+  "hurley1986a": {
+    "_entry_type": "article",
+    "authors": [
+      "Hurley, M. M.",
+      "Pacios, Luis Fernandez",
+      "Christiansen, P. A.",
+      "Ross, R. B.",
+      "Ermler, W. C."
+    ],
+    "title": "Ab initio relativistic effective potentials with spin-orbit operators. II. K through Kr",
+    "journal": "J. Chem. Phys.",
+    "volume": "84",
+    "pages": "6840-6853",
+    "year": "1986",
+    "doi": "10.1063/1.450689"
+  },
+  "huzinaga1965a": {
+    "_entry_type": "article",
+    "authors": [
+      "Huzinaga, S."
+    ],
+    "title": "Gaussian‐Type Functions for Polyatomic Systems. I",
+    "journal": "J. Chem. Phys.",
+    "volume": "42",
+    "pages": "1293-1302",
+    "year": "1965",
+    "doi": "10.1063/1.1696113"
+  },
+  "huzinaga1990a": {
+    "_entry_type": "article",
+    "authors": [
+      "Huzinaga, S.",
+      "Miguel, B."
+    ],
+    "title": "A comparison of the geometrical sequence formula and the well-tempered formulas for generating GTO basis orbital exponents",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "175",
+    "pages": "289-291",
+    "year": "1990",
+    "doi": "10.1016/0009-2614(90)80112-q"
+  },
+  "huzinaga1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Huzinaga, Sigeru",
+      "Klobukowski, Mariusz"
+    ],
+    "title": "Well-tempered Gaussian basis sets for the calculation of matrix Hartree-Fock wavefunctions",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "212",
+    "pages": "260-264",
+    "year": "1993",
+    "doi": "10.1016/0009-2614(93)89323-a"
+  },
+  "igelmann1987a": {
+    "_entry_type": "phdthesis",
+    "type": "Doktorarbeit",
+    "authors": [
+      "Igel-Mann, Gundrun"
+    ],
+    "title": "Semiempirische Pseudopotentiale : Unters. an Hauptgruppenelementen u. Nebengruppenelementen mit abgeschlossener d-Schale",
+    "school": "Institut für Theoretische Chemie, Universität Stuttgart",
+    "year": "1987",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "igelmann1988a": {
+    "_entry_type": "article",
+    "authors": [
+      "Igel-Mann, G.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "Pseudopotentials for main group elements (IIIa through VIIa)",
+    "journal": "Mol. Phys.",
+    "volume": "65",
+    "pages": "1321-1328",
+    "year": "1988",
+    "doi": "10.1080/00268978800101811"
+  },
+  "igelmann1988b": {
+    "_entry_type": "misc",
+    "authors": [
+      "Igel-Mann, G."
+    ],
+    "title": "unpublished",
+    "year": "1988",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "iron2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Iron, Mark A.",
+      "Oren, Mikhal",
+      "Martin, Jan M. L."
+    ],
+    "title": "Alkali and alkaline earth metal compounds: core-valence basis sets and importance of subvalence correlation",
+    "journal": "Mol. Phys.",
+    "volume": "101",
+    "pages": "1345-1361",
+    "year": "2003",
+    "doi": "10.1080/0026897031000094498"
+  },
+  "jakobsen2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jakobsen, Philip",
+      "Jensen, Frank"
+    ],
+    "title": "Probing basis set requirements for calculating hyperfine coupling constants",
+    "journal": "J. Chem. Phys.",
+    "volume": "151",
+    "pages": "174107",
+    "year": "2019",
+    "doi": "10.1063/1.5128286"
+  },
+  "jensen2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Polarization consistent basis sets: Principles",
+    "journal": "J. Chem. Phys.",
+    "volume": "115",
+    "pages": "9113-9125",
+    "year": "2001",
+    "doi": "10.1063/1.1413524"
+  },
+  "jensen2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Polarization consistent basis sets. II. Estimating the Kohn-Sham basis set limit",
+    "journal": "J. Chem. Phys.",
+    "volume": "116",
+    "pages": "7372-7379",
+    "year": "2002",
+    "doi": "10.1063/1.1465405"
+  },
+  "jensen2002b": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Polarization consistent basis sets. III. The importance of diffuse functions",
+    "journal": "J. Chem. Phys.",
+    "volume": "117",
+    "pages": "9234-9240",
+    "year": "2002",
+    "doi": "10.1063/1.1515484"
+  },
+  "jensen2002c": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Erratum: 'Polarization consistent basis sets: Principles' [J. Chem. Phys. 115, 9113 (2001)]",
+    "journal": "J. Chem. Phys.",
+    "volume": "116",
+    "pages": "3502-3502",
+    "year": "2002",
+    "doi": "10.1063/1.1445402"
+  },
+  "jensen2004a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank",
+      "Helgaker, Trygve"
+    ],
+    "title": "Polarization consistent basis sets. V. The elements Si-Cl",
+    "journal": "J. Chem. Phys.",
+    "volume": "121",
+    "pages": "3463-3470",
+    "year": "2004",
+    "doi": "10.1063/1.1756866"
+  },
+  "jensen2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "The Basis Set Convergence of Spin-Spin Coupling Constants Calculated by Density Functional Methods",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "2",
+    "pages": "1360-1369",
+    "year": "2006",
+    "doi": "10.1021/ct600166u"
+  },
+  "jensen2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Polarization Consistent Basis Sets. 4: The Elements He, Li, Be, B, Ne, Na, Mg, Al, and Ar",
+    "journal": "J. Phys. Chem. A",
+    "volume": "111",
+    "pages": "11198-11204",
+    "year": "2007",
+    "doi": "10.1021/jp068677h"
+  },
+  "jensen2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Basis Set Convergence of Nuclear Magnetic Shielding Constants Calculated by Density Functional Methods",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "4",
+    "pages": "719-727",
+    "year": "2008",
+    "doi": "10.1021/ct800013z"
+  },
+  "jensen2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "The optimum contraction of basis sets for calculating spin-spin coupling constants",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "126",
+    "pages": "371-382",
+    "year": "2010",
+    "doi": "10.1007/s00214-009-0699-5"
+  },
+  "jensen2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Polarization consistent basis sets. VII. The elements K, Ca, Ga, Ge, As, Se, Br, and Kr",
+    "journal": "J. Chem. Phys.",
+    "volume": "136",
+    "pages": "114107",
+    "year": "2012",
+    "doi": "10.1063/1.3690460"
+  },
+  "jensen2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Polarization consistent basis sets. VIII. The transition metals Sc-Zn",
+    "journal": "J. Chem. Phys.",
+    "volume": "138",
+    "pages": "014107",
+    "year": "2013",
+    "doi": "10.1063/1.4773017"
+  },
+  "jensen2014a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Unifying General and Segmented Contracted Basis Sets. Segmented Polarization Consistent Basis Sets",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "10",
+    "pages": "1074-1085",
+    "year": "2014",
+    "doi": "10.1021/ct401026a"
+  },
+  "jensen2015a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jensen, Frank"
+    ],
+    "title": "Segmented Contracted Basis Sets Optimized for Nuclear Magnetic Shielding",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "11",
+    "pages": "132-138",
+    "year": "2015",
+    "doi": "10.1021/ct5009526"
+  },
+  "jong2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Jong, W. A",
+      "Harrison, R. J.",
+      "Dixon, D. A."
+    ],
+    "title": "Parallel Douglas-Kroll energy and gradients in NWChem: Estimating scalar relativistic effects using Douglas-Kroll contracted basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "114",
+    "pages": "48",
+    "year": "2001",
+    "doi": "10.1063/1.1329891"
+  },
+  "jorge2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jorge, F. E.",
+      "Sagrillo, P. S.",
+      "de Oliveira, A. R."
+    ],
+    "title": "Gaussian basis sets of 5 zeta valence quality for correlated wave functions",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "432",
+    "pages": "558-563",
+    "year": "2006",
+    "doi": "10.1016/j.cplett.2006.10.026"
+  },
+  "jorge2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jorge, F. E.",
+      "Neto, A. Canal",
+      "Camiletti, G. G.",
+      "Machado, S. F."
+    ],
+    "title": "Contracted Gaussian basis sets for Douglas-Kroll-Hess calculations: Estimating scalar relativistic effects of some atomic and molecular properties",
+    "journal": "J. Chem. Phys.",
+    "volume": "130",
+    "pages": "064108",
+    "year": "2009",
+    "doi": "10.1063/1.3072360"
+  },
+  "jorge2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Jorge, F. E.",
+      "Martins, L. S. C.",
+      "Franco, M. L."
+    ],
+    "title": "All-electron double zeta basis sets for the lanthanides: Application in atomic and molecular property calculations",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "643",
+    "pages": "84-88",
+    "year": "2016",
+    "doi": "10.1016/j.cplett.2015.11.013"
+  },
+  "kaupp1991a": {
+    "_entry_type": "article",
+    "authors": [
+      "Kaupp, M.",
+      "Schleyer, P. v. R.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "Pseudopotential approaches to Ca, Sr, and Ba hydrides. Why are some alkaline earth MX2compounds bent?",
+    "journal": "J. Chem. Phys.",
+    "volume": "94",
+    "pages": "1360-1366",
+    "year": "1991",
+    "doi": "10.1063/1.459993"
+  },
+  "kendall1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Kendall, Rick A.",
+      "Dunning, Thom H.",
+      "Harrison, Robert J."
+    ],
+    "title": "Electron affinities of the first-row atoms revisited. Systematic basis sets and wave functions",
+    "journal": "J. Chem. Phys.",
+    "volume": "96",
+    "pages": "6796-6806",
+    "year": "1992",
+    "doi": "10.1063/1.462569"
+  },
+  "kjaer2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Kjær, Hanna",
+      "Sauer, Stephan P. A."
+    ],
+    "title": "Pople Style Basis Sets for the Calculation of NMR Spin-Spin Coupling Constants: the 6-31G-J and 6-311G-J Basis Sets",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "7",
+    "pages": "4070-4076",
+    "year": "2011",
+    "doi": "10.1021/ct200546q"
+  },
+  "koga1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Koga, Toshikatsu",
+      "Tatewaki, Hiroshi",
+      "Matsuyama, Hisashi",
+      "Satoh, Yasuharu"
+    ],
+    "title": "Contracted Gaussian-type basis functions revisited. III. Atoms K through Kr",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "102",
+    "pages": "105-111",
+    "year": "1999",
+    "doi": "10.1007/s002140050479"
+  },
+  "koga2000a": {
+    "_entry_type": "article",
+    "authors": [
+      "Koga, Toshikatsu",
+      "Tatewaki, Hiroshi",
+      "Shimazaki, Tsuyoshi"
+    ],
+    "title": "Chemically reliable uncontracted Gaussian-type basis sets for atoms H to Lr",
+    "journal": "Chem. Phys. Lett",
+    "volume": "328",
+    "pages": "473-482",
+    "year": "2000",
+    "doi": "10.1016/S0009-2614(00)00948-9"
+  },
+  "koga2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Koga, Toshikatsu",
+      "Yamamoto, Shigeyoshi",
+      "Shimazaki, Tsuyoshi",
+      "Tatewaki, Hiroshi"
+    ],
+    "title": "Contracted Gaussian-type basis functions revisited. IV. Atoms Rb to Xe",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "108",
+    "pages": "41-45",
+    "year": "2002",
+    "doi": "10.1007/s00214-002-0354-x"
+  },
+  "koput2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Koput, Jacek",
+      "Peterson, Kirk A."
+    ],
+    "title": "Ab Initio Potential Energy Surface and Vibrational-Rotational Energy Levels of X2Σ+CaOH",
+    "journal": "J. Phys. Chem. A",
+    "volume": "106",
+    "pages": "9595-9599",
+    "year": "2002",
+    "doi": "10.1021/jp026283u"
+  },
+  "krishnan1980a": {
+    "_entry_type": "article",
+    "authors": [
+      "Krishnan, R.",
+      "Binkley, J. S.",
+      "Seeger, R.",
+      "Pople, J. A."
+    ],
+    "title": "Self-consistent molecular orbital methods. XX. A basis set for correlated wave functions",
+    "journal": "J. Chem. Phys.",
+    "volume": "72",
+    "pages": "650-654",
+    "year": "1980",
+    "doi": "10.1063/1.438955"
+  },
+  "kritikou2015a": {
+    "_entry_type": "article",
+    "authors": [
+      "Kritikou, Stella",
+      "Hill, J. Grant"
+    ],
+    "title": "Auxiliary Basis Sets for Density Fitting in Explicitly Correlated Calculations: The Atoms H-Ar",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "11",
+    "pages": "5269-5276",
+    "year": "2015",
+    "doi": "10.1021/acs.jctc.5b00816"
+  },
+  "kuchle1991a": {
+    "_entry_type": "article",
+    "authors": [
+      "Küchle, W.",
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "Ab initiopseudopotentials for Hg through Rn",
+    "journal": "Mol. Phys.",
+    "volume": "74",
+    "pages": "1245-1263",
+    "year": "1991",
+    "doi": "10.1080/00268979100102941"
+  },
+  "kuchle1993a": {
+    "_entry_type": "phdthesis",
+    "type": "Diplomarbeit",
+    "authors": [
+      "Küchle, W."
+    ],
+    "title": "<unknown title>",
+    "school": "<unknown school>",
+    "year": "1993",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "kuchle1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Küchle, W.",
+      "Dolg, M.",
+      "Stoll, H.",
+      "Preuss, H."
+    ],
+    "title": "Energy‐adjusted pseudopotentials for the actinides. Parameter sets and test calculations for thorium and thorium monoxide",
+    "journal": "J. Chem. Phys.",
+    "volume": "100",
+    "pages": "7535-7542",
+    "year": "1994",
+    "doi": "10.1063/1.466847"
+  },
+  "kuchleXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Küchle, W."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "kumar2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "Kumar, Chandan",
+      "Fliegl, Heike",
+      "Jensen, Frank",
+      "Teale, Andrew M.",
+      "Reine, Simen",
+      "Kjaergaard, Thomas"
+    ],
+    "title": "Accelerating Kohn-Sham response theory using density fitting and the auxiliary-density-matrix method",
+    "journal": "Int. J. Quantum Chem.",
+    "volume": "118",
+    "pages": "e25639",
+    "year": "2018",
+    "doi": "10.1002/qua.25639"
+  },
+  "kutzelnigg1991a": {
+    "_entry_type": "incollection",
+    "authors": [
+      "Kutzelnigg, Werner",
+      "Fleischer, Ulrich",
+      "Schindler, Michael"
+    ],
+    "title": "The IGLO-Method: Ab-initio Calculation and Interpretation of NMR Chemical Shifts and Magnetic Susceptibilities",
+    "booktitle": "Deuterium and Shift Calculation",
+    "series": "NMR Basic Principles and Progress",
+    "editors": [
+      "Maryvonne L. Martin",
+      "Gérard J. Martin"
+    ],
+    "volume": "16",
+    "pages": "165-262",
+    "year": "1991",
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn": "978-3-642-75932-1",
+    "doi": "10.1007/978-3-642-75932-1_3"
+  },
+  "labello2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Labello, Nicholas P.",
+      "Ferreira, Antonio M.",
+      "Kurtz, Henry A."
+    ],
+    "title": "Correlated, relativistic, and basis set limit molecular polarizability calculations to evaluate an augmented effective core potential basis set",
+    "journal": "Int. J. Quantum Chem.",
+    "volume": "106",
+    "pages": "3140-3148",
+    "year": "2006",
+    "doi": "10.1002/qua.21129"
+  },
+  "lajohn1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "LaJohn, L. A.",
+      "Christiansen, P. A.",
+      "Ross, R. B.",
+      "Atashroo, T.",
+      "Ermler, W. C."
+    ],
+    "title": "Ab initio relativistic effective potentials with spin-orbit operators. III. Rb through Xe",
+    "journal": "J. Chem. Phys.",
+    "volume": "87",
+    "pages": "2812-2824",
+    "year": "1987",
+    "doi": "10.1063/1.453069"
+  },
+  "laun2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "Laun, Joachim",
+      "Oliveira, Daniel Vilela",
+      "Bredow, Thomas"
+    ],
+    "title": "Consistent gaussian basis sets of double‐ and triple‐zeta valence with polarization quality of the fifth period for solid‐state calculations",
+    "journal": "J. Comput. Chem.",
+    "volume": "39",
+    "pages": "1285-1290",
+    "year": "2018",
+    "doi": "10.1002/jcc.25195"
+  },
+  "lehtola2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Jussi",
+      "Manninen, Pekka",
+      "Hakala, Mikko",
+      "Hämäläinen, Keijo"
+    ],
+    "title": "Completeness-optimized basis sets: Application to ground-state electron momentum densities",
+    "journal": "J. Chem. Phys.",
+    "volume": "137",
+    "pages": "104105",
+    "year": "2012",
+    "doi": "10.1063/1.4749272"
+  },
+  "lehtola2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Susi",
+      "Manninen, Pekka",
+      "Hakala, Mikko",
+      "Hämäläinen, Keijo"
+    ],
+    "title": "Contraction of completeness-optimized basis sets: Application to ground-state electron momentum densities",
+    "journal": "J. Chem. Phys.",
+    "volume": "138",
+    "pages": "044109",
+    "year": "2013",
+    "doi": "10.1063/1.4788635"
+  },
+  "lehtola2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Susi"
+    ],
+    "title": "Curing basis set overcompleteness with pivoted Cholesky decompositions",
+    "journal": "J. Chem. Phys.",
+    "volume": "151",
+    "pages": "241102",
+    "year": "2019",
+    "doi": "10.1063/1.5139948"
+  },
+  "lehtola2019b": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Susi"
+    ],
+    "title": "Assessment of Initial Guesses for Self-Consistent Field Calculations. Superposition of Atomic Potentials: Simple yet Efficient",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "15",
+    "pages": "1593-1604",
+    "year": "2019",
+    "doi": "10.1021/acs.jctc.8b01089"
+  },
+  "lehtola2020a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Susi"
+    ],
+    "title": "Polarized Gaussian basis sets from one-electron ions",
+    "journal": "J. Chem. Phys.",
+    "volume": "152",
+    "pages": "134108",
+    "year": "2020",
+    "doi": "10.1063/1.5144964"
+  },
+  "lehtola2020b": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Susi",
+      "Visscher, Lucas",
+      "Engel, Eberhard"
+    ],
+    "title": "Efficient implementation of the superposition of atomic potentials initial guess for electronic structure calculations in Gaussian basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "152",
+    "pages": "144105",
+    "year": "2020",
+    "doi": "10.1063/5.0004046"
+  },
+  "lehtola2020c": {
+    "_entry_type": "article",
+    "authors": [
+      "Lehtola, Susi"
+    ],
+    "title": "Accurate reproduction of strongly repulsive interatomic potentials",
+    "journal": "Phys. Rev. A",
+    "volume": "101",
+    "pages": "032504",
+    "year": "2020",
+    "doi": "10.1103/PhysRevA.101.032504"
+  },
+  "leininger1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Leininger, Thierry",
+      "Nicklass, Andreas",
+      "Küchle, Wolfgang",
+      "Stoll, Hermann",
+      "Dolg, Michael",
+      "Bergner, Andreas"
+    ],
+    "title": "The accuracy of the pseudopotential approximation: non-frozen-core effects for spectroscopic constants of alkali fluorides XF (X = K, Rb, Cs)",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "255",
+    "pages": "274-280",
+    "year": "1996",
+    "doi": "10.1016/0009-2614(96)00382-x"
+  },
+  "leininger1996b": {
+    "_entry_type": "article",
+    "authors": [
+      "Leininger, Thierry",
+      "Nicklass, Andreas",
+      "Stoll, Hermann",
+      "Dolg, Michael",
+      "Schwerdtfeger, Peter"
+    ],
+    "title": "The accuracy of the pseudopotential approximation. II. A comparison of various core sizes for indium pseudopotentials in calculations for spectroscopic constants of InH, InF, and InCl",
+    "journal": "J. Chem. Phys.",
+    "volume": "105",
+    "pages": "1052-1059",
+    "year": "1996",
+    "doi": "10.1063/1.471950"
+  },
+  "leininger1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Leininger, Thierry",
+      "Berning, Andreas",
+      "Nicklass, Andreas",
+      "Stoll, Hermann",
+      "Werner, Hans-Joachim",
+      "Flad, Heinz-Jürgen"
+    ],
+    "title": "Spin-orbit interaction in heavy group 13 atoms and TlAr",
+    "journal": "Chemical Physics",
+    "volume": "217",
+    "pages": "19-27",
+    "year": "1997",
+    "doi": "10.1016/s0301-0104(97)00043-8"
+  },
+  "li1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Li, Jiabo",
+      "Cramer, Christopher J.",
+      "Truhlar, Donald G."
+    ],
+    "title": "MIDI! basis set for silicon, bromine, and iodine",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "99",
+    "pages": "192--196",
+    "year": "1998",
+    "doi": "10.1007/s002140050323"
+  },
+  "lim2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lim, Ivan S.",
+      "Schwerdtfeger, Peter",
+      "Metz, Bernhard",
+      "Stoll, Hermann"
+    ],
+    "title": "All-electron and relativistic pseudopotential studies for the group 1 element polarizabilities from K to element 119",
+    "journal": "J. Chem. Phys.",
+    "volume": "122",
+    "pages": "104103",
+    "year": "2005",
+    "doi": "10.1063/1.1856451"
+  },
+  "lim2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lim, Ivan S.",
+      "Stoll, Hermann",
+      "Schwerdtfeger, Peter"
+    ],
+    "title": "Relativistic small-core energy-consistent pseudopotentials for the alkaline-earth elements from Ca to Ra",
+    "journal": "J. Chem. Phys.",
+    "volume": "124",
+    "pages": "034107",
+    "year": "2006",
+    "doi": "10.1063/1.2148945"
+  },
+  "lopez2023a": {
+    "_entry_type": "article",
+    "authors": [
+      "López, Ignacio Ema",
+      "Moreno, Guillermo Ramírez",
+      "Fernández, Rafael López",
+      "de la Vega, José Manuel García"
+    ],
+    "title": "Serially improved GTOs for molecular applications (SIGMA): Basis sets from H to Ne",
+    "journal": "J. Chem. Phys.",
+    "volume": "158",
+    "pages": "244112",
+    "year": "2023",
+    "doi": "10.1063/5.0150615"
+  },
+  "lu2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lu, Qing",
+      "Peterson, Kirk A."
+    ],
+    "title": "Correlation consistent basis sets for lanthanides: The atoms La-Lu",
+    "journal": "J. Chem. Phys.",
+    "volume": "145",
+    "pages": "054111",
+    "year": "2016",
+    "doi": "10.1063/1.4959280"
+  },
+  "lynch2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Lynch, Benjamin J.",
+      "Zhao, Yan",
+      "Truhlar, Donald G."
+    ],
+    "title": "Effectiveness of Diffuse Basis Functions for Calculating Relative Energies by Density Functional Theory",
+    "journal": "J. Phys. Chem. A",
+    "volume": "107",
+    "pages": "1384-1388",
+    "year": "2003",
+    "doi": "10.1021/jp021590l"
+  },
+  "machado2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Machado, S. F.",
+      "Camiletti, G. G.",
+      "Neto, A. Canal",
+      "Jorge, F. E.",
+      "Jorge, Raquel S."
+    ],
+    "title": "Gaussian basis set of triple zeta valence quality for the atoms from K to Kr: Application in DFT and CCSD(T) calculations of molecular properties",
+    "journal": "Mol. Phys.",
+    "volume": "107",
+    "pages": "1713-1727",
+    "year": "2009",
+    "doi": "10.1080/00268970903042258"
+  },
+  "magnusson1985a": {
+    "_entry_type": "article",
+    "authors": [
+      "Magnusson, Eric",
+      "Schaefer, Henry F."
+    ],
+    "title": "Multiple d-type basis functions for molecules containing second row atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "83",
+    "pages": "5721-5726",
+    "year": "1985",
+    "doi": "10.1063/1.449647"
+  },
+  "martin2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Martin, Jan M. L.",
+      "Sundermann, Andreas"
+    ],
+    "title": "Correlation consistent valence basis sets for use with the Stuttgart-Dresden-Bonn relativistic effective core potentials: The atoms Ga-Kr and In-Xe",
+    "journal": "J. Chem. Phys.",
+    "volume": "114",
+    "pages": "3408-3420",
+    "year": "2001",
+    "doi": "10.1063/1.1337864"
+  },
+  "martins2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Martins, L. S. C.",
+      "de Souza, F. A. L.",
+      "Ceolin, G. A.",
+      "Jorge, F. E.",
+      "de Berrêdo, R. C.",
+      "Campos, C. T."
+    ],
+    "title": "Augmented Gaussian basis sets for the elements K, Sc-Kr, Rb, and Y-Xe: Application in HF, MP2, and DFT calculations of molecular electric properties",
+    "journal": "Comput. Theor. Chem.",
+    "volume": "1013",
+    "pages": "62-69",
+    "year": "2013",
+    "doi": "10.1016/j.comptc.2013.03.004"
+  },
+  "martins2015a": {
+    "_entry_type": "article",
+    "authors": [
+      "Martins, L. S. C.",
+      "Jorge, F. E.",
+      "Machado, S. F."
+    ],
+    "title": "All-electron segmented contraction basis sets of triple zeta valence quality for the fifth-row elements",
+    "journal": "Mol. Phys.",
+    "volume": "113",
+    "pages": "3578-3586",
+    "year": "2015",
+    "doi": "10.1080/00268976.2015.1040095"
+  },
+  "martins2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Martins, L. S. C.",
+      "Jorge, F. E.",
+      "Franco, M. L.",
+      "Ferreira, I. B."
+    ],
+    "title": "All-electron Gaussian basis sets of double zeta quality for the actinides",
+    "journal": "J. Chem. Phys.",
+    "volume": "145",
+    "pages": "244113",
+    "year": "2016",
+    "doi": "10.1063/1.4973377"
+  },
+  "mclean1980a": {
+    "_entry_type": "article",
+    "authors": [
+      "McLean, A. D.",
+      "Chandler, G. S."
+    ],
+    "title": "Contracted Gaussian basis sets for molecular calculations. I. Second row atoms, Z=11-18",
+    "journal": "J. Chem. Phys.",
+    "volume": "72",
+    "pages": "5639-5648",
+    "year": "1980",
+    "doi": "10.1063/1.438980"
+  },
+  "metz2000a": {
+    "_entry_type": "article",
+    "authors": [
+      "Metz, Bernhard",
+      "Stoll, Hermann",
+      "Dolg, Michael"
+    ],
+    "title": "Small-core multiconfiguration-Dirac-Hartree-Fock-adjusted pseudopotentials for post-d main group elements: Application to PbH and PbO",
+    "journal": "J. Chem. Phys.",
+    "volume": "113",
+    "pages": "2563-2569",
+    "year": "2000",
+    "doi": "10.1063/1.1305880"
+  },
+  "metz2000b": {
+    "_entry_type": "article",
+    "authors": [
+      "Metz, Bernhard",
+      "Schweizer, Marcus",
+      "Stoll, Hermann",
+      "Dolg, Michael",
+      "Liu, Wenjian"
+    ],
+    "title": "A small-core multiconfiguration Dirac-Hartree-Fock-adjusted pseudopotential for Tl - application to Tl X ( X = F, Cl, Br, I)",
+    "journal": "Theor. Chim. Acta",
+    "volume": "104",
+    "pages": "22-28",
+    "year": "2000",
+    "doi": "10.1007/s002149900101"
+  },
+  "mielke1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Mielke, Steven L.",
+      "Garrett, Bruce C.",
+      "Peterson, Kirk A."
+    ],
+    "title": "The utility of many-body decompositions for the accurate basis set extrapolation of ab initio data",
+    "journal": "J. Chem. Phys.",
+    "volume": "111",
+    "pages": "3806-3811",
+    "year": "1999",
+    "doi": "10.1063/1.479683"
+  },
+  "mielke2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Mielke, Steven L.",
+      "Garrett, Bruce C.",
+      "Peterson, Kirk A."
+    ],
+    "title": "A hierarchical family of global analytic Born-Oppenheimer potential energy surfaces for the H+H2 reaction ranging in quality from double-zeta to the complete basis set limit",
+    "journal": "J. Chem. Phys.",
+    "volume": "116",
+    "pages": "4142-4161",
+    "year": "2002",
+    "doi": "10.1063/1.1432319"
+  },
+  "mielke2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Mielke, Steven L.",
+      "Schwenke, David W.",
+      "Peterson, Kirk A."
+    ],
+    "title": "Benchmark calculations of the complete configuration-interaction limit of Born-Oppenheimer diagonal corrections to the saddle points of isotopomers of the H+H2 reaction",
+    "journal": "J. Chem. Phys.",
+    "volume": "122",
+    "pages": "224313",
+    "year": "2005",
+    "doi": "10.1063/1.1917838"
+  },
+  "mitin1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Mitin, Alexander V.",
+      "Hirsch, Gerhard",
+      "Buenker, Robert J."
+    ],
+    "title": "Accurate small split-valence 3-21SP and 4-22SP basis sets for the first-row atoms",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "259",
+    "pages": "151-158",
+    "year": "1996",
+    "doi": "10.1016/0009-2614(96)00713-0"
+  },
+  "mitin1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Mitin, Alexander V.",
+      "Hirsch, Gerhard",
+      "Buenker, Robert J."
+    ],
+    "title": "Accurate atomic Gaussian basis functions for second-row atoms: Small split-valence 3-21SP and 4-22SP basis sets",
+    "journal": "J. Comput. Chem.",
+    "volume": "18",
+    "pages": "1200-1210",
+    "year": "1997",
+    "doi": "10.1002/(sici)1096-987x(19970715)18:9<1200::aid-jcc8>3.0.co;2-v"
+  },
+  "mitin2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Mitin, Alexander V.",
+      "Baker, Jon",
+      "Pulay, Peter"
+    ],
+    "title": "An improved 6-31G* basis set for first-row transition metals",
+    "journal": "J. Chem. Phys.",
+    "volume": "118",
+    "pages": "7775-7782",
+    "year": "2003",
+    "doi": "10.1063/1.1563619"
+  },
+  "moritz2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Moritz, Anna",
+      "Cao, Xiaoyan",
+      "Dolg, Michael"
+    ],
+    "title": "Quasirelativistic energy-consistent 5f-in-core pseudopotentials for trivalent actinide elements",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "117",
+    "pages": "473-481",
+    "year": "2007",
+    "doi": "10.1007/s00214-006-0180-7"
+  },
+  "moritz2007b": {
+    "_entry_type": "article",
+    "authors": [
+      "Moritz, Anna",
+      "Cao, Xiaoyan",
+      "Dolg, Michael"
+    ],
+    "title": "Quasirelativistic energy-consistent 5f-in-core pseudopotentials for divalent and tetravalent actinide elements",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "118",
+    "pages": "845-854",
+    "year": "2007",
+    "doi": "10.1007/s00214-007-0330-6"
+  },
+  "moritz2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Moritz, Anna",
+      "Dolg, Michael"
+    ],
+    "title": "Quasirelativistic energy-consistent 5f-in-core pseudopotentials for pentavalent and hexavalent actinide elements",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "121",
+    "pages": "297-306",
+    "year": "2008",
+    "doi": "10.1007/s00214-008-0477-9"
+  },
+  "moriyamaXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Moriyama, H.",
+      "Tatewaki, H."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the Sapporo data set"
+  },
+  "mourik1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "van Mourik, Tanja",
+      "Wilson, Angela K.",
+      "Dunning, Jr, Thom H."
+    ],
+    "title": "Benchmark calculations with correlated molecular wavefunctions. XIII. Potential energy curves for He2, Ne2 and Ar2 using correlation consistent basis sets through augmented sextuple zeta",
+    "journal": "Mol. Phys.",
+    "volume": "96",
+    "pages": "529-547",
+    "year": "1999",
+    "doi": "10.1080/00268979909482990"
+  },
+  "mourik2000a": {
+    "_entry_type": "article",
+    "authors": [
+      "van Mourik, Tanja",
+      "Dunning, Jr, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. VIII. Standard and augmented sextuple zeta correlation consistent basis sets for aluminum through argon",
+    "journal": "Int. J. Quantum Chem.",
+    "volume": "76",
+    "pages": "205-221",
+    "year": "2000",
+    "doi": "10.1002/(SICI)1097-461X(2000)76:2<205::AID-QUA10>3.0.CO;2-C"
+  },
+  "nash1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Nash, Clinton S.",
+      "Bursten, Bruce E.",
+      "Ermler, Walter C."
+    ],
+    "title": "Ab initio relativistic effective potentials with spin-orbit operators. VII. Am through element 118",
+    "journal": "J. Chem. Phys.",
+    "volume": "106",
+    "pages": "5133-5142",
+    "year": "1997",
+    "doi": "10.1063/1.473992"
+  },
+  "nash1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Nash, Clinton S.",
+      "Bursten, Bruce E.",
+      "Ermler, Walter C."
+    ],
+    "title": "Erratum: 'Ab initio relativistic effective potentials with spin-orbit operators. VII. Am through element 118' [J. Chem. Phys. 106, 5133 (1997)]",
+    "journal": "J. Chem. Phys.",
+    "volume": "111",
+    "pages": "2347-2347",
+    "year": "1999",
+    "doi": "10.1063/1.479506"
+  },
+  "neese2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Neese, Frank",
+      "Valeev, Edward F."
+    ],
+    "title": "Revisiting the atomic natural orbital approach for basis sets: Robust systematic basis sets for explicitly correlated and conventional correlated ab initio methods?",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "7",
+    "pages": "33-43",
+    "year": "2011",
+    "doi": "10.1021/ct100396y"
+  },
+  "neto2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Neto, A. Canal",
+      "Muniz, E. P.",
+      "Centoducatte, R.",
+      "Jorge, F. E."
+    ],
+    "title": "Gaussian basis sets for correlated wave functions. Hydrogen, helium, first- and second-row atoms",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "718",
+    "pages": "219-224",
+    "year": "2005",
+    "doi": "10.1016/j.theochem.2004.11.037"
+  },
+  "neto2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Neto, A. Canal",
+      "Jorge, F. E."
+    ],
+    "title": "All-electron double zeta basis sets for the most fifth-row atoms: Application in DFT spectroscopic constant calculations",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "582",
+    "pages": "158-162",
+    "year": "2013",
+    "doi": "10.1016/j.cplett.2013.07.045"
+  },
+  "nicklass1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Nicklass, Andreas",
+      "Dolg, Michael",
+      "Stoll, Hermann",
+      "Preuss, Heinzwerner"
+    ],
+    "title": "Ab initio energy‐adjusted pseudopotentials for the noble gases Ne through Xe: Calculation of atomic dipole and quadrupole polarizabilities",
+    "journal": "J. Chem. Phys.",
+    "volume": "102",
+    "pages": "8942-8952",
+    "year": "1995",
+    "doi": "10.1063/1.468948"
+  },
+  "noro1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Contracted polarization functions for the atoms helium through neon",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "98",
+    "pages": "25-32",
+    "year": "1997",
+    "doi": "10.1007/s002140050274"
+  },
+  "noro2000a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu",
+      "Matsuyama, Hisashi"
+    ],
+    "title": "Valence and correlated basis sets for the first-row transition atoms from Sc to Zn",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "104",
+    "pages": "146-152",
+    "year": "2000",
+    "doi": "10.1007/s002140000126"
+  },
+  "noro2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Correlating basis sets for the H atom and the alkali-metal atoms from Li to Rb",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "109",
+    "pages": "85-90",
+    "year": "2003",
+    "doi": "10.1007/s00214-002-0425-z"
+  },
+  "noro2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Core-valence correlating basis sets for alkali and alkaline earth metal atoms",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "121",
+    "pages": "289-295",
+    "year": "2008",
+    "doi": "10.1007/s00214-008-0476-x"
+  },
+  "noro2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu",
+      "Saito, Shiro L."
+    ],
+    "title": "Relativistic contracted Gaussian-type basis functions for atoms K through Xe",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "481",
+    "pages": "229-233",
+    "year": "2009",
+    "doi": "10.1016/j.cplett.2009.09.044"
+  },
+  "noro2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Segmented contracted basis sets for atoms H through Xe: Sapporo-(DK)-nZP sets (n = D, T, Q)",
+    "journal": "Theoretical Chemistry Accounts",
+    "volume": "131",
+    "pages": "1124",
+    "year": "2012",
+    "doi": "10.1007/s00214-012-1124-z"
+  },
+  "noro2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Noro, Takeshi",
+      "Sekiya, Masahiro",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Sapporo-(DKH3)-nZP (n = D, T, Q) sets for the sixth period s-, d-, and p-block atoms",
+    "journal": "Theoretical Chemistry Accounts",
+    "volume": "132",
+    "pages": "1363",
+    "year": "2013",
+    "doi": "10.1007/s00214-013-1363-7"
+  },
+  "oliveira2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Oliveira, P. J. P.",
+      "Jorge, F. E."
+    ],
+    "title": "Augmented Gaussian basis set of quintuple zeta valence quality for H and from Li to Ar: Applications in DFT calculations of molecular electric properties",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "463",
+    "pages": "235-239",
+    "year": "2008",
+    "doi": "10.1016/j.cplett.2008.08.004"
+  },
+  "oliveira2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Oliveira, P. J. P.",
+      "Barros, C. L.",
+      "Jorge, F. E.",
+      "Neto, A. Canal",
+      "Campos, M."
+    ],
+    "title": "Augmented Gaussian basis set of double zeta valence quality for the atoms Rb and Y-Xe: Application in DFT calculations of molecular electric properties",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "948",
+    "pages": "43-46",
+    "year": "2010",
+    "doi": "10.1016/j.theochem.2010.02.017"
+  },
+  "oliveira2018a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Oliveira, A. Z.",
+      "Campos, C. T.",
+      "Jorge, F. E.",
+      "Ferreira, I. B.",
+      "Fantin, P. A."
+    ],
+    "title": "All-electron triple zeta basis sets for the actinides",
+    "journal": "Comput. Theor. Chem.",
+    "volume": "1135",
+    "pages": "28-33",
+    "year": "2018",
+    "doi": "j.comptc.2018.05.010"
+  },
+  "oliveira2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "de Oliveira, A. Z.",
+      "Ferreira, I. B.",
+      "Campos, C. T.",
+      "Jorge, F. E.",
+      "Fantin, P. A."
+    ],
+    "title": "Segmented all-electron basis sets of triple zeta quality for the lanthanides: application to structure calculations of lanthanide monoxides",
+    "journal": "J. Mol. Model.",
+    "volume": "25",
+    "pages": "38",
+    "year": "2019",
+    "doi": "10.1007/s00894-019-3924-8"
+  },
+  "oliveira2019b": {
+    "_entry_type": "article",
+    "authors": [
+      "Oliveira, Daniel Vilela",
+      "Laun, Joachim",
+      "Peintinger, Michael F.",
+      "Bredow, Thomas"
+    ],
+    "title": "BSSE‐correction scheme for consistent gaussian basis sets of double‐ and triple‐zeta valence with polarization quality for solid‐state calculations",
+    "journal": "J. Comput. Chem.",
+    "volume": "40",
+    "pages": "2364-2376",
+    "year": "2019",
+    "doi": "10.1002/jcc.26013"
+  },
+  "ortiz1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ortiz, J. V.",
+      "Hay, P. Jeffrey",
+      "Martin, Richard L."
+    ],
+    "title": "Role of d and f orbitals in the geometries of low-valent actinide compounds. Ab initio studies of U(CH3)3, Np(CH3)3, and Pu(CH3)3",
+    "journal": "J. Am. Chem. Soc.",
+    "volume": "114",
+    "pages": "2736-2737",
+    "year": "1992",
+    "doi": "10.1021/ja00033a068"
+  },
+  "osanai2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Osanai, You",
+      "Sekiya, Masahiro",
+      "Noro, Takeshi",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Valence and correlating basis sets for the second transition-metal atoms from Y to Cd",
+    "journal": "Mol. Phys.",
+    "volume": "101",
+    "pages": "65-71",
+    "year": "2003",
+    "doi": "10.1080/00268970210162763"
+  },
+  "pacios1985a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pacios, Luis Fernandez",
+      "Christiansen, P. A."
+    ],
+    "title": "Ab initio relativistic effective potentials with spin-orbit operators. I. Li through Ar",
+    "journal": "J. Chem. Phys.",
+    "volume": "82",
+    "pages": "2664-2671",
+    "year": "1985",
+    "doi": "10.1063/1.448263"
+  },
+  "pantazis2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pantazis, Dimitrios A.",
+      "Chen, Xian-Yang",
+      "Landis, Clark R.",
+      "Neese, Frank"
+    ],
+    "title": "All-Electron Scalar Relativistic Basis Sets for Third-Row Transition Metal Atoms",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "4",
+    "pages": "908-919",
+    "year": "2008",
+    "doi": "10.1021/ct800047t"
+  },
+  "pantazis2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pantazis, Dimitrios A.",
+      "Neese, Frank"
+    ],
+    "title": "All-Electron Scalar Relativistic Basis Sets for the Lanthanides",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "5",
+    "pages": "2229-2238",
+    "year": "2009",
+    "doi": "10.1021/ct900090f"
+  },
+  "pantazis2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pantazis, Dimitrios A.",
+      "Neese, Frank"
+    ],
+    "title": "All-Electron Scalar Relativistic Basis Sets for the Actinides",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "7",
+    "pages": "677-684",
+    "year": "2011",
+    "doi": "10.1021/ct100736b"
+  },
+  "pantazis2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pantazis, Dimitrios A.",
+      "Neese, Frank"
+    ],
+    "title": "All-electron scalar relativistic basis sets for the 6p elements",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "131",
+    "pages": "1292",
+    "year": "2012",
+    "doi": "10.1007/s00214-012-1292-x"
+  },
+  "papajak2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Papajak, Ewa",
+      "Leverentz, Hannah R.",
+      "Zheng, Jingjing",
+      "Truhlar, Donald G."
+    ],
+    "title": "Efficient Diffuse Basis Sets: cc-pVxZ+ and maug-cc-pVxZ",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "5",
+    "pages": "1197-1202",
+    "year": "2009",
+    "doi": "10.1021/ct800575z"
+  },
+  "papajak2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Papajak, Ewa",
+      "Truhlar, Donald G."
+    ],
+    "title": "Efficient Diffuse Basis Sets for Density Functional Theory",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "6",
+    "pages": "597-601",
+    "year": "2010",
+    "doi": "10.1021/ct900566x"
+  },
+  "papajak2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Papajak, Ewa",
+      "Truhlar, Donald G."
+    ],
+    "title": "Convergent Partially Augmented Basis Sets for Post-Hartree-Fock Calculations of Molecular Properties and Reaction Barrier Heights",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "7",
+    "pages": "10-18",
+    "year": "2011",
+    "doi": "10.1021/ct1005533"
+  },
+  "partridge1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "Partridge, Harry"
+    ],
+    "title": "Near Hartree-Fock quality GTO basis sets for the second-row atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "87",
+    "pages": "6643-6647",
+    "year": "1987",
+    "doi": "10.1063/1.453450"
+  },
+  "partridge1989a": {
+    "_entry_type": "article",
+    "authors": [
+      "Partridge, Harry"
+    ],
+    "title": "Near Hartree-Fock quality GTO basis sets for the first- and third-row atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "90",
+    "pages": "1043-1047",
+    "year": "1989",
+    "doi": "10.1063/1.456157"
+  },
+  "pathak2023a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pathak, Shivesh",
+      "López, Ignacio Ema",
+      "Lee, Alex J.",
+      "Brickner, William P.",
+      "Fernández, Rafael López",
+      "Lehtola, Susi",
+      "Rackers, Joshua A."
+    ],
+    "title": "Accurate Hellmann-Feynman forces from density functional calculations with augmented Gaussian basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "158",
+    "pages": "014104",
+    "year": "2023",
+    "doi" : "10.1063/5.0130668"
+  },
+  "paschoal2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Paschoal, Diego",
+      "Marcial, Bruna L.",
+      "Lopes, Juliana Fedoce",
+      "De Almeida, Wagner B.",
+      "Santos, Hélio F. Dos"
+    ],
+    "title": "The role of the basis set and the level of quantum mechanical theory in the prediction of the structure and reactivity of cisplatin",
+    "journal": "J. Comput. Chem.",
+    "volume": "33",
+    "pages": "2292-2302",
+    "year": "2012",
+    "doi": "10.1002/jcc.23061"
+  },
+  "paschoal2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Paschoal, Diego",
+      "Santos, Hélio F. Dos"
+    ],
+    "title": "Assessing the quantum mechanical level of theory for prediction of linear and nonlinear optical properties of push-pull organic molecules",
+    "journal": "J. Mol. Model.",
+    "volume": "19",
+    "pages": "2079-2090",
+    "year": "2013",
+    "doi": "10.1007/s00894-012-1644-4"
+  },
+  "paschoal2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Paschoal, D.",
+      "Guerra, C. Fonseca",
+      "de Oliveira, M. A. L.",
+      "Ramalho, T. C.",
+      "Santos, H. F. Dos"
+    ],
+    "title": "Predicting Pt-195 NMR chemical shift using new relativistic all-electron basis set",
+    "journal": "J. Comput. Chem.",
+    "volume": "37",
+    "pages": "2360-2373",
+    "year": "2016",
+    "doi": "10.1002/jcc.24461"
+  },
+  "peintinger2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peintinger, Michael F.",
+      "Oliveira, Daniel Vilela",
+      "Bredow, Thomas"
+    ],
+    "title": "Consistent Gaussian basis sets of triple‐zeta valence with polarization quality for solid‐state calculations",
+    "journal": "J. Comput. Chem.",
+    "volume": "34",
+    "pages": "451-459",
+    "year": "2013",
+    "doi": "10.1002/jcc.23153"
+  },
+  "peterson1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Woon, David E.",
+      "Dunning, Jr, Thom H."
+    ],
+    "title": "Benchmark calculations with correlated molecular wave functions. IV. The classical barrier height of the H+H2→H2+H reaction",
+    "journal": "J. Chem. Phys.",
+    "volume": "100",
+    "pages": "7410-7415",
+    "year": "1994",
+    "doi": "10.1063/1.466884"
+  },
+  "peterson2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Dunning, Thom H."
+    ],
+    "title": "Accurate correlation consistent basis sets for molecular core-valence correlation effects: The second row atoms Al-Ar, and the first row atoms B-Ne revisited",
+    "journal": "J. Chem. Phys.",
+    "volume": "117",
+    "pages": "10548-10560",
+    "year": "2002",
+    "doi": "10.1063/1.1520138"
+  },
+  "peterson2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A."
+    ],
+    "title": "Systematically convergent basis sets with relativistic pseudopotentials. I. Correlation consistent basis sets for the post-d group 13-15 elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "119",
+    "pages": "11099-11112",
+    "year": "2003",
+    "doi": "10.1063/1.1622923"
+  },
+  "peterson2003b": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Figgen, Detlev",
+      "Goll, Erich",
+      "Stoll, Hermann",
+      "Dolg, Michael"
+    ],
+    "title": "Systematically convergent basis sets with relativistic pseudopotentials. II. Small-core pseudopotentials and correlation consistent basis sets for the post-d group 16-18 elements",
+    "journal": "J. Chem. Phys.",
+    "volume": "119",
+    "pages": "11113-11123",
+    "year": "2003",
+    "doi": "10.1063/1.1622924"
+  },
+  "peterson2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A",
+      "Puzzarini, Cristina"
+    ],
+    "title": "Systematically convergent basis sets for transition metals. II. Pseudopotential-based correlation consistent basis sets for the group 11 (Cu, Ag, Au) and 12 (Zn, Cd, Hg) elements",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "114",
+    "pages": "283-296",
+    "year": "2005",
+    "doi": "10.1007/s00214-005-0681-9"
+  },
+  "peterson2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Shepler, Benjamin C.",
+      "Figgen, Detlev",
+      "Stoll, Hermann"
+    ],
+    "title": "On the Spectroscopic and Thermochemical Properties of ClO, BrO, IO, and Their Anions",
+    "journal": "J. Phys. Chem. A",
+    "volume": "110",
+    "pages": "13877-13883",
+    "year": "2006",
+    "doi": "10.1021/jp065887l"
+  },
+  "peterson2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Figgen, Detlev",
+      "Dolg, Michael",
+      "Stoll, Hermann"
+    ],
+    "title": "Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements Y-Pd",
+    "journal": "J. Chem. Phys.",
+    "volume": "126",
+    "pages": "124101",
+    "year": "2007",
+    "doi": "10.1063/1.2647019"
+  },
+  "peterson2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Adler, Thomas B.",
+      "Werner, Hans-Joachim"
+    ],
+    "title": "Systematically convergent basis sets for explicitly correlated wavefunctions: The atoms H, He, B-Ne, and Al-Ar",
+    "journal": "J. Chem. Phys.",
+    "volume": "128",
+    "pages": "084102",
+    "year": "2008",
+    "doi": "10.1063/1.2831537"
+  },
+  "peterson2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Yousaf, Kazim E."
+    ],
+    "title": "Molecular core-valence correlation effects involving the post-d elements Ga-Rn: Benchmarks and new pseudopotential-based correlation consistent basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "133",
+    "pages": "174116",
+    "year": "2010",
+    "doi": "10.1063/1.3503659"
+  },
+  "peterson2015a": {
+    "_entry_type": "article",
+    "authors": [
+      "Peterson, Kirk A.",
+      "Kesharwani, Manoj K.",
+      "Martin, Jan M. L."
+    ],
+    "title": "The cc-pV5Z-F12 basis set: reaching the basis set limit in explicitly correlated calculations",
+    "journal": "Mol. Phys.",
+    "volume": "113",
+    "pages": "1551-1558",
+    "year": "2015",
+    "doi": "10.1080/00268976.2014.985755"
+  },
+  "peterson2016a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sylvetsky,Nitai",
+      "Peterson, Kirk A.",
+      "Karton, Amir",
+      "Martin, Jan M. L."
+    ],
+    "title": "Toward a W4-F12 approach: Can explicitly correlated and orbital-based ab initio CCSD(T) limits be reconciled?",
+    "journal": "J. Chem. Phys.",
+    "volume": "144",
+    "pages": "214101",
+    "year": "2016",
+    "doi": "10.1063/1.4952410"
+  },
+  "petersonXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Peterson, K. A."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the original Basis Set Exchange"
+  },
+  "pietro1980a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pietro, William J.",
+      "Levi, Beverly A.",
+      "Hehre, Warren J.",
+      "Stewart, Robert F."
+    ],
+    "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 1. STO-NG basis sets for third-row main-group elements",
+    "journal": "Inorg. Chem.",
+    "volume": "19",
+    "pages": "2225-2229",
+    "year": "1980",
+    "doi": "10.1021/ic50210a005"
+  },
+  "pietro1981a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pietro, William J.",
+      "Blurock, Edward S.",
+      "Hout, Robert F.",
+      "Hehre, Warren J.",
+      "DeFrees, Douglas J.",
+      "Stewart, Robert F."
+    ],
+    "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 2. STO-NG basis sets for fourth-row main-group elements",
+    "journal": "Inorg. Chem.",
+    "volume": "20",
+    "pages": "3650-3654",
+    "year": "1981",
+    "doi": "10.1021/ic50225a013"
+  },
+  "pietro1982a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pietro, W. J.",
+      "Francl, M. M.",
+      "Hehre, W. J.",
+      "DeFrees, D. J.",
+      "Pople, J. A.",
+      "Binkley, J. S."
+    ],
+    "title": "Self-consistent molecular orbital methods. 24. Supplemented small split-valence basis sets for second-row elements",
+    "journal": "J. Am. Chem. Soc.",
+    "volume": "104",
+    "pages": "5039-5048",
+    "year": "1982",
+    "doi": "10.1021/ja00383a007"
+  },
+  "pietro1983a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pietro, William J.",
+      "Hehre, Warren J."
+    ],
+    "title": "Molecular orbital theory of the properties of inorganic and organometallic compounds. 3.STO-3G basis sets for first- and second-row transition metals",
+    "journal": "J. Comput. Chem.",
+    "volume": "4",
+    "pages": "241-251",
+    "year": "1983",
+    "doi": "10.1002/jcc.540040215"
+  },
+  "pollak2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pollak, Patrik",
+      "Weigend, Florian"
+    ],
+    "title": "Segmented Contracted Error-Consistent Basis Sets of Double- and Triple-ζ Valence Quality for One- and Two-Component Relativistic All-Electron Calculations",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "13",
+    "pages": "3696-3705",
+    "year": "2017",
+    "doi": "10.1021/acs.jctc.7b00593"
+  },
+  "poppeXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Poppe, J."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "porezag1999a":
+  {
+    "_entry_type": "article",
+    "authors": [
+      "Porezag, Dirk",
+      "Pederson, Mark R."
+    ],
+    "title": "Optimization of Gaussian basis sets for density-functional calculations",
+    "journal": "Phys. Rev. A",
+    "volume": "60",
+    "pages": "2840-2847",
+    "year": "1999",
+    "doi": "10.1103/PhysRevA.60.2840"
+  },
+  "pradhan1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pradhan, Atul D.",
+      "Partridge, Harry",
+      "Bauschlicher, Charles W."
+    ],
+    "title": "The dissociation energy of CN and C2",
+    "journal": "J. Chem. Phys.",
+    "volume": "101",
+    "pages": "3857-3861",
+    "year": "1994",
+    "doi": "10.1063/1.467503"
+  },
+  "prascher2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Prascher, Brian P.",
+      "Woon, David E.",
+      "Peterson, Kirk A.",
+      "Dunning, Thom H.",
+      "Wilson, Angela K."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. VII. Valence, core-valence, and scalar relativistic basis sets for Li, Be, Na, and Mg",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "128",
+    "pages": "69-82",
+    "year": "2011",
+    "doi": "10.1007/s00214-010-0764-0"
+  },
+  "pritchard2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "Pritchard, Benjamin P.",
+      "Altarawy, Doaa",
+      "Didier, Brett",
+      "Gibsom, Tara D.",
+      "Windus, Theresa L."
+    ],
+    "title": "A New Basis Set Exchange: An Open, Up-to-date Resource for the Molecular Sciences Community",
+    "journal": "J. Chem. Inf. Model.",
+    "volume": "59",
+    "pages": "4814-4820",
+    "year": "2019",
+    "doi": "10.1021/acs.jcim.9b00725"
+  },
+  "provasi2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Provasi, Patricio F.",
+      "Aucar, Gustavo A.",
+      "Sauer, Stephan P. A."
+    ],
+    "title": "The effect of lone pairs and electronegativity on the indirect nuclear spin-spin coupling constants in CH2X (X=CH2, NH, O, S):Ab initiocalculations using optimized contracted basis sets",
+    "journal": "J. Chem. Phys.",
+    "volume": "115",
+    "pages": "1324-1334",
+    "year": "2001",
+    "doi": "10.1063/1.1379331"
+  },
+  "provasi2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Provasi, Patricio F.",
+      "Sauer, Stephan P. A."
+    ],
+    "title": "Optimized basis sets for the calculation of indirect nuclear spin-spin coupling constants involving the atoms B, Al, Si, P, and Cl",
+    "journal": "J. Chem. Phys.",
+    "volume": "133",
+    "pages": "054308",
+    "year": "2010",
+    "doi": "10.1063/1.3465553"
+  },
+  "ranasinghe2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ranasinghe, Duminda S.",
+      "Petersson, George A."
+    ],
+    "title": "CCSD(T)/CBS atomic and molecular benchmarks for H through Ar",
+    "journal": "J. Chem. Phys.",
+    "volume": "138",
+    "pages": "144104",
+    "year": "2013",
+    "doi": "10.1063/1.4798707"
+  },
+  "ranasinghe2015a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ranasinghe, Duminda S.",
+      "Frisch, Michael J.",
+      "Petersson, George A."
+    ],
+    "title": "Core-core and core-valence correlation energy atomic and molecular benchmarks for Li through Ar",
+    "journal": "J. Chem. Phys.",
+    "volume": "143",
+    "pages": "214110",
+    "year": "2015",
+    "doi": "10.1063/1.4935972"
+  },
+  "rappoport2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Rappoport, Dmitrij",
+      "Furche, Filipp"
+    ],
+    "title": "Property-optimized Gaussian basis sets for molecular response calculations",
+    "journal": "J. Chem. Phys.",
+    "volume": "133",
+    "pages": "134105",
+    "year": "2010",
+    "doi": "10.1063/1.3484283"
+  },
+  "rassolov1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Rassolov, Vitaly A.",
+      "Pople, John A.",
+      "Ratner, Mark A.",
+      "Windus, Theresa L."
+    ],
+    "title": "6-31G* basis set for atoms K through Zn",
+    "journal": "J. Chem. Phys.",
+    "volume": "109",
+    "pages": "1223-1229",
+    "year": "1998",
+    "doi": "10.1063/1.476673"
+  },
+  "rassolov2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Rassolov, Vitaly A.",
+      "Ratner, Mark A.",
+      "Pople, John A.",
+      "Redfern, Paul C.",
+      "Curtiss, Larry A."
+    ],
+    "title": "6-31G* basis set for third-row atoms",
+    "journal": "J. Comput. Chem.",
+    "volume": "22",
+    "pages": "976-984",
+    "year": "2001",
+    "doi": "10.1002/jcc.1058.abs"
+  },
+  "ricca2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ricca, Alessandra",
+      "Bauschlicher, Jr, Charles W."
+    ],
+    "title": "A correlation-consistent basis set for Fe",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "106",
+    "pages": "314-318",
+    "year": "2001",
+    "doi": "10.1007/s002140100279"
+  },
+  "roos2004a": {
+    "_entry_type": "article",
+    "authors": [
+      "Veryazov, Valera",
+      "Widmark, Per-Olof",
+      "Roos, Björn O."
+    ],
+    "title": "Relativistic atomic natural orbital type basis sets for the alkaline and alkaline-earth atoms applied to the ground-state potentials for the corresponding dimers",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "111",
+    "pages": "345-351",
+    "year": "2004",
+    "doi": "10.1007/s00214-003-0537-0"
+  },
+  "roos2004b": {
+    "_entry_type": "article",
+    "authors": [
+      "Roos, Björn O.",
+      "Lindh, Roland",
+      "Malmqvist, Per-Åke",
+      "Veryazov, Valera",
+      "Widmark, Per-Olof"
+    ],
+    "title": "Main Group Atoms and Dimers Studied with a New Relativistic ANO Basis Set",
+    "journal": "J. Phys. Chem. A",
+    "volume": "108",
+    "pages": "2851-2858",
+    "year": "2004",
+    "doi": "10.1021/jp031064+"
+  },
+  "roos2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Roos, Björn O.",
+      "Lindh, Roland",
+      "Malmqvist, Per-Åke",
+      "Veryazov, Valera",
+      "Widmark, Per-Olof"
+    ],
+    "title": "New Relativistic ANO Basis Sets for Transition Metal Atoms",
+    "journal": "J. Phys. Chem. A",
+    "volume": "109",
+    "pages": "6575-6579",
+    "year": "2005",
+    "doi": "10.1021/jp0581126"
+  },
+  "roos2005b": {
+    "_entry_type": "article",
+    "authors": [
+      "Roos, Björn O.",
+      "Lindh, Roland",
+      "Malmqvist, Per-Åke",
+      "Veryazov, Valera",
+      "Widmark, Per-Olof"
+    ],
+    "title": "New relativistic ANO basis sets for actinide atoms",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "409",
+    "pages": "295-299",
+    "year": "2005",
+    "doi": "10.1016/j.cplett.2005.05.011"
+  },
+  "roos2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Roos, Björn O.",
+      "Lindh, Roland",
+      "Malmqvist, Per-Åke",
+      "Veryazov, Valera",
+      "Widmark, Per-Olof",
+      "Borin, Antonio Carlos"
+    ],
+    "title": "New Relativistic Atomic Natural Orbital Basis Sets for Lanthanide Atoms with Applications to the Ce Diatom and LuF3",
+    "journal": "J. Phys. Chem. A",
+    "volume": "112",
+    "pages": "11431-11435",
+    "year": "2008",
+    "doi": "10.1021/jp803213j"
+  },
+  "roscioni2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Roscioni, Otello M.",
+      "Lee, Edmond P. F.",
+      "Dyke, John M."
+    ],
+    "title": "Development and testing of a compact basis set for use in effective core potential calculations on rhodium complexes",
+    "journal": "J. Comput. Chem.",
+    "volume": "33",
+    "pages": "2049-2057",
+    "year": "2012",
+    "doi": "10.1002/jcc.23034"
+  },
+  "ross1990a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ross, R. B.",
+      "Powers, J. M.",
+      "Atashroo, T.",
+      "Ermler, W. C.",
+      "LaJohn, L. A.",
+      "Christiansen, P. A."
+    ],
+    "title": "Abinitiorelativistic effective potentials with spin-orbit operators. IV. Cs through Rn",
+    "journal": "J. Chem. Phys.",
+    "volume": "93",
+    "pages": "6654-6670",
+    "year": "1990",
+    "doi": "10.1063/1.458934"
+  },
+  "ross1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Ross, R. B.",
+      "Gayen, Sanjukta",
+      "Ermler, W. C."
+    ],
+    "title": "Ab initio relativistic effective potentials with spin-orbit operators. V. Ce through Lu",
+    "journal": "J. Chem. Phys.",
+    "volume": "100",
+    "pages": "8145-",
+    "year": "1994",
+    "doi": "10.1063/1.466809"
+  },
+  "roy2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Roy, Lindsay E.",
+      "Hay, P. Jeffrey",
+      "Martin, Richard L."
+    ],
+    "title": "Revised Basis Sets for the LANL Effective Core Potentials",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "4",
+    "pages": "1029-1031",
+    "year": "2008",
+    "doi": "10.1021/ct8000409"
+  },
+  "roza2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Otero-de-la-Roza, A.",
+      "DiLabio, Gino A."
+    ],
+    "title": "Transferable Atom-Centered Potentials for the Correction of Basis Set Incompleteness Errors in Density-Functional Theory",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "13",
+    "pages": "3505-3524",
+    "year": "2017",
+    "doi": "10.1021/acs.jctc.7b00300"
+  },
+  "rusakov2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Rusakov, Yury Yu.",
+      "Krivdin, Leonid B.",
+      "Sauer, Stephan P. A.",
+      "Levanova, Ekaterina P.",
+      "Levkovskaya, Galina G."
+    ],
+    "title": "Structural trends of 77Se-1H spin-spin coupling constants and conformational behavior of 2-substituted selenophenes",
+    "journal": "Magn. Reson. Chem.",
+    "volume": "48",
+    "pages": "44-52",
+    "year": "2010",
+    "doi": "10.1002/mrc.2537"
+  },
+  "rusakov2019a": {
+    "_entry_type": "article",
+    "authors": [
+      "Rusakov, Yury Yu.",
+      "Rusakova, Irina L."
+    ],
+    "title": "Hierarchical Basis Sets for the Calculation of Nuclear Magnetic Resonance Spin-Spin Coupling Constants Involving Either Selenium or Tellurium Nuclei",
+    "journal": "J. Phys. Chem. A",
+    "volume": "123",
+    "pages": "6564-6571",
+    "year": "2019",
+    "doi": "10.1021/acs.jpca.9b05276"
+  },
+  "rusakov2021a": {
+    "_entry_type": "article",
+    "authors": [
+      "Rusakov, Yury Yu.",
+      "Rusakova, Irina L."
+    ],
+     "title": "An efficient method for generating property-energy consistent basis sets. New {pecJ}-$n$ ($n = 1, 2$) basis sets for high-quality calculations of indirect nuclear spin-spin coupling constants involving $^{1}$H, $^{13}$C, $^{15}$N, and $^{19}$F nuclei",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "23",
+    "pages": "14925-14939",
+    "year": "2021",
+    "doi": "10.1039/d1cp01984h"
+  },
+  "sadlej1988a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sadlej, Andrzej J."
+    ],
+    "title": "Medium-size polarized basis sets for high-level correlated calculations of molecular electric properties",
+    "journal": "Collect. Czech. Chem. Commun.",
+    "volume": "53",
+    "pages": "1995-2016",
+    "year": "1988",
+    "doi": "10.1135/cccc19881995"
+  },
+  "sadlej1991a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sadlej, Andrzej J.",
+      "Urban, Miroslav"
+    ],
+    "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "234",
+    "pages": "147-171",
+    "year": "1991",
+    "doi": "10.1016/0166-1280(91)89010-x"
+  },
+  "sadlej1991b": {
+    "_entry_type": "article",
+    "authors": [
+      "Sadlej, Andrzej J."
+    ],
+    "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
+    "journal": "Theor. Chim. Acta",
+    "volume": "79",
+    "pages": "123-140",
+    "year": "1991",
+    "doi": "10.1007/bf01127101"
+  },
+  "sadlej1991c": {
+    "_entry_type": "article",
+    "authors": [
+      "Sadlej, Andrzej J."
+    ],
+    "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
+    "journal": "Theor. Chim. Acta",
+    "volume": "81",
+    "pages": "45-63",
+    "year": "1991",
+    "doi": "10.1007/bf01113377"
+  },
+  "sadlej1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sadlej, Andrzej J."
+    ],
+    "title": "Medium-size polarized basis sets for high-level-correlated calculations of molecular electric properties",
+    "journal": "Theor. Chim. Acta",
+    "volume": "81",
+    "pages": "339-354",
+    "year": "1992",
+    "doi": "10.1007/bf01118573"
+  },
+  "sanchezmarquez2020a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sánchez-Márquez, Jesús",
+      "García, Victor",
+      "Zorilla, David",
+      "Fernández, Manuel"
+    ],
+    "title": "On Electronegativity, Hardness, and Reactivity Descriptors: A New Property-Oriented Basis Set",
+    "journal": "J. Phys. Chem. A",
+    "volume": "124",
+    "pages": "4700-4711",
+    "year": "2020",
+    "doi": "10.1021/acs.jpca.0c01342"
+  },
+  "sauer2000a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sauer, Stephan P. A.",
+      "Raynes, William T."
+    ],
+    "title": "Unexpected differential sensitivity of nuclear spin-spin-coupling constants to bond stretching in BH4-, NH4+, and SiH4",
+    "journal": "J. Chem. Phys.",
+    "volume": "113",
+    "pages": "3121-3129",
+    "year": "2000",
+    "doi": "10.1063/1.1287277"
+  },
+  "sauer2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sauer, Stephan P. A.",
+      "Raynes, William T.",
+      "Nicholls, Robert A."
+    ],
+    "title": "Nuclear spin-spin coupling in silane and its isotopomers: Ab initio calculation and experimental investigation",
+    "journal": "J. Chem. Phys.",
+    "volume": "115",
+    "pages": "5994-6006",
+    "year": "2001",
+    "doi": "10.1063/1.1398091"
+  },
+  "schafer1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schäfer, Ansgar",
+      "Horn, Hans",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "Fully optimized contracted Gaussian basis sets for atoms Li to Kr",
+    "journal": "J. Chem. Phys.",
+    "volume": "97",
+    "pages": "2571-2577",
+    "year": "1992",
+    "doi": "10.1063/1.463096"
+  },
+  "schafer1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schäfer, Ansgar",
+      "Huber, Christian",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "Fully optimized contracted Gaussian basis sets of triple zeta valence quality for atoms Li to Kr",
+    "journal": "J. Chem. Phys.",
+    "volume": "100",
+    "pages": "5829-5835",
+    "year": "1994",
+    "doi": "10.1063/1.467146"
+  },
+  "schautz1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schautz, F.",
+      "Flad, H.-J.",
+      "Dolg, M."
+    ],
+    "title": "Quantum Monte Carlo study of Be 2 and group 12 dimers M 2 (M = Zn, Cd, Hg)",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "99",
+    "pages": "231-240",
+    "year": "1998",
+    "doi": "10.1007/s002140050331"
+  },
+  "schoendorff2022a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schoendorff, George",
+      "Boatz, Jerry A."
+    ],
+    "title": "Segmented correlation consistent basis sets for the 4d and 5d transition metals",
+    "journal": "J. Chem. Phys.",
+    "volume": "156",
+    "pages": "064102",
+    "year": "2022",
+    "doi": "10.1063/5.0080377"
+  },
+  "schuchardt2007a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schuchardt, Karen L.",
+      "Didier, Brett T.",
+      "Elsethagen, Todd",
+      "Sun, Lisong",
+      "Gurumoorthi, Vidhya",
+      "Chase, Jared",
+      "Li, Jun",
+      "Windus, Theresa L."
+    ],
+    "title": "Basis Set Exchange: A Community Database for Computational Sciences",
+    "journal": "J. Chem. Inf. Model.",
+    "volume": "47",
+    "pages": "1045-1052",
+    "year": "2007",
+    "doi": "10.1021/ci600510j"
+  },
+  "schultz2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schultz, Nathan E.",
+      "Zhao, Yan",
+      "Truhlar, Donald G."
+    ],
+    "title": "Density Functionals for Inorganometallic and Organometallic Chemistry",
+    "journal": "J. Phys. Chem. A",
+    "volume": "109",
+    "pages": "11127-11143",
+    "year": "2005",
+    "doi": "10.1021/jp0539223"
+  },
+  "schwerdtfeger1989a": {
+    "_entry_type": "article",
+    "authors": [
+      "Schwerdtfeger, Peter",
+      "Dolg, Michael",
+      "Schwarz, W. H. Eugen",
+      "Bowmaker, Graham A.",
+      "Boyd, Peter D. W."
+    ],
+    "title": "Relativistic effects in gold chemistry. I. Diatomic gold compounds",
+    "journal": "J. Chem. Phys.",
+    "volume": "91",
+    "pages": "1762-1774",
+    "year": "1989",
+    "doi": "10.1063/1.457082"
+  },
+  "schwerdtfeger1999a": {
+    "_entry_type": "misc",
+    "authors": [
+      "Schwerdtfeger, P.",
+      "Wesendrup, R."
+    ],
+    "title": "unpublished",
+    "year": "1999",
+    "note": "As referenced in the Stuttgart ECP database/website"
+  },
+  "shaw2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Shaw, Robert A.",
+      "Hill, Grant J."
+    ],
+    "title": "Approaching the Hartree--Fock Limit through the Complementary Auxiliary Basis Set Singles Correction and Auxiliary Basis Sets",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "13",
+    "pages": "1691-1698",
+    "year": "2017",
+    "doi": "10.1021/acs.jctc.7b00140"
+  },
+  "sekiya1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sekiya, Masahiro",
+      "Noro, Takeshi",
+      "Koga, Toshikatsu",
+      "Matsuyama, Hisashi"
+    ],
+    "title": "Contracted polarization functions for the atoms magnesium through argon",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "451",
+    "pages": "51-60",
+    "year": "1998",
+    "doi": "10.1016/s0166-1280(98)00175-4"
+  },
+  "sekiya2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sekiya, Masahiro",
+      "Noro, Takeshi",
+      "Osanai, You",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Contracted polarization functions for the atoms Ca, Ga-Kr, Sr, and In-Xe",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "106",
+    "pages": "297-300",
+    "year": "2001",
+    "doi": "10.1007/s002140100278"
+  },
+  "sekiya2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Sekiya, Masahiro",
+      "Noro, Takeshi",
+      "Koga, Toshikatsu",
+      "Shimazaki, Tsuyoshi"
+    ],
+    "title": "Relativistic segmented contraction basis sets with core-valence correlation effects for atoms 57La through 71Lu: Sapporo-DK-nZP sets (n = D, T, Q)",
+    "journal": "Theoretical Chemistry Accounts",
+    "volume": "131",
+    "pages": "1247",
+    "year": "2012",
+    "doi": "10.1007/s00214-012-1247-2"
+  },
+  "spitznagel1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "Spitznagel, Günther W.",
+      "Clark, Timothy",
+      "Schleyer, Paul von Ragué",
+      "Hehre, Warren J."
+    ],
+    "title": "An evaluation of the performance of diffuse function-augmented basis sets for second row elements, Na-Cl",
+    "journal": "J. Comput. Chem.",
+    "volume": "8",
+    "pages": "1109-1116",
+    "year": "1987",
+    "doi": "10.1002/jcc.540080807"
+  },
+  "stevens1984a": {
+    "_entry_type": "article",
+    "authors": [
+      "Stevens, Walter J.",
+      "Basch, Harold",
+      "Krauss, Morris"
+    ],
+    "title": "Compact effective potentials and efficient shared-exponent basis sets for the first- and second-row atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "81",
+    "pages": "6026-6033",
+    "year": "1984",
+    "doi": "10.1063/1.447604"
+  },
+  "stevens1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Stevens, Walter J.",
+      "Krauss, Morris",
+      "Basch, Harold",
+      "Jasien, Paul G."
+    ],
+    "title": "Relativistic compact effective potentials and efficient, shared-exponent basis sets for the third-, fourth-, and fifth-row atoms",
+    "journal": "Can. J. Chem.",
+    "volume": "70",
+    "pages": "612-630",
+    "year": "1992",
+    "doi": "10.1139/v92-085"
+  },
+  "stoll1984a": {
+    "_entry_type": "article",
+    "authors": [
+      "Stoll, H.",
+      "Fuentealba, P.",
+      "Schwerdtfeger, P.",
+      "Flad, J.",
+      "Szentpály, L. v.",
+      "Preuss, H."
+    ],
+    "title": "Cu and Ag as one‐valence‐electron atoms: CI results and quadrupole corrections for Cu2, Ag2, CuH, and AgH",
+    "journal": "J. Chem. Phys.",
+    "volume": "81",
+    "pages": "2732-2736",
+    "year": "1984",
+    "doi": "10.1063/1.447992"
+  },
+  "stoll2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Stoll, Hermann",
+      "Metz, Bernhard",
+      "Dolg, Michael"
+    ],
+    "title": "Relativistic energy-consistent pseudopotentials?Recent developments",
+    "journal": "J. Comput. Chem.",
+    "volume": "23",
+    "pages": "767-778",
+    "year": "2002",
+    "doi": "10.1002/jcc.10037"
+  },
+  "swart2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Swart, Marcel",
+      "Güell, Mireia",
+      "Luis, Josep M.",
+      "Solà, Miquel"
+    ],
+    "title": "Spin-State-Corrected Gaussian-Type Orbital Basis Sets",
+    "journal": "J. Phys. Chem. A",
+    "volume": "114",
+    "pages": "7191-7197",
+    "year": "2010",
+    "doi": "10.1021/jp102712z"
+  },
+  "szentpaly1982a": {
+    "_entry_type": "article",
+    "authors": [
+      "Szentpály, László Von",
+      "Fuentealba, Patricio",
+      "Preuss, Heinzwerner",
+      "Stoll, Hermann"
+    ],
+    "title": "Pseudopotential calculations on Rb+2, Cs+2, RbH+, CsH+ and the mixed alkali dimer ions",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "93",
+    "pages": "555-559",
+    "year": "1982",
+    "doi": "10.1016/0009-2614(82)83728-7"
+  },
+  "tanaka2013a": {
+    "_entry_type": "article",
+    "authors": [
+      "Tanaka, Masato",
+      "Katouda, Michio",
+      "Nagase, Shigeru"
+    ],
+    "title": "Optimization of RI-MP2 Auxiliary Basis Functions for 6-31G** and 6-311G** Basis Sets for First-, Second-, and Third-Row Elements",
+    "journal": "J. Comput. Chem.",
+    "volume": "34",
+    "pages": "2568-2575",
+    "year": "2013",
+    "doi": "10.1002/jcc.23430"
+  },
+  "tatewaki1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Tatewaki, Hiroshi",
+      "Koga, Toshikatsu"
+    ],
+    "title": "Contracted Gaussian‐type basis functions revisited",
+    "journal": "J. Chem. Phys.",
+    "volume": "104",
+    "pages": "8493-8499",
+    "year": "1996",
+    "doi": "10.1063/1.471599"
+  },
+  "tatewaki1997a": {
+    "_entry_type": "article",
+    "authors": [
+      "Tatewaki, Hiroshi",
+      "Koga, Toshikatsu",
+      "Takashima, Hiroyuki"
+    ],
+    "title": "Contracted Gaussian-type basis functions revisited II. Atoms Na through Ar",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "96",
+    "pages": "243-247",
+    "year": "1997",
+    "doi": "10.1007/s002140050226"
+  },
+  "thompson2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Thompson, Jason D.",
+      "Winget, Paul",
+      "Truhlar, Donald G."
+    ],
+    "title": "MIDIX basis set for the lithium atom: Accurate geometries and atomic partial charges for lithium compounds with minimal computational cost",
+    "journal": "PhysChemComm",
+    "volume": "4",
+    "pages": "72-77",
+    "year": "2001",
+    "doi": "10.1039/B105076C"
+  },
+  "tozer1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Tozer, David J.",
+      "Handy, Nicholas C."
+    ],
+    "title": "The development of new exchange-correlation functionals",
+    "journal": "J. Chem. Phys.",
+    "volume": "108",
+    "pages": "2545-2555",
+    "year": "1998",
+    "doi": "10.1063/1.475638"
+  },
+  "tsuchiya2001a": {
+    "_entry_type": "article",
+    "authors": [
+      "Tsuchiya, Takashi",
+      "Abe, Minori",
+      "Nakajima, Takahito",
+      "Hirao, Kimihiko"
+    ],
+    "title": "Accurate relativistic Gaussian basis sets for H through Lr determined by atomic self-consistent field calculations with the third-order Douglas Kroll approximation",
+    "journal": "J. Chem. Phys.",
+    "volume": "115",
+    "pages": "4463-4472",
+    "year": "2001",
+    "doi": "10.1063/1.1390515"
+  },
+  "vidal2012a": {
+    "_entry_type": "article",
+    "authors": [
+      "Vidal, Luciano N.",
+      "Vazquez, Pedro A. M."
+    ],
+    "title": "Electrically polarized valence basis sets for the SBKJC effective core potential developed for calculations of dynamic polarizabilities and Raman intensities",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "131",
+    "pages": "1111",
+    "year": "2012",
+    "doi": "10.1007/s00214-012-1111-4"
+  },
+  "wachters1969a": {
+    "_entry_type": "techreport",
+    "authors": [
+      "Wachters, A. J. H."
+    ],
+    "title": "Gaussian basis set for Molecular Wave Functions Containing Third-Row Atoms",
+    "institution": "IBM Research Divisaion",
+    "number": "RJ 584",
+    "year": "1969",
+    "address": "San Jose, California"
+  },
+  "wachters1970a": {
+    "_entry_type": "article",
+    "authors": [
+      "Wachters, A. J. H."
+    ],
+    "title": "Gaussian Basis Set for Molecular Wavefunctions Containing Third-Row Atoms",
+    "journal": "J. Chem. Phys.",
+    "volume": "52",
+    "pages": "1033-1036",
+    "year": "1970",
+    "doi": "10.1063/1.1673095"
+  },
+  "wadt1985a": {
+    "_entry_type": "article",
+    "authors": [
+      "Wadt, Willard R.",
+      "Hay, P. Jeffrey"
+    ],
+    "title": "Ab initio effective core potentials for molecular calculations. Potentials for main group elements Na to Bi",
+    "journal": "J. Chem. Phys.",
+    "volume": "82",
+    "pages": "284-298",
+    "year": "1985",
+    "doi": "10.1063/1.448800"
+  },
+  "wadt1987a": {
+    "_entry_type": "article",
+    "authors": [
+      "Wadt, Willard R."
+    ],
+    "title": "An ab initio study of low-lying 5f->5f excitations in PuF6",
+    "journal": "J. Chem. Phys.",
+    "volume": "86",
+    "pages": "339-346",
+    "year": "1987",
+    "doi": "10.1063/1.452623"
+  },
+  "wang1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Wang, Yixuan",
+      "Dolg, Michael"
+    ],
+    "title": "Pseudopotential study of the ground and excited states of Yb 2",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "100",
+    "pages": "124-133",
+    "year": "1998",
+    "doi": "10.1007/s002140050373"
+  },
+  "wedig1986a": {
+    "_entry_type": "incollection",
+    "authors": [
+      "Wedig, Ulrich",
+      "Dolg, Michael",
+      "Stoll, Hermann",
+      "Preuss, Heinzwerner"
+    ],
+    "title": "Energy-Adjusted Pseudopotentials for Transition-Metal Elements",
+    "booktitle": "Quantum Chemistry: The Challenge of Transition Metals and Coordination Chemistry",
+    "series": "NATO ASI Series",
+    "editors": [
+      "A. Veillard"
+    ],
+    "volume": "176",
+    "pages": "79-89",
+    "year": "1986",
+    "publisher": "Springer Netherlands",
+    "isbn": "978-94-009-4656-9",
+    "doi": "10.1007/978-94-009-4656-9_6"
+  },
+  "weigand2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigand, Anna",
+      "Cao, Xiaoyan",
+      "Yang, Jun",
+      "Dolg, Michael"
+    ],
+    "title": "Quasirelativistic f-in-core pseudopotentials and core-polarization potentials for trivalent actinides and lanthanides: molecular test for trifluorides",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "126",
+    "pages": "117-127",
+    "year": "2010",
+    "doi": "10.1007/s00214-009-0584-2"
+  },
+  "weigand2014a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigand, Anna",
+      "Cao, Xiaoyan",
+      "Hangele, Tim",
+      "Dolg, Michael"
+    ],
+    "title": "Relativistic Small-Core Pseudopotentials for Actinium, Thorium, and Protactinium",
+    "journal": "J. Phys. Chem. A",
+    "volume": "118",
+    "pages": "2519-2530",
+    "year": "2014",
+    "doi": "10.1021/jp500215z"
+  },
+  "weigend1998a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian",
+      "Häser, Marco",
+      "Patzelt, Holger",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "RI-MP2: optimized auxiliary basis sets and demonstration of efficiency",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "294",
+    "pages": "143-152",
+    "year": "1998",
+    "doi": "10.1016/S0009-2614(98)00862-8"
+  },
+  "weigend2002a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian",
+      "Köhn, Andreas",
+      "Hättig, Christof"
+    ],
+    "title": "Efficient use of the correlation consistent basis sets in resolution of the identity MP2 calculations",
+    "journal": "J. Chem. Phys.",
+    "volume": "116",
+    "pages": "3175-3183",
+    "year": "2002",
+    "doi": "10.1063/1.1445115"
+  },
+  "weigend2002b": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian"
+    ],
+    "title": "A fully direct RI-HF algorithm: Implementation, optimised auxiliary basis sets, demonstration of accuracy and efficiency",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "4",
+    "pages": "4285-4291",
+    "year": "2002",
+    "doi": "10.1039/B204199P"
+  },
+  "weigend2003a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian",
+      "Furche, Filipp",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "Gaussian basis sets of quadruple zeta valence quality for atoms H-Kr",
+    "journal": "J. Chem. Phys.",
+    "volume": "119",
+    "pages": "12753-12762",
+    "year": "2003",
+    "doi": "10.1063/1.1627293"
+  },
+  "weigend2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian",
+      "Ahlrichs, Reinhart"
+    ],
+    "title": "Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: Design and assessment of accuracy",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "7",
+    "pages": "3297",
+    "year": "2005",
+    "doi": "10.1039/b508541a"
+  },
+  "weigend2006a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian"
+    ],
+    "title": "Accurate Coulomb-fitting basis sets for H to Rn",
+    "journal": "Phys. Chem. Chem. Phys.",
+    "volume": "8",
+    "pages": "1057",
+    "year": "2006",
+    "doi": "10.1039/b515623h"
+  },
+  "weigend2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian"
+    ],
+    "title": "Hartree-Fock exchange fitting basis sets for H to Rn",
+    "journal": "J. Comput. Chem.",
+    "volume": "29",
+    "pages": "167-175",
+    "year": "2008",
+    "doi": "10.1002/jcc.20702"
+  },
+  "weigend2010a": {
+    "_entry_type": "article",
+    "authors": [
+      "Weigend, Florian",
+      "Baldes, Alexander"
+    ],
+    "title": "Segmented contracted basis sets for one- and two-component Dirac-Fock effective core potentials",
+    "journal": "J. Chem. Phys.",
+    "volume": "133",
+    "pages": "174102",
+    "year": "2010",
+    "doi": "10.1063/1.3495681"
+  },
+  "widmark1990a": {
+    "_entry_type": "article",
+    "authors": [
+      "Widmark, Per-Olof",
+      "Malmqvist, Per-Åke",
+      "Roos, Björn O."
+    ],
+    "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions. I. First row atoms",
+    "journal": "Theor. Chim. Acta",
+    "volume": "77",
+    "pages": "291-306",
+    "year": "1990",
+    "doi": "10.1007/bf01120130"
+  },
+  "widmark1991a": {
+    "_entry_type": "article",
+    "authors": [
+      "Widmark, Per-Olof",
+      "Persson, B. Joakim",
+      "Roos, Björn O."
+    ],
+    "title": "Density matrix averaged atomic natural orbital (ANO) basis sets for correlated molecular wave functions. II. Second row atoms",
+    "journal": "Theor. Chim. Acta",
+    "volume": "79",
+    "pages": "419-432",
+    "year": "1991",
+    "doi": "10.1007/bf01112569"
+  },
+  "wilson1996a": {
+    "_entry_type": "article",
+    "authors": [
+      "Wilson, Angela K.",
+      "van Mourik, Tanja",
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. VI. Sextuple zeta correlation consistent basis sets for boron through neon",
+    "journal": "J. Mol. Struc-THEOCHEM",
+    "volume": "388",
+    "pages": "339-349",
+    "year": "1996",
+    "doi": "10.1016/s0166-1280(96)80048-0"
+  },
+  "wilson1999a": {
+    "_entry_type": "article",
+    "authors": [
+      "Wilson, Angela K.",
+      "Woon, David E.",
+      "Peterson, Kirk A.",
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. IX. The atoms gallium through krypton",
+    "journal": "J. Chem. Phys.",
+    "volume": "110",
+    "pages": "7667-7676",
+    "year": "1999",
+    "doi": "10.1063/1.478678"
+  },
+  "woon1993a": {
+    "_entry_type": "article",
+    "authors": [
+      "Woon, David E.",
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon",
+    "journal": "J. Chem. Phys.",
+    "volume": "98",
+    "pages": "1358-1371",
+    "year": "1993",
+    "doi": "10.1063/1.464303"
+  },
+  "woon1994a": {
+    "_entry_type": "article",
+    "authors": [
+      "Woon, David E.",
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. IV. Calculation of static electrical response properties",
+    "journal": "J. Chem. Phys.",
+    "volume": "100",
+    "pages": "2975-2988",
+    "year": "1994",
+    "doi": "10.1063/1.466439"
+  },
+  "woon1995a": {
+    "_entry_type": "article",
+    "authors": [
+      "Woon, David E.",
+      "Dunning, Thom H."
+    ],
+    "title": "Gaussian basis sets for use in correlated molecular calculations. V. Core-valence basis sets for boron through neon",
+    "journal": "J. Chem. Phys.",
+    "volume": "103",
+    "pages": "4572-4585",
+    "year": "1995",
+    "doi": "10.1063/1.470645"
+  },
+  "woonXXXXa": {
+    "_entry_type": "misc",
+    "authors": [
+      "Woon, D. E.",
+      "Dunning, Jr, T. H."
+    ],
+    "title": "unpublished",
+    "note": "As referenced in 'van Mourik et al, Mol Phys, 96, 529-547 (1999)' (as reference 48)"
+  },
+  "yamamoto1992a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yamamoto, Hironori",
+      "Matsuoka, Osamu"
+    ],
+    "title": "Accurately Energy-Optimized Gaussian Basis Sets for Hydrogen 1s through 5g Orbitals",
+    "journal": "Bull. Univ. Electro. Comm.",
+    "volume": "5",
+    "pages": "23-34",
+    "year": "1992",
+    "note": "In Japanese. Citation at https://ci.nii.ac.jp/naid/40004737908/en/"
+  },
+  "yang2005a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yang, J.",
+      "Dolg, M."
+    ],
+    "title": "Valence basis sets for lanthanide 4f-in-core pseudopotentials adapted for crystal orbital ab initio calculations",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "113",
+    "pages": "212-224",
+    "year": "2005",
+    "doi": "10.1007/s00214-005-0629-0"
+  },
+  "yang2017a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yang, Yang",
+      "Brorsen, Kurt R.",
+      "Culpitt, Tanner",
+      "Pak, Michael V.",
+      "Hammes-Schiffer, Sharon"
+    ],
+    "title": "Development of a practical multicomponent density functional for electron-proton correlation to produce accurate proton densities",
+    "journal": "J. Chem. Phys.",
+    "volume": "147",
+    "pages": "114113",
+    "year": "2017",
+    "doi": "10.1063/1.4996038"
+  },
+  "yockel2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yockel, Scott",
+      "Wilson, Angela K."
+    ],
+    "title": "Core-valence correlation consistent basis sets for second-row atoms (Al-Ar) revisited",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "120",
+    "pages": "119-131",
+    "year": "2008",
+    "doi": "10.1007/s00214-007-0309-3"
+  },
+  "yousaf2008a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yousaf, Kazim E.",
+      "Peterson, Kirk A."
+    ],
+    "title": "Optimized auxiliary basis sets for explicitly correlated methods",
+    "journal": "J. Chem. Phys.",
+    "volume": "129",
+    "pages": "184108",
+    "year": "2008",
+    "doi": "10.1063/1.3009271"
+  },
+  "yousaf2009a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yousaf, Kazim E.",
+      "Peterson, Kirk A."
+    ],
+    "title": "Optimized complementary auxiliary basis sets for explicitly correlated methods: aug-cc-pVnZ orbital basis sets",
+    "journal": "Chem. Phys. Lett.",
+    "volume": "476",
+    "pages": "303-307",
+    "year": "2009",
+    "doi": "10.1016/j.cplett.2009.06.003"
+  },
+  "yu2020a": {
+    "_entry_type": "article",
+    "authors": [
+      "Yu, Qi",
+      "Pavošević, Fabijan",
+      "Hammes-Schiffer, Sharon"
+    ],
+    "title": "Development of nuclear basis sets for multicomponent quantum chemistry methods",
+    "journal": "J. Chem. Phys.",
+    "volume": "152",
+    "pages": "244123",
+    "year": "2020",
+    "doi": "10.1063/5.0009233"
+  },
+  "zheng2011a": {
+    "_entry_type": "article",
+    "authors": [
+      "Zheng, Jingjing",
+      "Xu, Xuefei",
+      "Truhlar, Donald G."
+    ],
+    "title": "Minimally augmented Karlsruhe basis sets",
+    "journal": "Theor. Chem. Acc.",
+    "volume": "128",
+    "pages": "295-305",
+    "year": "2011",
+    "doi": "10.1007/s00214-010-0846-z"
+  },
+  "zobel2020a": {
+    "_entry_type": "article",
+    "authors": [
+        "Zobel, J. Patrick",
+        "Widmark, Per-Olof",
+        "Veryazov, Valera"
+    ],
+    "title": "The ANO-R Basis Set",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "16",
+    "pages": "278-294",
+    "year": "2020",
+    "doi": "10.1021/acs.jctc.9b00873"
+  },
+  "zobel2021a": {
+    "_entry_type": "article",
+    "authors": [
+        "Zobel, J. Patrick",
+        "Widmark, Per-Olof",
+        "Veryazov, Valera"
+    ],
+    "title": "Correction to \"The ANO-R Basis Set\"",
+    "journal": "J. Chem. Theory Comput.",
+    "volume": "17",
+    "pages": "3233-3234",
+    "year": "2021",
+    "doi": "10.1021/acs.jctc.1c00329"
+  }
+}

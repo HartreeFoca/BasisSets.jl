@@ -1,0 +1,54 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "Polarization for 31G split-valence basis set for H,He",
+  "data_source": "TODO",
+  "elements": {
+    "1": {
+      "references": [
+        "hariharan1973a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.1100000000E+01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "2": {
+      "references": [
+        "gaussian09e01"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.1100000000E+01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

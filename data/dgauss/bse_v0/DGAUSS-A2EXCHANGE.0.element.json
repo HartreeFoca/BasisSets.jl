@@ -1,0 +1,160 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "DGauss A2 DFT Exchange Fitting",
+  "description": "DFT Exchange Fitting",
+  "elements": {
+    "1": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "dgauss/bse_v0/DGAUSS-A2EXCHANGE.0.json"
+      ]
+    }
+  }
+}

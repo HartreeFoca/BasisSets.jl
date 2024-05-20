@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "Stuttgart RSC 1997"
+  ],
+  "tags": [],
+  "family": "stuttgart",
+  "description": "Stuttgart RSC 1997 ECP + Valence basis",
+  "role": "orbital",
+  "auxiliaries": {}
+}

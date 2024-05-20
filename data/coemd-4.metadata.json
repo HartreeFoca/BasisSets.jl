@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "coemd-4"
+  ],
+  "tags": [],
+  "family": "lehtola_emd",
+  "description": "coemd-4: completness-optimized for electron momentum density",
+  "role": "orbital",
+  "auxiliaries": {}
+}

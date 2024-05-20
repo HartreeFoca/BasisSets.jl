@@ -1,0 +1,18 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "def2-TZVP"
+  ],
+  "tags": [],
+  "family": "ahlrichs",
+  "description": "def2-TZVP",
+  "role": "orbital",
+  "auxiliaries": {
+    "jkfit": "def2-universal-jkfit",
+    "jfit": "def2-universal-jfit",
+    "rifit": "def2-tzvp-rifit"
+  }
+}

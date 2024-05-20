@@ -1,0 +1,17 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-TZVPD",
+  "description": "def2-TZVPD",
+  "elements": {
+    "25": {
+      "components": [
+        "ahlrichs/bse_v0/TZV/def2-TZVP-base.0.json",
+        "ahlrichs/TZV/def2-TZVPP-add.1.json",
+        "ahlrichs/TZV/def2-TZVPD-add.1.json"
+      ]
+    }
+  }
+}

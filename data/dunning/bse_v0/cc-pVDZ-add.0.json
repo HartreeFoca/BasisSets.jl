@@ -1,0 +1,142 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "cc-pVDZ",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "13": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.1890000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "14": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.2750000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.3730000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.4790000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.6000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "18": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.7380000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

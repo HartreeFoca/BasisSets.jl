@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "jorge-AQZP"
+  ],
+  "tags": [],
+  "family": "jorge",
+  "description": "AQZP: Augmented quadruple zeta valence quality plus polarization",
+  "role": "orbital",
+  "auxiliaries": {}
+}

@@ -1,0 +1,16 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-SV(P)",
+  "description": "def2-SV(P)",
+  "elements": {
+    "56": {
+      "components": [
+        "ahlrichs/bse_v0/SV/def2-SV-base.0.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    }
+  }
+}

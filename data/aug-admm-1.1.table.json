@@ -1,0 +1,27 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from Frank Jensen",
+  "revision_date": "2019-01-07",
+  "elements": {
+    "1": "jensen/aug-admm-1.1.element.json",
+    "3": "jensen/aug-admm-1.1.element.json",
+    "4": "jensen/aug-admm-1.1.element.json",
+    "5": "jensen/aug-admm-1.1.element.json",
+    "6": "jensen/aug-admm-1.1.element.json",
+    "7": "jensen/aug-admm-1.1.element.json",
+    "8": "jensen/aug-admm-1.1.element.json",
+    "9": "jensen/aug-admm-1.1.element.json",
+    "10": "jensen/aug-admm-1.1.element.json",
+    "11": "jensen/aug-admm-1.1.element.json",
+    "12": "jensen/aug-admm-1.1.element.json",
+    "13": "jensen/aug-admm-1.1.element.json",
+    "14": "jensen/aug-admm-1.1.element.json",
+    "15": "jensen/aug-admm-1.1.element.json",
+    "16": "jensen/aug-admm-1.1.element.json",
+    "17": "jensen/aug-admm-1.1.element.json",
+    "18": "jensen/aug-admm-1.1.element.json"
+  }
+}

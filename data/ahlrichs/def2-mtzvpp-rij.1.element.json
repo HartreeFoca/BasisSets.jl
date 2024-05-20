@@ -1,0 +1,105 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-mTZVPP-RIJ",
+  "description": "def2-mTZVPP RI-J basis for r2SCAN-3c method",
+  "elements": {
+    "1": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "ahlrichs/def2-mtzvpp-rij.1.json"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from Turbomole 7.3",
+  "revision_date": "2019-01-08",
+  "elements": {
+    "1": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "5": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "6": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "7": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "8": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "9": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "13": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "14": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "15": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "16": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "17": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "31": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "32": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "33": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "34": "dunning_fit/cc-pV5Z-JKFIT.1.element.json",
+    "35": "dunning_fit/cc-pV5Z-JKFIT.1.element.json"
+  }
+}

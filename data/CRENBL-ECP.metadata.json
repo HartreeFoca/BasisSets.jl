@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "CRENBL ECP"
+  ],
+  "tags": [],
+  "family": "crenb",
+  "description": "CRENBL ECP (Large ECP orbital basis for use with small core potentials)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

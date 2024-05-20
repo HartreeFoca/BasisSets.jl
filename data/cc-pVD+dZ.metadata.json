@@ -1,0 +1,16 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "cc-pV(D+d)Z"
+  ],
+  "tags": [],
+  "family": "dunning",
+  "description": "cc-pV(D+d)Z",
+  "role": "orbital",
+  "auxiliaries": {
+    "rifit": "cc-pvdz-rifit"
+  }
+}

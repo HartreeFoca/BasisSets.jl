@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "STO-2G"
+  ],
+  "tags": [],
+  "family": "sto",
+  "description": "STO-2G Minimal Basis (2 functions/AO)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

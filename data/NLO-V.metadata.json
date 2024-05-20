@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "NLO-V"
+  ],
+  "tags": [],
+  "family": "paschoal",
+  "description": "NLO-V (V=1-3) used to calculate linear and mainly nonlinear optical properties for molecules",
+  "role": "orbital",
+  "auxiliaries": {}
+}

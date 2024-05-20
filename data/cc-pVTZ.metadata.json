@@ -1,0 +1,17 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "cc-pVTZ"
+  ],
+  "tags": [],
+  "family": "dunning",
+  "description": "cc-pVTZ",
+  "role": "orbital",
+  "auxiliaries": {
+    "jkfit": "cc-pvtz-jkfit",
+    "rifit": "cc-pvtz-rifit"
+  }
+}

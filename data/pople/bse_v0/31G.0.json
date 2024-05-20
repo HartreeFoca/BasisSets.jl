@@ -1,0 +1,90 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "31G valence double-zeta",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "ditchfield1971a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "18.731137",
+            "2.8253944",
+            "0.6401217"
+          ],
+          "coefficients": [
+            [
+              "0.0334946",
+              "0.2347269",
+              "0.8137573"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.1612778"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "2": {
+      "references": [],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "38.4216340",
+            "5.7780300",
+            "1.2417740"
+          ],
+          "coefficients": [
+            [
+              "0.0237660",
+              "0.1546790",
+              "0.4696300"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.2979640"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

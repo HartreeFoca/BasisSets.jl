@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "jorge-ADZP"
+  ],
+  "tags": [],
+  "family": "jorge",
+  "description": "ADZP: Augmented double zeta valence quality plus polarization",
+  "role": "orbital",
+  "auxiliaries": {}
+}

@@ -1,0 +1,25 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from D. Zorilla",
+  "revision_date": "2020-07-13",
+  "elements": {
+    "1": "zorrilla/6-311xxG(d,p).1.element.json",
+    "3": "zorrilla/6-311xxG(d,p).1.element.json",
+    "4": "zorrilla/6-311xxG(d,p).1.element.json",
+    "5": "zorrilla/6-311xxG(d,p).1.element.json",
+    "6": "zorrilla/6-311xxG(d,p).1.element.json",
+    "7": "zorrilla/6-311xxG(d,p).1.element.json",
+    "8": "zorrilla/6-311xxG(d,p).1.element.json",
+    "9": "zorrilla/6-311xxG(d,p).1.element.json",
+    "11": "zorrilla/6-311xxG(d,p).1.element.json",
+    "12": "zorrilla/6-311xxG(d,p).1.element.json",
+    "13": "zorrilla/6-311xxG(d,p).1.element.json",
+    "14": "zorrilla/6-311xxG(d,p).1.element.json",
+    "15": "zorrilla/6-311xxG(d,p).1.element.json",
+    "16": "zorrilla/6-311xxG(d,p).1.element.json",
+    "17": "zorrilla/6-311xxG(d,p).1.element.json"
+  }
+}

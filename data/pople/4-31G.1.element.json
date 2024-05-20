@@ -1,0 +1,55 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "4-31G",
+  "description": "4-31G Split-valence basis set",
+  "elements": {
+    "5": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "pople/31G/4-31G.1.json"
+      ]
+    }
+  }
+}

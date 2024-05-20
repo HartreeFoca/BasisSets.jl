@@ -1,0 +1,17 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-QZVP",
+  "description": "def2-QZVP",
+  "elements": {
+    "56": {
+      "components": [
+        "ahlrichs/bse_v0/QZV/def2-QZVP-base.0.json",
+        "ahlrichs/bse_v0/QZV/def2-QZVP-add.0.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    }
+  }
+}

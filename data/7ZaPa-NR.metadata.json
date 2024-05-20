@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "7ZaPa-NR"
+  ],
+  "tags": [],
+  "family": "ranasinghe",
+  "description": "7Zeta augmented + polarization (nonrelativistic)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

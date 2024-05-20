@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "pcX-2"
+  ],
+  "tags": [],
+  "family": "jensen",
+  "description": "Jensen pcX basis set optimized for core-spectroscopy",
+  "role": "orbital",
+  "auxiliaries": {}
+}

@@ -1,0 +1,110 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "huzinaga/MINI (Scaled)",
+  "description": "MB Minimal Basis: 1 Function/AO",
+  "elements": {
+    "1": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "huzinaga/MINI-scaled.0.json"
+      ]
+    }
+  }
+}

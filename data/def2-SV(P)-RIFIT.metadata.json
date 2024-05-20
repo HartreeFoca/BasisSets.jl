@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "def2-SV(P)-RIFIT"
+  ],
+  "tags": [],
+  "family": "ahlrichs_fit",
+  "description": "RIMP2 auxiliary basis for def2-SV(P)",
+  "role": "rifit",
+  "auxiliaries": {}
+}

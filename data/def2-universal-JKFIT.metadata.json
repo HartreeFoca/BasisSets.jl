@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "def2-universal-JKFIT"
+  ],
+  "tags": [],
+  "family": "ahlrichs_fit",
+  "description": "Coulomb/Exchange fitting auxiliary basis for def2 basis sets",
+  "role": "jkfit",
+  "auxiliaries": {}
+}

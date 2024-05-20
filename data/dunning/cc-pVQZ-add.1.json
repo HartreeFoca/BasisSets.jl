@@ -1,0 +1,298 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "Additional functions to form cc-pVQZ",
+  "data_source": "TODO",
+  "elements": {
+    "11": {
+      "references": [
+        "prascher2011a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "2.116000E-01",
+            "1.039000E-01",
+            "5.100000E-02"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "12": {
+      "references": [
+        "prascher2011a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "3.651000E-01",
+            "1.918000E-01",
+            "1.008000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "13": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "8.040000E-02",
+            "1.990000E-01",
+            "4.940000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "14": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.200000E-01",
+            "3.020000E-01",
+            "7.600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.650000E-01",
+            "4.130000E-01",
+            "1.036000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "2.030000E-01",
+            "5.040000E-01",
+            "1.250000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "2.540000E-01",
+            "6.280000E-01",
+            "1.551000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "18": {
+      "references": [
+        "woon1993a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "3.110000E-01",
+            "7.630000E-01",
+            "1.873000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00",
+              "0.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "1.000000E+00",
+              "0.000000E+00"
+            ],
+            [
+              "0.000000E+00",
+              "0.000000E+00",
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

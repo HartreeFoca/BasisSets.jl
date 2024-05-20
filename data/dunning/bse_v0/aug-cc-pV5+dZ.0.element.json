@@ -1,0 +1,52 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "aug-cc-pV(5+d)Z",
+  "description": "aug-cc-pV(5+d)Z",
+  "elements": {
+    "13": {
+      "components": [
+        "dunning/bse_v0/cc-pV5Z.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-add.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-diffuse.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "dunning/bse_v0/cc-pV5Z.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-add.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-diffuse.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "dunning/bse_v0/cc-pV5Z.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-add.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-diffuse.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "dunning/bse_v0/cc-pV5Z.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-add.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-diffuse.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "dunning/bse_v0/cc-pV5Z.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-add.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-diffuse.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "dunning/bse_v0/cc-pV5Z.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-add.0.json",
+        "dunning/bse_v0/cc-pV5+dZ-diffuse.0.json"
+      ]
+    }
+  }
+}

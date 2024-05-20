@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "pcseg-4"
+  ],
+  "tags": [],
+  "family": "jensen",
+  "description": "Segmented contracted version of the pc-4 basis",
+  "role": "orbital",
+  "auxiliaries": {}
+}

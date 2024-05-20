@@ -1,0 +1,65 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "IGLO-III",
+  "description": "VTZP Valence Triple Zeta + Polarization on All Atoms",
+  "elements": {
+    "1": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "iglo/IGLOIII.0.json"
+      ]
+    }
+  }
+}

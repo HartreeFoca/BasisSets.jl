@@ -1,0 +1,177 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "cc-pwCVQZ",
+  "description": "QZ3P    Quadruple Zeta + Polarization + Tight Core",
+  "elements": {
+    "5": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-TM-add.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "dunning/bse_v0/cc-pVQZ.0.json",
+        "dunning/bse_v0/cc-pVQZ-diffuse.0.json",
+        "dunning/bse_v0/cc-pwCVQZ-tight.0.json"
+      ]
+    }
+  }
+}

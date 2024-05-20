@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "CRENBL"
+  ],
+  "tags": [],
+  "family": "crenb",
+  "description": "CRENBL designed for use with small core potentials",
+  "role": "orbital",
+  "auxiliaries": {}
+}

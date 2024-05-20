@@ -1,0 +1,90 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "pcX-2",
+  "description": "Jensen pcX basis set optimized for core-spectroscopy",
+  "elements": {
+    "3": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "jensen/pcX-2.1.json"
+      ]
+    }
+  }
+}

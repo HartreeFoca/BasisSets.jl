@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "STO-3G"
+  ],
+  "tags": [],
+  "family": "sto",
+  "description": "STO-3G Minimal Basis (3 functions/AO)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

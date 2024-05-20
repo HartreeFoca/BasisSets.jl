@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "5ZaPa-NR-CV"
+  ],
+  "tags": [],
+  "family": "ranasinghe",
+  "description": "Quintuple zeta augmented + polarization (nonrelativistic + core-valence)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

@@ -1,0 +1,34 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "Sadlej+",
+  "description": "Sadlej+",
+  "elements": {
+    "1": {
+      "components": [
+        "sadlej/bse_v0/SADLEJ.0.json",
+        "sadlej/bse_v0/SADLEJ-diffuse.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "sadlej/bse_v0/SADLEJ.0.json",
+        "sadlej/bse_v0/SADLEJ-diffuse.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "sadlej/bse_v0/SADLEJ.0.json",
+        "sadlej/bse_v0/SADLEJ-diffuse.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "sadlej/bse_v0/SADLEJ.0.json",
+        "sadlej/bse_v0/SADLEJ-diffuse.0.json"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "jun-cc-pV(D+d)Z",
+    "maug-cc-pV(D+d)Z"
+  ],
+  "tags": [],
+  "family": "truhlar",
+  "description": "jun-cc-pV(D+d)Z basis of Papajak/Truhlar",
+  "role": "orbital",
+  "auxiliaries": {}
+}

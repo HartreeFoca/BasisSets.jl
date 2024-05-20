@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "IGLO-III"
+  ],
+  "tags": [],
+  "family": "iglo",
+  "description": "VTZP Valence Triple Zeta + Polarization on All Atoms",
+  "role": "orbital",
+  "auxiliaries": {}
+}

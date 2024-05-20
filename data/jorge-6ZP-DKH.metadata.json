@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "jorge-6ZP-DKH"
+  ],
+  "tags": [],
+  "family": "jorge",
+  "description": "6ZP-DKH: 6 zeta valence quality plus polarization (DKH)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

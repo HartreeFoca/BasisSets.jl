@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "STO-5G"
+  ],
+  "tags": [],
+  "family": "sto",
+  "description": "STO-5G Minimal Basis (5 functions/AO)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

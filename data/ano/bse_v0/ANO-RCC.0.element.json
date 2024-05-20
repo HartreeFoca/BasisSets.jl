@@ -1,0 +1,490 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "ANO-RCC",
+  "description": "ANO-RCC",
+  "elements": {
+    "1": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "31": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "32": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "33": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "34": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "36": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "37": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "38": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "39": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "40": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "41": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "42": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "43": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "44": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "45": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "46": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "47": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "48": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "49": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "50": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "51": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "52": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "53": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "54": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "55": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "56": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "57": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "58": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "59": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "60": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "61": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "62": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "63": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "64": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "65": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "66": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "67": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "68": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "69": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "70": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "71": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "72": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "73": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "74": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "75": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "76": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "77": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "78": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "79": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "80": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "81": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "82": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "83": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "84": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "85": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "86": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "87": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "88": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "89": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "90": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "91": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "92": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "93": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "94": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "95": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    },
+    "96": {
+      "components": [
+        "ano/bse_v0/ANO-RCC.0.json"
+      ]
+    }
+  }
+}

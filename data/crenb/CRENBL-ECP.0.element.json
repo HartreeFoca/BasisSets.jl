@@ -1,0 +1,590 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "CRENBL ECP",
+  "description": "CRENBL ECP",
+  "elements": {
+    "3": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "31": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "32": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "33": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "34": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "36": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "37": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "38": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "39": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "40": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "41": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "42": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "43": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "44": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "45": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "46": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "47": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "48": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "49": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "50": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "51": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "52": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "53": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "54": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "55": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "56": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "57": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "58": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "59": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "60": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "61": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "62": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "63": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "64": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "65": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "66": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "67": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "68": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "69": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "70": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "71": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "72": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "73": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "74": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "75": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "76": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "77": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "78": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "79": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "80": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "81": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "82": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "83": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "84": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "85": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "86": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "87": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "88": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "89": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "90": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "91": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "92": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "93": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "94": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "95": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "96": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "97": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "98": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "99": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "100": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "101": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "102": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "103": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "104": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "105": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "106": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "107": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "108": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "109": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "110": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "111": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "112": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "113": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "114": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "115": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "116": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "117": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    },
+    "118": {
+      "components": [
+        "crenb/CRENBL-ECP.0.json"
+      ]
+    }
+  }
+}

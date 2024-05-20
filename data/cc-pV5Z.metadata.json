@@ -1,0 +1,17 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "cc-pV5Z"
+  ],
+  "tags": [],
+  "family": "dunning",
+  "description": "cc-pV5Z",
+  "role": "orbital",
+  "auxiliaries": {
+    "jkfit": "cc-pv5z-jkfit",
+    "rifit": "cc-pv5z-rifit"
+  }
+}

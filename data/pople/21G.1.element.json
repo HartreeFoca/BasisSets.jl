@@ -1,0 +1,20 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "21G",
+  "description": "21G Split-valence basis set for H,He",
+  "elements": {
+    "1": {
+      "components": [
+        "pople/21G/21G.1.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "pople/21G/21G.1.json"
+      ]
+    }
+  }
+}

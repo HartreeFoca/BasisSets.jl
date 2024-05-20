@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "un-ccemd-ref"
+  ],
+  "tags": [],
+  "family": "lehtola_emd",
+  "description": "un-ccemd-ref: uncontracted correlation consistent electron momentum density-ref",
+  "role": "orbital",
+  "auxiliaries": {}
+}

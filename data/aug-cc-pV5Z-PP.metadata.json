@@ -1,0 +1,17 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "aug-cc-pV5Z-PP"
+  ],
+  "tags": [],
+  "family": "dunning_pp",
+  "description": "aug-cc-pV5Z-PP",
+  "role": "orbital",
+  "auxiliaries": {
+    "rifit": "aug-cc-pv5z-pp-rifit",
+    "optri": "aug-cc-pv5z-pp-optri"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "pcSseg-2",
+  "description": "Segmented contracted version of the pcS-2 basis",
+  "elements": {
+    "1": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "2": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "3": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "4": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "5": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "6": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "7": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "8": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "9": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "10": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "11": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "12": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "13": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "14": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "18": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "19": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "20": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "31": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "32": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "33": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "34": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    },
+    "36": {
+      "components": [
+        "jensen/pcSseg-2.1.json"
+      ]
+    }
+  }
+}

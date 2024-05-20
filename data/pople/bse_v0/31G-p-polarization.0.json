@@ -1,0 +1,52 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "1P Polarization functions associated with 31G",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "hariharan1973a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "polarization",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "1.1000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "2": {
+      "references": [],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "polarization",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "1.1000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

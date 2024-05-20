@@ -1,0 +1,28 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from the Original Basis Set Exchange",
+  "revision_date": "2013-01-23",
+  "elements": {
+    "1": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "2": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "3": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "4": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "5": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "6": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "7": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "8": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "9": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "10": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "11": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "12": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "13": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "14": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "15": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "16": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "17": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json",
+    "18": "truhlar/bse_v0/may-cc-pVQ+dZ.0.element.json"
+  }
+}

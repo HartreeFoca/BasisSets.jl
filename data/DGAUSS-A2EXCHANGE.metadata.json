@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "dgauss-a2-dftxfit"
+  ],
+  "tags": [],
+  "family": "dgauss",
+  "description": "DGauss A2 DFT Exchange Fitting",
+  "role": "dftxfit",
+  "auxiliaries": {}
+}

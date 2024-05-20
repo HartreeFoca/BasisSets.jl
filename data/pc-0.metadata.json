@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "pc-0"
+  ],
+  "tags": [],
+  "family": "jensen",
+  "description": "pc-0(unpolarized)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

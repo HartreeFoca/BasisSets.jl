@@ -1,0 +1,16 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "cc-pV6Z"
+  ],
+  "tags": [],
+  "family": "dunning",
+  "description": "cc-pV6Z",
+  "role": "orbital",
+  "auxiliaries": {
+    "rifit": "cc-pv6z-rifit"
+  }
+}

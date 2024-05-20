@@ -1,0 +1,88 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "21G basis for H and He",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "binkley1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "5.4471780",
+            "0.8245470"
+          ],
+          "coefficients": [
+            [
+              "0.1562850",
+              "0.9046910"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.1831920"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "2": {
+      "references": [
+        "binkley1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "13.6267000",
+            "1.9993500"
+          ],
+          "coefficients": [
+            [
+              "0.1752300",
+              "0.8934830"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "region": "valence",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.3829930"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

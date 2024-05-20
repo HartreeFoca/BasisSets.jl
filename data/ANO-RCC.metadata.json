@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "ANO-RCC"
+  ],
+  "tags": [],
+  "family": "ano",
+  "description": "Full ANO-RCC basis",
+  "role": "orbital",
+  "auxiliaries": {}
+}

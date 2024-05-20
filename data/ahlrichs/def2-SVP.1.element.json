@@ -1,0 +1,316 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-SVP",
+  "description": "def2-SVP",
+  "elements": {
+    "1": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "21": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "22": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "23": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "24": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "25": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "26": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "27": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "28": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "29": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "30": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json"
+      ]
+    },
+    "39": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "40": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "41": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "42": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "43": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "44": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "45": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "46": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "47": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "48": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "57": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "58": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "59": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "60": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "61": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "62": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "63": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "64": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "65": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "66": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "67": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "68": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "69": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "70": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "71": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "72": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "73": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "74": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "75": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SV(P)-add.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "76": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SV(P)-add.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "77": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "78": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "79": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "80": {
+      "components": [
+        "ahlrichs/SV/def2-SV-base.1.json",
+        "ahlrichs/SV/def2-SVP-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    }
+  }
+}

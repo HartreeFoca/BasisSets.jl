@@ -1,0 +1,15 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "x2c-JFIT",
+    "x2c-JFIT-universal"
+  ],
+  "tags": [],
+  "family": "ahlrichs_x2c",
+  "description": "x2c coulomb fitting",
+  "role": "jfit",
+  "auxiliaries": {}
+}

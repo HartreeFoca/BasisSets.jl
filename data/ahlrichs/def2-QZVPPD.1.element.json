@@ -1,0 +1,84 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-QZVPD",
+  "description": "def2-QZVPD",
+  "elements": {
+    "31": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json"
+      ]
+    },
+    "32": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json"
+      ]
+    },
+    "33": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json"
+      ]
+    },
+    "34": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json"
+      ]
+    },
+    "36": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json"
+      ]
+    },
+    "72": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "73": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "74": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    },
+    "75": {
+      "components": [
+        "ahlrichs/QZV/def2-QZVP-base.1.json",
+        "ahlrichs/QZV/def2-QZVPP-add.1.json",
+        "ahlrichs/QZV/def2-QZVPD-add.1.json",
+        "ahlrichs/ECP/def2-ECP.1.json"
+      ]
+    }
+  }
+}

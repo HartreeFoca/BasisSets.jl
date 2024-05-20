@@ -1,0 +1,17 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "cc-pCVQZ-F12"
+  ],
+  "tags": [],
+  "family": "dunning_f12",
+  "description": "cc-pCVQZ-F12",
+  "role": "orbital",
+  "auxiliaries": {
+    "optri": "cc-pcvqz-f12-optri",
+    "rifit": "cc-pcvqz-f12-rifit"
+  }
+}

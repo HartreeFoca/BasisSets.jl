@@ -1,0 +1,757 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "Polarization functions associated with 6-31G",
+  "notes": "",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "3": {
+      "references": [
+        "gaussian09e01"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.2000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "4": {
+      "references": [
+        "gaussian09e01"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.4000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "5": {
+      "references": [
+        "gaussian09e01"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.6000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "6": {
+      "references": [
+        "hariharan1973a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "7": {
+      "references": [
+        "hariharan1973a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "8": {
+      "references": [
+        "hariharan1973a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "9": {
+      "references": [
+        "hariharan1973a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "10": {
+      "references": [],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "11": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.1750000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "12": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.1750000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "13": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.3250000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "14": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.4500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.5500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.6500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.7500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "18": {
+      "references": [
+        "francl1982a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.8500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "19": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.2000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "20": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "polarization",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.2000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "21": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "22": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "23": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "24": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "25": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "26": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "27": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "28": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "29": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "30": {
+      "references": [
+        "rassolov1998a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_spherical",
+          "region": "polarization",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000E+00"
+            ]
+          ]
+        }
+      ]
+    },
+    "31": {
+      "references": [
+        "rassolov2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.2289000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "32": {
+      "references": [
+        "rassolov2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.2772000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "33": {
+      "references": [
+        "rassolov2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.3277000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "34": {
+      "references": [
+        "rassolov2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.3810000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "35": {
+      "references": [
+        "rassolov2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.4366000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "36": {
+      "references": [
+        "rassolov2001a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto_cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.4948000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000000"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "31G(2p)",
+  "description": "31G(2p)",
+  "elements": {
+    "2": {
+      "components": [
+        "pople/bse_v0/31G.0.json",
+        "pople/bse_v0/311G-2p-polarization.0.json"
+      ]
+    }
+  }
+}

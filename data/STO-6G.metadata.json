@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "STO-6G"
+  ],
+  "tags": [],
+  "family": "sto",
+  "description": "STO-6G Minimal Basis (6 functions/AO)",
+  "role": "orbital",
+  "auxiliaries": {}
+}

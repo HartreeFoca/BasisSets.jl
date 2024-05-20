@@ -1,0 +1,14 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "names": [
+    "aug-admm-1"
+  ],
+  "tags": [],
+  "family": "jensen",
+  "description": "Auxiliary basis with diffuse functions for use with aug-pcseg-1 and the Auxiliary-Density Matrix Method (ADMM)",
+  "role": "admmfit",
+  "auxiliaries": {}
+}

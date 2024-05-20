@@ -1,0 +1,16 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "def2-SV(P)-JKFIT",
+  "description": "Coulomb/Exchange fitting auxiliary basis for def2-SV(P)",
+  "notes": "The JKFit for La/def2-SV(P) is different than the 'universal' JKFit",
+  "elements": {
+    "57": {
+      "components": [
+        "ahlrichs_fit/def2-SV(P)-JKFIT.1.json"
+      ]
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "LANL08d",
+  "description": "LANL08d",
+  "elements": {
+    "14": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "15": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "16": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "17": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "32": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "33": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "34": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "35": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "50": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "51": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "52": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "53": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "82": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    },
+    "83": {
+      "components": [
+        "lanl/LANL08.0.json",
+        "lanl/LANL2DZ-polarization.0.json",
+        "lanl/LANL2DZ-diffuse.0.json",
+        "lanl/LANL2DZ-ECP.0.json"
+      ]
+    }
+  }
+}
