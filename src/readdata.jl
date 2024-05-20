@@ -14,6 +14,10 @@ function transformbasisname(root, name, version="1")
     return [path, basis]
 end
 
+function _getelement(data, element)
+    return data["elements"][element]
+end
+
 function getdir(dir, element)
     path = dir[1]
     basis = dir[2]
@@ -22,11 +26,11 @@ function getdir(dir, element)
     databranchpath = joinpath(path, res["elements"][element])
     databranch = JSON3.read(databranchpath)["elements"][element]["components"]
 
-    data = databranch[1]
+    data = JSON3.read(joinpath(root, "data", databranch[1]))
 
-    
+    out = _getelement(data, element)
 
-    return databranch
+    return out
 end
 
 root = pwd()
@@ -34,6 +38,5 @@ root = pwd()
 final = transformbasisname(root, "MIDI", "0")
 
 res = getdir(final, 2)
-println(res)
 
-println(JSON3.read(joinpath(root, "data", res[1])))
+println(res)
