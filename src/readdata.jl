@@ -39,4 +39,4 @@ final = transformbasisname(root, "MIDI", "0")
 
 res = getdir(final, 2)
 
-println(res)
+print(JSON3.read("$(root)/data/METADATA.json"))
