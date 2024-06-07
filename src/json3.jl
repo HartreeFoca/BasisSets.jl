@@ -1,7 +1,8 @@
 using StructTypes
 using JSON3
+using JSON 
 
-json_string = """{"a": 1, "b": "hello, world", "c": "hello"}"""
+json_string = """{"a":"abc","aaaaaaaaaaaaaa":{"a":"abc","aaaaaaaaaaaaaa":"abc"},"c":"abc"}"""
 
 struct MyType
     a::Int
@@ -11,9 +12,7 @@ end
 
 StructTypes.StructType(::Type{MyType}) = StructTypes.Struct()
 
-hello_world = JSON3.read(json_string, MyType)
+hello_world = JSON.parse(json_string)
 
 println(hello_world)
-
-JSON3.write(hello_world)
 
