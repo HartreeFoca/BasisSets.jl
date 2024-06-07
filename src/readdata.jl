@@ -74,22 +74,32 @@ for key in keys(res)
     end
 end
 
-Dict(keys0 .=> v0)
+basis0 = Dict(keys0 .=> v0)
+basis1 = Dict(keys1 .=> v1)
 
-comparison = []
+comparison0 = []
+comparison1 = []
 
-file = open("diff.txt", "w")
+file0 = open("diffV0.txt", "w")
+file1 = open("diffV1.txt", "w")
 
 for i in eachindex(keys0)
     #println(cmp(lowercase(keys0[i]), lowercase(v0[i])))
-    push!(comparison, cmp(lowercase(keys0[i]), lowercase(v0[i])))
+    push!(comparison0, cmp(lowercase(keys0[i]), lowercase(v0[i])))
     if cmp(lowercase(keys0[i]), lowercase(v0[i])) != 0
         println("$(keys0[i]) != $(v0[i])")
-        write(file, "$(lowercase(keys0[i])) != $(lowercase(v0[i]))\n")
+        write(file0, "$(lowercase(keys0[i])) != $(lowercase(v0[i]))\n")
     end
 end
 
-close(file)
+for i in eachindex(keys1)
+    #println(cmp(lowercase(keys0[i]), lowercase(v0[i])))
+    push!(comparison1, cmp(lowercase(keys1[i]), lowercase(v1[i])))
+    if cmp(lowercase(keys1[i]), lowercase(v1[i])) != 0
+        println("$(keys1[i]) != $(v1[i])")
+        write(file1, "$(lowercase(keys1[i])) != $(lowercase(v1[i]))\n")
+    end
+end
 
-println(comparison)
-Dict(keys0 .=> v0)
+close(file0)
+close(file1)
