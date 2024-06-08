@@ -42,13 +42,14 @@ res = getdir(final, 2)
 
 println("$(root)/data/METADATA.json")
 
-function read_json(file)
+function readjson(file)
     open(file,"r") do f
         return JSON.parse(f)
     end
 end
 
-res = read_json("$(root)/data/METADATA.json")
+res = readjson("$(root)/data/METADATA.json")
+println(res["cc-pv(5+d)z"])
 
 v0 = []
 v1 = []
@@ -56,19 +57,26 @@ v1 = []
 keys0 = []
 keys1 = []
 
+function _getbasename(metadata, key, version)
+    name = metadata[key]["versions"][version]["file_relpath"]
+    basename = split(name, ".")[1]
+
+    return basename
+end
+
 for key in keys(res)
     versions = keys(res[key]["versions"])
 
     for version in versions
         if version == "0"
             push!(keys0, key)
-            name = res[key]["versions"][version]["file_relpath"]
-            basename = split(name, ".")[1]
+            basename = _getbasename(res, key, version)
+
             push!(v0, basename)
         else
             push!(keys1, key)
-            name = res[key]["versions"][version]["file_relpath"]
-            basename = split(name, ".")[1]
+            basename = _getbasename(res, key, version)
+
             push!(v1, basename)
         end
     end
@@ -101,5 +109,22 @@ for i in eachindex(keys1)
     end
 end
 
-close(file0)
-close(file1)
+function _getversionfile(keys, v, filename)
+
+    basis = Dict(keys .=> v)
+    comparison = []
+
+    file = open(filename, "w")
+
+    for i in eachindex(keys)
+        #println(cmp(lowercase(keys[i]), lowercase(v[i])))
+        push!(comparison, cmp(lowercase(keys[i]), lowercase(v[i])))
+
+        if cmp(lowercase(keys[i]), lowercase(v[i])) != 0
+            println("$(keys[i]) != $(v[i])")
+            write(file, "$(lowercase(keys[i])) != $(lowercase(v[i]))\n")
+        end
+    end
+
+    close(file)
+end
