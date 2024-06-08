@@ -99,16 +99,35 @@ end
 
 basis = _getversionfile(keys0, v0, "diffV0.txt")
 
+function _msg(guesses)
+    header = "Your request was not found. Did you mean any of these basis sets: "
+
+    for guess in guesses
+        header *= "$guess "
+    end
+
+    return header
+end
+
 function lookup(correct)
     guesses = []
+    guess = ""
 
     for key in keys(basis)
         if levenshtein(key, correct) < 3
             push!(guesses, key)
+        elseif levenshtein(key, correct) == 0
+            guess = key
         end
     end
 
-    return guesses
+    if guess != ""
+        msg = "Your request was found: $guess"
+    else
+        msg = _msg(guesses)
+    end
+
+    return msg
 end
 
 println(lookup("cc-pv(5d)z"))
