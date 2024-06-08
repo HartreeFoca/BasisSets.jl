@@ -3,7 +3,7 @@ using JSON3
 
 root = pwd()
 
-println("$(root)/data/METADATA.json")
+#println("$(root)/data/METADATA.json")
 
 function readjson(file)
     open(file,"r") do f
@@ -12,7 +12,6 @@ function readjson(file)
 end
 
 res = readjson("$(root)/data/METADATA.json")
-println(res["cc-pv(5+d)z"])
 
 v0 = []
 v1 = []
@@ -56,12 +55,14 @@ function _getversionfile(keys, v, filename)
         push!(comparison, cmp(lowercase(keys[i]), lowercase(v[i])))
 
         if cmp(lowercase(keys[i]), lowercase(v[i])) != 0
-            println("$(keys[i]) != $(v[i])")
+            #println("$(keys[i]) != $(v[i])")
             write(file, "$(lowercase(keys[i])) != $(lowercase(v[i]))\n")
         end
     end
 
     close(file)
+
+    return basis
 end
 
 function levenshtein(guess, correct)
@@ -91,9 +92,25 @@ function levenshtein(guess, correct)
 
 end
 
-levenshtein("hello", "hello")
 
 
-#_getversionfile(keys0, v0, "diffV0.txt")
+#levenshtein("hello", "hello")
+
+
+basis = _getversionfile(keys0, v0, "diffV0.txt")
+
+function lookup(correct)
+    guesses = []
+
+    for key in keys(basis)
+        if levenshtein(key, correct) < 3
+            push!(guesses, key)
+        end
+    end
+
+    return guesses
+end
+
+println(lookup("cc-pv(5d)z"))
 #_getversionfile(keys1, v1, "diffV1.txt")
 
