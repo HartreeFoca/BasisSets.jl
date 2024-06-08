@@ -1,44 +1,7 @@
-using JSON3
 using JSON
-
-function transformbasisname(root, name, version="1")
-    name = lowercase(name)
-    name = string(name, ".$version.table.json")
-    
-    basis = joinpath(root, "data", name)
-
-    path = joinpath(root, "data")
-
-    #name = replace(name, "/" => "_sl_")
-    #name = replace(name, "*" => "_st_")
-
-    return [path, basis]
-end
-
-function _getelement(data, element)
-    return data["elements"][element]
-end
-
-function getdir(dir, element)
-    path = dir[1]
-    basis = dir[2]
-    res = JSON3.read(basis)
-    
-    databranchpath = joinpath(path, res["elements"][element])
-    databranch = JSON3.read(databranchpath)["elements"][element]["components"]
-
-    data = JSON3.read(joinpath(root, "data", databranch[1]))
-
-    out = _getelement(data, element)
-
-    return out
-end
+using JSON3
 
 root = pwd()
-
-final = transformbasisname(root, "MIDI", "0")
-
-res = getdir(final, 2)
 
 println("$(root)/data/METADATA.json")
 
@@ -101,5 +64,36 @@ function _getversionfile(keys, v, filename)
     close(file)
 end
 
-_getversionfile(keys0, v0, "diffV0.txt")
-_getversionfile(keys1, v1, "diffV1.txt")
+function levenshtein(guess, correct)
+    m = length(guess)
+    n = length(correct)
+    d = zeros(Int, m+1, n+1)
+
+    for i in range(0, m)
+        d[i+1, 1] = i
+    end
+
+    for j in range(0, n)
+        d[1, j+1] = j
+    end
+
+    for j in range(1, n)
+        for i in range(1, m)
+            if guess[i] == correct[j]
+                d[i+1, j+1] = d[i, j]
+            else
+                d[i+1, j+1] = min(d[i, j+1] + 1, d[i+1, j] + 1, d[i, j] + 1)
+            end
+        end
+    end
+
+    return d[m+1, n+1]
+
+end
+
+levenshtein("hello", "hello")
+
+
+#_getversionfile(keys0, v0, "diffV0.txt")
+#_getversionfile(keys1, v1, "diffV1.txt")
+
