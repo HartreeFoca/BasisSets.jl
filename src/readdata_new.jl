@@ -1,23 +1,11 @@
 using JSON
 using JSON3
 
-root = pwd()
-
-#println("$(root)/data/METADATA.json")
-
 function readjson(file)
     open(file,"r") do f
         return JSON.parse(f)
     end
 end
-
-res = readjson("$(root)/data/METADATA.json")
-
-v0 = []
-v1 = []
-
-keys0 = []
-keys1 = []
 
 function _getbasename(metadata, key, version)
     name = metadata[key]["versions"][version]["file_relpath"]
@@ -26,26 +14,7 @@ function _getbasename(metadata, key, version)
     return basename
 end
 
-for key in keys(res)
-    versions = keys(res[key]["versions"])
-
-    for version in versions
-        if version == "0"
-            push!(keys0, key)
-            basename = _getbasename(res, key, version)
-
-            push!(v0, basename)
-        else
-            push!(keys1, key)
-            basename = _getbasename(res, key, version)
-
-            push!(v1, basename)
-        end
-    end
-end
-
 function _getversionfile(keys, v, filename)
-
     basis = Dict(keys .=> v)
     comparison = []
 
@@ -92,13 +61,6 @@ function levenshtein(guess, correct)
 
 end
 
-
-
-#levenshtein("hello", "hello")
-
-
-basis = _getversionfile(keys0, v0, "diffV0.txt")
-
 function _msg(guesses)
     header = "Your request was not found. Did you mean any of these basis sets: "
 
@@ -130,6 +92,45 @@ function lookup(correct)
     return msg
 end
 
-println(lookup("cc-pv(5d)z"))
-#_getversionfile(keys1, v1, "diffV1.txt")
+root = pwd()
 
+res = readjson("$(root)/data/METADATA.json")
+
+v0 = []
+v1 = []
+
+keys0 = []
+keys1 = []
+
+for key in keys(res)
+    versions = keys(res[key]["versions"])
+
+    for version in versions
+        if version == "0"
+            push!(keys0, key)
+            basename = _getbasename(res, key, version)
+
+            push!(v0, basename)
+        else
+            push!(keys1, key)
+            basename = _getbasename(res, key, version)
+
+            push!(v1, basename)
+        end
+    end
+end
+
+basis0 = _getversionfile(keys0, v0, "$(root)/data/v0.txt")
+basis1 = _getversionfile(keys1, v1, "$(root)/data/v1.txt")
+
+for el in keys(basis0)
+    fil = res[el]["versions"]["0"]["file_relpath"]
+    files = collect(values(readjson("$(root)/data/$(fil)")["elements"]))
+    println(collect(keys(readjson("$(root)/data/$(files[1])")["elements"])))
+end
+
+
+#a = collect(readjson("$(root)/data/$(files[1])")["elements"]["17"]["components"])
+
+#println(readjson("$(root)/data/$(files[1])")["elements"])
+#println(readjson("$(root)/data/$(a)")["elements"]["17"]["electron_shells"][1]["region"])
