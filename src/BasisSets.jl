@@ -7,6 +7,7 @@ module BasisSets
     include("periodictable.jl")
     include("molecule.jl")
     include("parser.jl")
+    include("getdata.jl")
 
     export Atom
     export getatom
