@@ -98,6 +98,40 @@ function getfilefrombasis(family, bs)
     return PATH * file
 end
 
-files = getmetadata(dat[1])
+function getbasis(family, bs)
 
-print(getfilefrombasis("ahlrichs", "AHLRICHS_TZV"))
+    file = getfilefrombasis(family, bs)
+    rd = JSON3.read(file)
+
+    return rd
+end
+
+function getelements(family, bs)
+
+    rd = getbasis(family, bs)
+    elements = rd["elements"]
+
+    return elements
+end
+
+function getelementfile(family, bs, element)
+
+    rd = getbasis(family, bs)
+    elsection = rd["elements"][element]
+
+    components = values(elsection["components"])
+
+    return components
+end
+
+file = getfilefrombasis("ahlrichs", "def2-SVPD")
+println(file)
+
+rd = JSON3.read(file)
+println(rd)
+
+println(getbasisfromfamily(dat[1]))
+
+println(getelements("ahlrichs", "def2-SV(P)"))
+
+#println(getelementfile("ahlrichs", "def2-SVP", 11))
