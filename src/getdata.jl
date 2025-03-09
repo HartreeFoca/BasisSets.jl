@@ -90,7 +90,7 @@ function getfilefrombasis(family, bs)
 
     metadata = getmetadata(family)
     basis = metadata[!, 1]
-    files = metadata[!, 2]
+    files = metadata[!, 3]
 
     posfile = findall(basis .== bs)
     file = files[posfile[1]]
@@ -124,14 +124,16 @@ function getelementfile(family, bs, element)
     return components
 end
 
-file = getfilefrombasis("ahlrichs", "def2-SVPD")
+println(getmetadata("ahlrichs"))
+
+file = getfilefrombasis("ahlrichs", "AHLRICHS_TZV.0")
 println(file)
 
 rd = JSON3.read(file)
-println(rd)
+#println(rd)
 
-println(getbasisfromfamily(dat[1]))
+#println(getbasisfromfamily(dat[1]))
 
-println(getelements("ahlrichs", "def2-SV(P)"))
+println(getelements("ahlrichs", "AHLRICHS_TZV.0"))
 
 #println(getelementfile("ahlrichs", "def2-SVP", 11))
