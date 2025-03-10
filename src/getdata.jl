@@ -4,6 +4,7 @@ using DataFrames
 using CSV
 
 dat = [
+"acvxz-j", 
 "ahlrichs", 
 "ahlrichs_dhf", 
 "ahlrichs_fit", 
@@ -13,6 +14,7 @@ dat = [
 "aug_mcc", 
 "binning", 
 "blaudeau", 
+"cadpac", 
 "ccj", 
 "cologne", 
 "crenb", 
@@ -49,13 +51,13 @@ dat = [
 "pob", 
 "pople", 
 "pople_mod", 
-"ranasinghe", 
+"ranasinghe",
 "sadlej", 
 "sapporo", 
 "sarc", 
 "sauer_j", 
 "sbkjc", 
-"sigmaNZ", 
+"sigmanz", 
 "sto", 
 "stuttgart", 
 "truhlar", 
@@ -66,24 +68,53 @@ dat = [
 
 global PATH = "data/"
 
-function getmetadata(family)
+function getmenu(family)
 
-    csvfile = PATH * family * ".csv"
+    csvfile = PATH * family * "-menu.csv"
     df = CSV.read(csvfile, DataFrame)
 
     return df 
 end
 
-function getbasisavailable()
+function getbasisfamilyavailable()
     return dat
 end
 
 function getbasisfromfamily(family)
 
-    metadata = getmetadata(family)
+    metadata = getmenu(family)
     basis = metadata[!, 1]
 
     return basis
+end
+
+function getmetadata(basis)
+
+    rd = JSON3.read(PATH * "METADATA.json")
+    bsmd = rd[basis]
+
+    return bsmd
+end
+
+function _getversions(basis)
+    
+    metadata = getmetadata(basis)
+    versions = collect(keys(metadata["versions"]))
+
+    return (metadata, versions)
+end
+
+function getelements(basis)
+
+    metadata, versions = _getversions(basis)
+    elements = []
+
+    for v in versions
+        velements = collect(metadata["versions"][v]["elements"])
+        push!(elements, velements)
+    end
+
+    return elements
 end
 
 function getfilefrombasis(family, bs)
@@ -106,14 +137,6 @@ function getbasis(family, bs)
     return rd
 end
 
-function getelements(family, bs)
-
-    rd = getbasis(family, bs)
-    elements = rd["elements"]
-
-    return elements
-end
-
 function getelementfile(family, bs, element)
 
     rd = getbasis(family, bs)
@@ -124,16 +147,15 @@ function getelementfile(family, bs, element)
     return components
 end
 
-println(getmetadata("ahlrichs"))
 
-file = getfilefrombasis("ahlrichs", "AHLRICHS_TZV.0")
-println(file)
+#file = getfilefrombasis("ahlrichs", "AHLRICHS_TZV.0")
+#println(file)
 
-rd = JSON3.read(file)
+#rd = JSON3.read(file)
 #println(rd)
 
 #println(getbasisfromfamily(dat[1]))
 
-println(getelements("ahlrichs", "AHLRICHS_TZV.0"))
+#println(getelements("ahlrichs", "AHLRICHS_TZV.0"))
 
 #println(getelementfile("ahlrichs", "def2-SVP", 11))
