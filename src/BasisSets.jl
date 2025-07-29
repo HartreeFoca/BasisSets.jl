@@ -20,6 +20,7 @@ module BasisSets
         getatom,
         Molecule,
         molecule,
+        @molecule,
         getatoms,
         doublefactorial,
         normalization,
