@@ -1,0 +1,356 @@
+ Entering Gaussian System, Link 0=g16
+ Input=N2-hf-sto-3g.gjf
+ Output=N2-hf-sto-3g.log
+ Initial command:
+ /Users/leticiamadureira/macOS/g16/l1.exe "/Users/leticiamadureira/macOS/g16/Scratch/Gau-48715.inp" -scrdir="/Users/leticiamadureira/macOS/g16/Scratch/"
+ Entering Link 1 = /Users/leticiamadureira/macOS/g16/l1.exe PID=     48716.
+  
+ Copyright (c) 1988-2019, Gaussian, Inc.  All Rights Reserved.
+  
+ This is part of the Gaussian(R) 16 program.  It is based on
+ the Gaussian(R) 09 system (copyright 2009, Gaussian, Inc.),
+ the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
+ the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
+ the Gaussian(R) 94 system (copyright 1995, Gaussian, Inc.),
+ the Gaussian 92(TM) system (copyright 1992, Gaussian, Inc.),
+ the Gaussian 90(TM) system (copyright 1990, Gaussian, Inc.),
+ the Gaussian 88(TM) system (copyright 1988, Gaussian, Inc.),
+ the Gaussian 86(TM) system (copyright 1986, Carnegie Mellon
+ University), and the Gaussian 82(TM) system (copyright 1983,
+ Carnegie Mellon University). Gaussian is a federally registered
+ trademark of Gaussian, Inc.
+  
+ This software contains proprietary and confidential information,
+ including trade secrets, belonging to Gaussian, Inc.
+  
+ This software is provided under written license and may be
+ used, copied, transmitted, or stored only in accord with that
+ written license.
+  
+ The following legend is applicable only to US Government
+ contracts under FAR:
+  
+                    RESTRICTED RIGHTS LEGEND
+  
+ Use, reproduction and disclosure by the US Government is
+ subject to restrictions as set forth in subparagraphs (a)
+ and (c) of the Commercial Computer Software - Restricted
+ Rights clause in FAR 52.227-19.
+  
+ Gaussian, Inc.
+ 340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
+  
+  
+ ---------------------------------------------------------------
+ Warning -- This program may not be used in any manner that
+ competes with the business of Gaussian, Inc. or will provide
+ assistance to any competitor of Gaussian, Inc.  The licensee
+ of this program is prohibited from giving any competitor of
+ Gaussian, Inc. access to this program.  By using this program,
+ the user acknowledges that Gaussian, Inc. is engaged in the
+ business of creating and licensing software in the field of
+ computational chemistry and represents and warrants to the
+ licensee that it is not a competitor of Gaussian, Inc. and that
+ it will not use this program in any manner prohibited above.
+ ---------------------------------------------------------------
+  
+
+ Cite this work as:
+ Gaussian 16, Revision C.01,
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, 
+ G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, 
+ J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, 
+ J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, 
+ F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, 
+ T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, 
+ G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, 
+ J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, 
+ T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, 
+ F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, 
+ V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, 
+ K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, 
+ J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, 
+ J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, 
+ J. B. Foresman, and D. J. Fox, Gaussian, Inc., Wallingford CT, 2019.
+ 
+ ******************************************
+ Gaussian 16:  EM64M-G16RevC.01  3-Jul-2019
+                20-Aug-2025 
+ ******************************************
+ %NProcShared=7
+ Will use up to    7 processors via shared memory.
+ %chk=N2-hf-sto-3g.chk
+ -------------------------------------------
+ #p hf/sto-3g scf=yqc nosymm extralinks=l608
+ -------------------------------------------
+ 1/38=1,172=1/1;
+ 2/12=2,15=1,17=6,18=5,40=1/2;
+ 3/6=3,11=9,25=1,30=1/1,2,3;
+ 4//1;
+ 5/5=2,8=4,13=1,38=1/8,2,8;
+ 6/7=2,8=2,9=2,10=2,28=1/1,8;
+ 99/5=1,9=1/99;
+ Leave Link    1 at Wed Aug 20 21:52:41 2025, MaxMem=           0 cpu:               0.1 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l101.exe)
+ ------------
+ N2-hf-sto-3g
+ ------------
+ Symbolic Z-matrix:
+ Charge =  0 Multiplicity = 1
+ N                     0.73      0.        0. 
+ N                    -0.73      0.        0. 
+ 
+ ITRead=  0  0
+ MicOpt= -1 -1
+ NAtoms=      2 NQM=        2 NQMF=       0 NMMI=      0 NMMIF=      0
+                NMic=       0 NMicF=      0.
+                    Isotopes and Nuclear Properties:
+ (Nuclear quadrupole moments (NQMom) in fm**2, nuclear magnetic moments (NMagM)
+  in nuclear magnetons)
+
+  Atom         1           2
+ IAtWgt=          14          14
+ AtmWgt=  14.0030740  14.0030740
+ NucSpn=           2           2
+ AtZEff=  -0.0000000  -0.0000000
+ NQMom=    2.0440000   2.0440000
+ NMagM=    0.4037610   0.4037610
+ AtZNuc=   7.0000000   7.0000000
+ Leave Link  101 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.4 elap:               0.1
+ (Enter /Users/leticiamadureira/macOS/g16/l202.exe)
+                          Input orientation:                          
+ ---------------------------------------------------------------------
+ Center     Atomic      Atomic             Coordinates (Angstroms)
+ Number     Number       Type             X           Y           Z
+ ---------------------------------------------------------------------
+      1          7           0        0.730000    0.000000    0.000000
+      2          7           0       -0.730000    0.000000    0.000000
+ ---------------------------------------------------------------------
+ Symmetry turned off by external request.
+ Stoichiometry    N2
+ Framework group  D*H[C*(N.N)]
+ Deg. of freedom     1
+ Full point group                 D*H     NOp   8
+ Rotational constants (GHZ):           0.0000000          33.8624284          33.8624284
+ Leave Link  202 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.0 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l301.exe)
+ Standard basis: STO-3G (5D, 7F)
+ Ernie: Thresh=  0.10000D-02 Tol=  0.10000D-05 Strict=F.
+    10 basis functions,    30 primitive gaussians,    10 cartesian basis functions
+     7 alpha electrons        7 beta electrons
+       nuclear repulsion energy        17.7600570788 Hartrees.
+ IExCor=    0 DFT=F Ex=HF Corr=None ExCW=0 ScaHFX=  1.000000
+ ScaDFX=  1.000000  1.000000  1.000000  1.000000 ScalE2=  1.000000  1.000000
+ IRadAn=      5 IRanWt=     -1 IRanGd=            0 ICorTp=0 IEmpDi=  4
+ NAtoms=    2 NActive=    2 NUniq=    2 SFac= 1.00D+00 NAtFMM=   60 NAOKFM=F Big=F
+ Integral buffers will be    131072 words long.
+ Raffenetti 1 integral format.
+ Two-electron integral symmetry is turned off.
+ Leave Link  301 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.1 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l302.exe)
+ NPDir=0 NMtPBC=     1 NCelOv=     1 NCel=       1 NClECP=     1 NCelD=      1
+         NCelK=      1 NCelE2=     1 NClLst=     1 CellRange=     0.0.
+ One-electron integrals computed using PRISM.
+ NBasis=    10 RedAO= T EigKep=  4.05D-01  NBF=    10
+ NBsUse=    10 1.00D-06 EigRej= -1.00D+00 NBFU=    10
+ Leave Link  302 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.2 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l303.exe)
+ DipDrv:  MaxL=1.
+ Leave Link  303 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.1 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l401.exe)
+ ExpMin= 2.86D-01 ExpMax= 9.91D+01 ExpMxC= 9.91D+01 IAcc=3 IRadAn=         5 AccDes= 0.00D+00
+ Harris functional with IExCor=  205 and IRadAn=       5 diagonalized for initial guess.
+ HarFok:  IExCor=  205 AccDes= 0.00D+00 IRadAn=         5 IDoV= 1 UseB2=F ITyADJ=14
+ ICtDFT=  3500011 ScaDFX=  1.000000  1.000000  1.000000  1.000000
+ FoFCou: FMM=F IPFlag=           0 FMFlag=      100000 FMFlg1=           0
+         NFxFlg=           0 DoJE=T BraDBF=F KetDBF=T FulRan=T
+         wScrn=  0.000000 ICntrl=       500 IOpCl=  0 I1Cent=   200000004 NGrid=           0
+         NMat0=    1 NMatS0=      1 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+ Symmetry not used in FoFCou.
+ Harris En= -107.335554106634    
+ JPrj=0 DoOrth=F DoCkMO=F.
+ Leave Link  401 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.3 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l508.exe)
+ Keep R1 ints in memory in canonical form, NReq=804330.
+ FoFCou: FMM=F IPFlag=           0 FMFlag=           0 FMFlg1=           0
+         NFxFlg=           0 DoJE=F BraDBF=F KetDBF=F FulRan=T
+         wScrn=  0.000000 ICntrl=       600 IOpCl=  0 I1Cent=           0 NGrid=           0
+         NMat0=    1 NMatS0=     55 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+ Symmetry not used in FoFCou.
+ Two-electron integral symmetry not used.
+ Tight linear equation convergence will be used.
+ RHF wavefunction.
+ Linear searches until partial convergence.
+ Full line searches.
+ Iteration   1 EE= -107.306827933459                                    Grad=7.217D-02 Max rot=    2.9237 deg.
+ Gradient too large for Newton-Raphson -- use scaled steepest descent instead.
+ Alpha Gap=     0.540 HL deriv= 1.16D-15
+     ILin= 1 X=0.000D+00 Y=-1.073068279335D+02 DE= 0.00D+00 F= -6.52D-04
+     ILin= 2 X=3.000D-01 Y=-1.073069953933D+02 DE=-1.67D-04 F= -4.65D-04 OKLS=F
+     ILin= 3 X=6.000D-01 Y=-1.073071068046D+02 DE=-2.79D-04 F= -2.78D-04
+     ILin= 4 X=1.200D+00 Y=-1.073071614890D+02 DE=-3.34D-04 F=  9.57D-05
+     Accept linear search using points  3 and  4.
+     An  expanding polynomial of degree  4 produced  0.9644
+ Iteration   2 EE= -107.307166747048     Delta-E=       -0.000338813589 Grad=5.650D-03 Max rot=    0.2285 deg.
+ SCF Done:  E(RHF) =  -107.307166747     a.u. after    2 cycles
+            Convg  =    0.5650D-02                     5 Fock formations.
+              S**2 =  0.0000                  -V/T =  2.0117
+ Leave Link  508 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.3 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l502.exe)
+ Keep R1 ints in memory in canonical form, NReq=803930.
+ FoFCou: FMM=F IPFlag=           0 FMFlag=           0 FMFlg1=           0
+         NFxFlg=           0 DoJE=F BraDBF=F KetDBF=F FulRan=T
+         wScrn=  0.000000 ICntrl=       600 IOpCl=  0 I1Cent=           0 NGrid=           0
+         NMat0=    1 NMatS0=     55 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+ Symmetry not used in FoFCou.
+ Two-electron integral symmetry not used.
+ Closed shell SCF:
+ Using DIIS extrapolation, IDIIS=  1040.
+ NGot=   104857600 LenX=   104854675 LenY=   104853793
+ Requested convergence on RMS density matrix=1.00D-08 within  32 cycles.
+ Requested convergence on MAX density matrix=1.00D-06.
+ Requested convergence on             energy=1.00D-06.
+ No special actions if energy rises.
+
+ Cycle   1  Pass 1  IDiag  1:
+ E= -107.307166747048    
+ DIIS: error= 1.43D-03 at cycle   1 NSaved=   1.
+ NSaved= 1 IEnMin= 1 EnMin= -107.307166747048     IErMin= 1 ErrMin= 1.43D-03
+ ErrMax= 1.43D-03  0.00D+00 EMaxC= 1.00D-01 BMatC= 1.60D-05 BMatP= 1.60D-05
+ IDIUse=3 WtCom= 9.86D-01 WtEn= 1.43D-02
+ Coeff-Com:  0.100D+01
+ Coeff-En:   0.100D+01
+ Coeff:      0.100D+01
+ Gap=     0.540 Goal=   None    Shift=    0.000
+ GapD=    0.540 DampG=2.000 DampE=1.000 DampFc=2.0000 IDamp=-1.
+ RMSDP=6.48D-05 MaxDP=1.68D-04              OVMax= 0.00D+00
+
+ Cycle   2  Pass 1  IDiag  1:
+ E= -107.307168949351     Delta-E=       -0.000002202303 Rises=F Damp=F
+ DIIS: error= 7.17D-05 at cycle   2 NSaved=   2.
+ NSaved= 2 IEnMin= 2 EnMin= -107.307168949351     IErMin= 2 ErrMin= 7.17D-05
+ ErrMax= 7.17D-05  0.00D+00 EMaxC= 1.00D-01 BMatC= 2.95D-08 BMatP= 1.60D-05
+ IDIUse=1 WtCom= 1.00D+00 WtEn= 0.00D+00
+ Coeff-Com: -0.433D-01 0.104D+01
+ Coeff:     -0.433D-01 0.104D+01
+ Gap=     0.540 Goal=   None    Shift=    0.000
+ RMSDP=1.04D-05 MaxDP=3.43D-05 DE=-2.20D-06 OVMax= 0.00D+00
+
+ Cycle   3  Pass 1  IDiag  1:
+ E= -107.307168958417     Delta-E=       -0.000000009066 Rises=F Damp=F
+ DIIS: error= 5.16D-06 at cycle   3 NSaved=   3.
+ NSaved= 3 IEnMin= 3 EnMin= -107.307168958417     IErMin= 3 ErrMin= 5.16D-06
+ ErrMax= 5.16D-06  0.00D+00 EMaxC= 1.00D-01 BMatC= 1.39D-10 BMatP= 2.95D-08
+ IDIUse=1 WtCom= 1.00D+00 WtEn= 0.00D+00
+ Coeff-Com:  0.157D-01-0.366D+00 0.135D+01
+ Coeff:      0.157D-01-0.366D+00 0.135D+01
+ Gap=     0.540 Goal=   None    Shift=    0.000
+ RMSDP=2.95D-06 MaxDP=9.37D-06 DE=-9.07D-09 OVMax= 0.00D+00
+
+ Cycle   4  Pass 1  IDiag  1:
+ E= -107.307168958690     Delta-E=       -0.000000000274 Rises=F Damp=F
+ DIIS: error= 4.37D-11 at cycle   4 NSaved=   4.
+ NSaved= 4 IEnMin= 4 EnMin= -107.307168958690     IErMin= 4 ErrMin= 4.37D-11
+ ErrMax= 4.37D-11  0.00D+00 EMaxC= 1.00D-01 BMatC= 1.80D-20 BMatP= 1.39D-10
+ IDIUse=1 WtCom= 1.00D+00 WtEn= 0.00D+00
+ Coeff-Com: -0.744D-08 0.940D-06-0.465D-05 0.100D+01
+ Coeff:     -0.744D-08 0.940D-06-0.465D-05 0.100D+01
+ Gap=     0.540 Goal=   None    Shift=    0.000
+ RMSDP=2.49D-12 MaxDP=6.41D-12 DE=-2.74D-10 OVMax= 0.00D+00
+
+ SCF Done:  E(RHF) =  -107.307168959     A.U. after    4 cycles
+            NFock=  4  Conv=0.25D-11     -V/T= 2.0117
+ KE= 1.060642944166D+02 PE=-2.881465588099D+02 EE= 5.701503835587D+01
+ Leave Link  502 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.3 elap:               0.1
+ (Enter /Users/leticiamadureira/macOS/g16/l508.exe)
+ QCSCF skips out because SCF is already converged.
+ Leave Link  508 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.0 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l601.exe)
+ Copying SCF densities to generalized density rwf, IOpCl= 0 IROHF=0.
+
+ **********************************************************************
+
+            Population analysis using the SCF Density.
+
+ **********************************************************************
+
+ Alpha  occ. eigenvalues --  -15.43858 -15.43830  -1.16435  -0.77416  -0.44932
+ Alpha  occ. eigenvalues --   -0.38069  -0.38069
+ Alpha virt. eigenvalues --    0.15921   0.15921   0.54854
+          Condensed to atoms (all electrons):
+               1          2
+     1  N    6.581671   0.418329
+     2  N    0.418329   6.581671
+ Mulliken charges:
+               1
+     1  N    0.000000
+     2  N   -0.000000
+ Sum of Mulliken charges =   0.00000
+ Mulliken charges with hydrogens summed into heavy atoms:
+               1
+     1  N    0.000000
+     2  N   -0.000000
+ Electronic spatial extent (au):  <R**2>=             48.9276
+ Charge=              0.0000 electrons
+ Dipole moment (field-independent basis, Debye):
+    X=              0.0000    Y=             -0.0000    Z=              0.0000  Tot=              0.0000
+ Quadrupole moment (field-independent basis, Debye-Ang):
+   XX=            -11.3380   YY=             -9.3182   ZZ=             -9.3182
+   XY=             -0.0000   XZ=              0.0000   YZ=              0.0000
+ Traceless Quadrupole moment (field-independent basis, Debye-Ang):
+   XX=             -1.3465   YY=              0.6733   ZZ=              0.6733
+   XY=             -0.0000   XZ=              0.0000   YZ=              0.0000
+ Octapole moment (field-independent basis, Debye-Ang**2):
+  XXX=              0.0000  YYY=             -0.0000  ZZZ=              0.0000  XYY=              0.0000
+  XXY=             -0.0000  XXZ=             -0.0000  XZZ=              0.0000  YZZ=             -0.0000
+  YYZ=              0.0000  XYZ=              0.0000
+ Hexadecapole moment (field-independent basis, Debye-Ang**3):
+ XXXX=            -40.1598 YYYY=             -5.8110 ZZZZ=             -5.8110 XXXY=             -0.0000
+ XXXZ=             -0.0000 YYYX=             -0.0000 YYYZ=              0.0000 ZZZX=              0.0000
+ ZZZY=              0.0000 XXYY=             -7.0482 XXZZ=             -7.0482 YYZZ=             -1.9370
+ XXYZ=              0.0000 YYXZ=              0.0000 ZZXY=             -0.0000
+ N-N= 1.776005707882D+01 E-N=-2.881465588099D+02  KE= 1.060642944166D+02
+ No NMR shielding tensors so no spin-rotation constants.
+ Leave Link  601 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.2 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l608.exe)
+ IExCor=  100 DFT=F Ex=HF Corr=None ExCW=0 ScaHFX=  1.000000
+ ScaDFX=  1.000000  1.000000  1.000000  1.000000 ScalE2=  1.000000  1.000000
+ IRadAn=      4 IRanWt=     -1 IRanGd=            0 ICorTp=0 IEmpDi=  4
+ A total of   1 models will be applied.
+
+ Results using SCF Density:
+ FoFJK:  IHMeth= 0 ICntrl=     500 DoSepK=F KAlg= 0 I1Cent=           0 FoldK=F
+ IRaf=         0 NMat=       1 IRICut=       1 DoRegI=T DoRafI=F ISym2E= 0 IDoP0=0 IntGTp=1.
+ FoFCou: FMM=F IPFlag=           0 FMFlag=           0 FMFlg1=           0
+         NFxFlg=           0 DoJE=F BraDBF=F KetDBF=F FulRan=T
+         wScrn=  0.000000 ICntrl=       500 IOpCl=  1 I1Cent=           0 NGrid=           0
+         NMat0=    1 NMatS0=      1 NMatT0=    0 NMatD0=    1 NMtDS0=    0 NMtDT0=    0
+ Symmetry not used in FoFCou.
+ ET=  106.064294 EV= -288.146559 EJ=   69.857669 EK=  -12.842631 ENuc=   17.760057
+
+ A=0 I=   1 IExCor=  100 IRadAn=       4 ScaHFX=  1.000000
+            ScaDFX=  1.000000  1.000000  1.000000  1.000000
+ HFx=  0.000000  0.000000  1.000000  0.000000  0.000000
+ DFx=  0.000000  0.000000  1.000000  0.000000  0.000000
+ DFc=  0.000000  0.000000  1.000000  0.000000  0.000000
+            ENTVJ=  -94.464538 Ex=  -12.842631 Ec=    0.000000 ETotM2e= -164.3222073145  ETot= -107.3071689587
+ Leave Link  608 at Wed Aug 20 21:52:41 2025, MaxMem=   104857600 cpu:               0.2 elap:               0.0
+ (Enter /Users/leticiamadureira/macOS/g16/l9999.exe)
+
+ Test job not archived.
+ 1\1\GINC-LETICIAS-MACBOOK-PRO-2\SP\RHF\STO-3G\N2\ROOT\20-Aug-2025\0\\#
+ p hf/sto-3g scf=yqc nosymm extralinks=l608\\N2-hf-sto-3g\\0,1\N,0,0.73
+ ,0.,0.\N,0,-0.73,0.,0.\\Version=EM64M-G16RevC.01\HF=-107.307169\RMSD=2
+ .492e-12\Dipole=0.,0.,0.\Quadrupole=-1.0011138,0.5005569,0.5005569,0.,
+ 0.,0.\PG=D*H [C*(N1.N1)]\\@
+
+
+ MICHAEL FARADAY, ASKED BY A POLITICIAN WHAT GOOD
+ HIS ELECTRICAL DISCOVERIES WERE, REPLIED 
+ "AT PRESENT I DO NOT KNOW, BUT ONE DAY YOU WILL BE
+ ABLE TO TAX THEM."
+ Job cpu time:       0 days  0 hours  0 minutes  0.5 seconds.
+ Elapsed time:       0 days  0 hours  0 minutes  0.4 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+ Normal termination of Gaussian 16 at Wed Aug 20 21:52:41 2025.

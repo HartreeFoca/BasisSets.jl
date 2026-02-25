@@ -1,0 +1,5 @@
+!CCSD(T) def2-TZVP def2/JK def2-TZVP/C Opt
+*xyz 0 1
+H 0.0 0.0 0.0
+H 0.0 0.0 0.74
+*
