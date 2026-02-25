@@ -4,13 +4,20 @@ abstract type AbstractShell end
 
 struct Primitive{T<:Real}
     α :: T         
-    d :: T         
+    d :: T      
 end
 
 struct Shell{T<:Real} <: AbstractShell
     R      :: SVector{3,T}
     ℓ      :: Int           
+    m      :: Int
+    n      :: Int
     prims  :: Vector{Primitive{T}}
+end
+
+struct RelativisticShell{T<:Real} <: AbstractShell
+    shell  :: Shell{T}
+    ECP    :: SVector{3,T}
 end
 
 struct ContractedGaussianBasis{T<:Real} <: AbstractBasisSet

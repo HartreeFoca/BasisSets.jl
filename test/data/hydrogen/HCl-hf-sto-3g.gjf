@@ -1,0 +1,13 @@
+%NProcShared=7
+%chk=HCl-hf-sto-3g.chk
+#p hf/sto-3g scf=yqc nosymm extralinks=l608  
+
+HCl-hf-sto-3g
+
+0 1
+Cl	   0.038031	   0.000000	   0.000000
+H	  -1.337609	   0.000000	   0.000000
+ 
+100
+ 
+ 
